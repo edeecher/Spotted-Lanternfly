@@ -1,6 +1,4 @@
-﻿,,,,,,,,,,,Topton 2022 Egg Hatch Sampling.  ,,,,,,,,
-,,,,,,,,,,,,,,,,,,,
-Sample_Round,Tree,Eggmass,Sub_Eggmass,Branch_Direction,Field_Egg_Numbers,Pic_Egg_Numbers,Hatchable_Eggs,Ground_Height,Incline_Angle,Deposition_Week,Date,Open_Eggs_Unhatched_Start,Decrease_Eggs_Present_Last_Count,Total_Number_Hatched_Field,Total_Number_Good_Remaining,Total_Number_Hatched_Pics,Total_Hatched,Percent_Eggs_Hatched,Cumlative_GDD
+﻿Sample_Round,Tree,Eggmass,Sub_Eggmass,Branch_Direction,Field_Egg_Numbers,Pic_Egg_Numbers,Hatchable_Eggs,Ground_Height,Incline_Angle,Deposition_Week,Date,Open_Eggs_Unhatched_Start,Decrease_Eggs_Present_Last_Count,Total_Number_Hatched_Field,Total_Number_Good_Remaining,Total_Number_Hatched_Pics,Total_Hatched,Percent_Eggs_Hatched,Cumlative_GDD
 1,705,A,1,57,31,NA,NA,79,169.2,10/12/21,05/16/22,0,0,0,31,NA,NA,NA,220
 1,705,B,1,137,2,NA,NA,70,157.4,10/25/21,05/16/22,NA,NA,0,NA,NA,NA,NA,163
 1,705,C,1,207,39,NA,NA,75,146.2,10/25/21,05/16/22,NA,NA,0,NA,NA,NA,NA,163
