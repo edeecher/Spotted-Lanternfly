@@ -1,0 +1,4421 @@
+﻿Plant ID,Treatment,Variety,Day,InsectCount,PreSprayCount
+CF11,Crptonyx,Cabernet franc,0,41,41
+CF12,Crptonyx,Cabernet franc,0,19,19
+CF13,Crptonyx,Cabernet franc,0,16,16
+CF14,Crptonyx,Cabernet franc,0,29,29
+CF15,Crptonyx,Cabernet franc,0,19,19
+CF16,Crptonyx,Cabernet franc,0,32,32
+CF17,Crptonyx,Cabernet franc,0,15,15
+CF18,Crptonyx,Cabernet franc,0,14,14
+CF19,Crptonyx,Cabernet franc,0,8,8
+CF110,Crptonyx,Cabernet franc,0,2,2
+CF111,Crptonyx,Cabernet franc,0,23,23
+CF112,Crptonyx,Cabernet franc,0,11,11
+CF113,Crptonyx,Cabernet franc,0,22,22
+CF114,Crptonyx,Cabernet franc,0,17,17
+CF115,Crptonyx,Cabernet franc,0,31,31
+CF116,Crptonyx,Cabernet franc,0,46,46
+CF117,Crptonyx,Cabernet franc,0,69,69
+CF61,Crptonyx,Cabernet franc,0,19,19
+CF62,Crptonyx,Cabernet franc,0,3,3
+CF63,Crptonyx,Cabernet franc,0,13,13
+CF64,Crptonyx,Cabernet franc,0,10,10
+CF65,Crptonyx,Cabernet franc,0,8,8
+CF66,Crptonyx,Cabernet franc,0,5,5
+CF67,Crptonyx,Cabernet franc,0,0,0
+CF68,Crptonyx,Cabernet franc,0,0,0
+CF69,Crptonyx,Cabernet franc,0,2,2
+CF610,Crptonyx,Cabernet franc,0,1,1
+CF611,Crptonyx,Cabernet franc,0,0,0
+CF612,Crptonyx,Cabernet franc,0,3,3
+CF613,Crptonyx,Cabernet franc,0,3,3
+CF614,Crptonyx,Cabernet franc,0,6,6
+CF615,Crptonyx,Cabernet franc,0,13,13
+CF616,Crptonyx,Cabernet franc,0,12,12
+CF617,Crptonyx,Cabernet franc,0,9,9
+CF121,Crptonyx,Cabernet franc,0,21,21
+CF122,Crptonyx,Cabernet franc,0,7,7
+CF123,Crptonyx,Cabernet franc,0,6,6
+CF124,Crptonyx,Cabernet franc,0,4,4
+CF125,Crptonyx,Cabernet franc,0,3,3
+CF126,Crptonyx,Cabernet franc,0,1,1
+CF127,Crptonyx,Cabernet franc,0,1,1
+CF128,Crptonyx,Cabernet franc,0,1,1
+CF129,Crptonyx,Cabernet franc,0,1,1
+CF1210,Crptonyx,Cabernet franc,0,1,1
+CF1211,Crptonyx,Cabernet franc,0,3,3
+CF1212,Crptonyx,Cabernet franc,0,4,4
+CF1213,Crptonyx,Cabernet franc,0,1,1
+CF1214,Crptonyx,Cabernet franc,0,1,1
+CF1215,Crptonyx,Cabernet franc,0,0,0
+CF1216,Crptonyx,Cabernet franc,0,1,1
+CF1217,Crptonyx,Cabernet franc,0,4,4
+CF171,Crptonyx,Cabernet franc,0,17,17
+CF172,Crptonyx,Cabernet franc,0,6,6
+CF173,Crptonyx,Cabernet franc,0,5,5
+CF174,Crptonyx,Cabernet franc,0,5,5
+CF175,Crptonyx,Cabernet franc,0,2,2
+CF176,Crptonyx,Cabernet franc,0,1,1
+CF177,Crptonyx,Cabernet franc,0,2,2
+CF178,Crptonyx,Cabernet franc,0,6,6
+CF179,Crptonyx,Cabernet franc,0,4,4
+CF1710,Crptonyx,Cabernet franc,0,0,0
+CF1711,Crptonyx,Cabernet franc,0,1,1
+CF1712,Crptonyx,Cabernet franc,0,0,0
+CF1713,Crptonyx,Cabernet franc,0,2,2
+CF1714,Crptonyx,Cabernet franc,0,1,1
+CF1715,Crptonyx,Cabernet franc,0,7,7
+CF1716,Crptonyx,Cabernet franc,0,2,2
+CF1717,Crptonyx,Cabernet franc,0,9,9
+CF1718,Crptonyx,Cabernet franc,0,10,10
+CF221,Crptonyx,Cabernet franc,0,71,71
+CF222,Crptonyx,Cabernet franc,0,19,19
+CF223,Crptonyx,Cabernet franc,0,7,7
+CF224,Crptonyx,Cabernet franc,0,11,11
+CF225,Crptonyx,Cabernet franc,0,5,5
+CF226,Crptonyx,Cabernet franc,0,4,4
+CF227,Crptonyx,Cabernet franc,0,6,6
+CF228,Crptonyx,Cabernet franc,0,8,8
+CF229,Crptonyx,Cabernet franc,0,3,3
+CF2210,Crptonyx,Cabernet franc,0,7,7
+CF2211,Crptonyx,Cabernet franc,0,1,1
+CF2212,Crptonyx,Cabernet franc,0,3,3
+CF2213,Crptonyx,Cabernet franc,0,0,0
+CF2214,Crptonyx,Cabernet franc,0,7,7
+CF2215,Crptonyx,Cabernet franc,0,3,3
+CF2216,Crptonyx,Cabernet franc,0,5,5
+CF2217,Crptonyx,Cabernet franc,0,5,5
+CS231,Cortes Maxx,Cabernet Sauv,0,71,71
+CS232,Cortes Maxx,Cabernet Sauv,0,14,14
+CS233,Cortes Maxx,Cabernet Sauv,0,2,2
+CS234,Cortes Maxx,Cabernet Sauv,0,4,4
+CS235,Cortes Maxx,Cabernet Sauv,0,5,5
+CS236,Cortes Maxx,Cabernet Sauv,0,1,1
+CS237,Cortes Maxx,Cabernet Sauv,0,0,0
+CS238,Cortes Maxx,Cabernet Sauv,0,3,3
+CS239,Cortes Maxx,Cabernet Sauv,0,2,2
+CS2310,Cortes Maxx,Cabernet Sauv,0,1,1
+CS2311,Cortes Maxx,Cabernet Sauv,0,0,0
+CS2312,Cortes Maxx,Cabernet Sauv,0,5,5
+CS2313,Cortes Maxx,Cabernet Sauv,0,0,0
+CS2314,Cortes Maxx,Cabernet Sauv,0,0,0
+CS2315,Cortes Maxx,Cabernet Sauv,0,2,2
+CS2316,Cortes Maxx,Cabernet Sauv,0,2,2
+CS2317,Cortes Maxx,Cabernet Sauv,0,2,2
+CS281,Cortes Maxx,Cabernet Sauv,0,44,44
+CS282,Cortes Maxx,Cabernet Sauv,0,10,10
+CS283,Cortes Maxx,Cabernet Sauv,0,8,8
+CS284,Cortes Maxx,Cabernet Sauv,0,4,4
+CS285,Cortes Maxx,Cabernet Sauv,0,2,2
+CS286,Cortes Maxx,Cabernet Sauv,0,4,4
+CS287,Cortes Maxx,Cabernet Sauv,0,1,1
+CS288,Cortes Maxx,Cabernet Sauv,0,1,1
+CS289,Cortes Maxx,Cabernet Sauv,0,0,0
+CS2810,Cortes Maxx,Cabernet Sauv,0,1,1
+CS2811,Cortes Maxx,Cabernet Sauv,0,4,4
+CS2812,Cortes Maxx,Cabernet Sauv,0,2,2
+CS2813,Cortes Maxx,Cabernet Sauv,0,0,0
+CS2814,Cortes Maxx,Cabernet Sauv,0,0,0
+CS2815,Cortes Maxx,Cabernet Sauv,0,1,1
+CS2816,Cortes Maxx,Cabernet Sauv,0,3,3
+CS2817,Cortes Maxx,Cabernet Sauv,0,4,4
+CS331,Cortes Maxx,Cabernet Sauv,0,4,4
+CS332,Cortes Maxx,Cabernet Sauv,0,2,2
+CS333,Cortes Maxx,Cabernet Sauv,0,3,3
+CS334,Cortes Maxx,Cabernet Sauv,0,2,2
+CS335,Cortes Maxx,Cabernet Sauv,0,0,0
+CS336,Cortes Maxx,Cabernet Sauv,0,1,1
+CS337,Cortes Maxx,Cabernet Sauv,0,2,2
+CS338,Cortes Maxx,Cabernet Sauv,0,4,4
+CS339,Cortes Maxx,Cabernet Sauv,0,2,2
+CS3310,Cortes Maxx,Cabernet Sauv,0,0,0
+CS3311,Cortes Maxx,Cabernet Sauv,0,2,2
+CS3312,Cortes Maxx,Cabernet Sauv,0,3,3
+CS3313,Cortes Maxx,Cabernet Sauv,0,0,0
+CS3314,Cortes Maxx,Cabernet Sauv,0,0,0
+CS371,Cortes Maxx,Cabernet Sauv,0,41,41
+CS372,Cortes Maxx,Cabernet Sauv,0,21,21
+CS373,Cortes Maxx,Cabernet Sauv,0,8,8
+CS374,Cortes Maxx,Cabernet Sauv,0,3,3
+CS375,Cortes Maxx,Cabernet Sauv,0,1,1
+CS376,Cortes Maxx,Cabernet Sauv,0,4,4
+CS377,Cortes Maxx,Cabernet Sauv,0,0,0
+CS378,Cortes Maxx,Cabernet Sauv,0,0,0
+CS379,Cortes Maxx,Cabernet Sauv,0,2,2
+CS3710,Cortes Maxx,Cabernet Sauv,0,0,0
+CS3711,Cortes Maxx,Cabernet Sauv,0,0,0
+CS3712,Cortes Maxx,Cabernet Sauv,0,1,1
+CS3713,Cortes Maxx,Cabernet Sauv,0,2,2
+CS3714,Cortes Maxx,Cabernet Sauv,0,1,1
+CS3715,Cortes Maxx,Cabernet Sauv,0,1,1
+CS3716,Cortes Maxx,Cabernet Sauv,0,3,3
+CS3717,Cortes Maxx,Cabernet Sauv,0,2,2
+CS421,Cortes Maxx,Cabernet Sauv,0,111,111
+CS422,Cortes Maxx,Cabernet Sauv,0,17,17
+CS423,Cortes Maxx,Cabernet Sauv,0,10,10
+CS424,Cortes Maxx,Cabernet Sauv,0,3,3
+CS425,Cortes Maxx,Cabernet Sauv,0,4,4
+CS426,Cortes Maxx,Cabernet Sauv,0,3,3
+CS427,Cortes Maxx,Cabernet Sauv,0,2,2
+CS428,Cortes Maxx,Cabernet Sauv,0,0,0
+CS429,Cortes Maxx,Cabernet Sauv,0,2,2
+CS4210,Cortes Maxx,Cabernet Sauv,0,1,1
+CS4211,Cortes Maxx,Cabernet Sauv,0,1,1
+CS4212,Cortes Maxx,Cabernet Sauv,0,0,0
+CS4213,Cortes Maxx,Cabernet Sauv,0,0,0
+CS4214,Cortes Maxx,Cabernet Sauv,0,0,0
+CS4215,Cortes Maxx,Cabernet Sauv,0,0,0
+CS4216,Cortes Maxx,Cabernet Sauv,0,3,3
+CS4217,Cortes Maxx,Cabernet Sauv,0,2,2
+M431,Crptonyx,Merlot,0,60,60
+M432,Crptonyx,Merlot,0,34,34
+M433,Crptonyx,Merlot,0,25,25
+M434,Crptonyx,Merlot,0,8,8
+M435,Crptonyx,Merlot,0,10,10
+M436,Crptonyx,Merlot,0,2,2
+M437,Crptonyx,Merlot,0,7,7
+M438,Crptonyx,Merlot,0,1,1
+M439,Crptonyx,Merlot,0,0,0
+M4310,Crptonyx,Merlot,0,1,1
+M4311,Crptonyx,Merlot,0,1,1
+M4312,Crptonyx,Merlot,0,1,1
+M4313,Crptonyx,Merlot,0,1,1
+M4314,Crptonyx,Merlot,0,2,2
+M4315,Crptonyx,Merlot,0,0,0
+M4316,Crptonyx,Merlot,0,0,0
+M4317,Crptonyx,Merlot,0,5,5
+M481,Crptonyx,Merlot,0,77,77
+M482,Crptonyx,Merlot,0,33,33
+M483,Crptonyx,Merlot,0,14,14
+M484,Crptonyx,Merlot,0,9,9
+M485,Crptonyx,Merlot,0,4,4
+M486,Crptonyx,Merlot,0,6,6
+M487,Crptonyx,Merlot,0,4,4
+M488,Crptonyx,Merlot,0,3,3
+M489,Crptonyx,Merlot,0,1,1
+M4810,Crptonyx,Merlot,0,0,0
+M4811,Crptonyx,Merlot,0,2,2
+M4812,Crptonyx,Merlot,0,1,1
+M4813,Crptonyx,Merlot,0,0,0
+M4814,Crptonyx,Merlot,0,0,0
+M4815,Crptonyx,Merlot,0,1,1
+M4816,Crptonyx,Merlot,0,0,0
+M4817,Crptonyx,Merlot,0,0,0
+M531,Crptonyx,Merlot,0,149,149
+M532,Crptonyx,Merlot,0,83,83
+M533,Crptonyx,Merlot,0,38,38
+M534,Crptonyx,Merlot,0,3,3
+M535,Crptonyx,Merlot,0,6,6
+M536,Crptonyx,Merlot,0,3,3
+M537,Crptonyx,Merlot,0,2,2
+M538,Crptonyx,Merlot,0,0,0
+M539,Crptonyx,Merlot,0,3,3
+M5310,Crptonyx,Merlot,0,1,1
+M5311,Crptonyx,Merlot,0,5,5
+M5312,Crptonyx,Merlot,0,1,1
+M5313,Crptonyx,Merlot,0,0,0
+M5314,Crptonyx,Merlot,0,0,0
+M5315,Crptonyx,Merlot,0,0,0
+M5316,Crptonyx,Merlot,0,3,3
+M5317,Crptonyx,Merlot,0,,
+M571,Crptonyx,Merlot,0,164,164
+M572,Crptonyx,Merlot,0,66,66
+M573,Crptonyx,Merlot,0,26,26
+M574,Crptonyx,Merlot,0,11,11
+M575,Crptonyx,Merlot,0,2,2
+M576,Crptonyx,Merlot,0,1,1
+M577,Crptonyx,Merlot,0,2,2
+M578,Crptonyx,Merlot,0,2,2
+M579,Crptonyx,Merlot,0,0,0
+M5710,Crptonyx,Merlot,0,2,2
+M5711,Crptonyx,Merlot,0,1,1
+M5712,Crptonyx,Merlot,0,1,1
+M5713,Crptonyx,Merlot,0,0,0
+M5714,Crptonyx,Merlot,0,0,0
+M5715,Crptonyx,Merlot,0,0,0
+M5716,Crptonyx,Merlot,0,3,3
+M621,Crptonyx,Merlot,0,133,133
+M622,Crptonyx,Merlot,0,42,42
+M623,Crptonyx,Merlot,0,32,32
+M624,Crptonyx,Merlot,0,12,12
+M625,Crptonyx,Merlot,0,3,3
+M626,Crptonyx,Merlot,0,2,2
+M627,Crptonyx,Merlot,0,1,1
+M628,Crptonyx,Merlot,0,4,4
+M629,Crptonyx,Merlot,0,1,1
+M6210,Crptonyx,Merlot,0,3,3
+M6211,Crptonyx,Merlot,0,1,1
+M6212,Crptonyx,Merlot,0,3,3
+M6213,Crptonyx,Merlot,0,2,2
+M6214,Crptonyx,Merlot,0,2,2
+M6215,Crptonyx,Merlot,0,0,0
+M6216,Crptonyx,Merlot,0,3,3
+C631,Cortes Maxx,Chardonnay,0,46,46
+C632,Cortes Maxx,Chardonnay,0,37,37
+C633,Cortes Maxx,Chardonnay,0,9,9
+C634,Cortes Maxx,Chardonnay,0,4,4
+C635,Cortes Maxx,Chardonnay,0,13,13
+C636,Cortes Maxx,Chardonnay,0,2,2
+C637,Cortes Maxx,Chardonnay,0,2,2
+C638,Cortes Maxx,Chardonnay,0,0,0
+C639,Cortes Maxx,Chardonnay,0,0,0
+C6310,Cortes Maxx,Chardonnay,0,0,0
+C6311,Cortes Maxx,Chardonnay,0,1,1
+C6312,Cortes Maxx,Chardonnay,0,0,0
+C6313,Cortes Maxx,Chardonnay,0,2,2
+C6314,Cortes Maxx,Chardonnay,0,0,0
+C6315,Cortes Maxx,Chardonnay,0,4,4
+C6316,Cortes Maxx,Chardonnay,0,11,11
+C681,Cortes Maxx,Chardonnay,0,97,97
+C682,Cortes Maxx,Chardonnay,0,14,14
+C683,Cortes Maxx,Chardonnay,0,29,29
+C684,Cortes Maxx,Chardonnay,0,5,5
+C685,Cortes Maxx,Chardonnay,0,9,9
+C686,Cortes Maxx,Chardonnay,0,8,8
+C687,Cortes Maxx,Chardonnay,0,3,3
+C688,Cortes Maxx,Chardonnay,0,0,0
+C689,Cortes Maxx,Chardonnay,0,0,0
+C6910,Cortes Maxx,Chardonnay,0,0,0
+C6911,Cortes Maxx,Chardonnay,0,1,1
+C6912,Cortes Maxx,Chardonnay,0,0,0
+C6913,Cortes Maxx,Chardonnay,0,1,1
+C6914,Cortes Maxx,Chardonnay,0,0,0
+C6915,Cortes Maxx,Chardonnay,0,0,0
+C6916,Cortes Maxx,Chardonnay,0,6,6
+C731,Cortes Maxx,Chardonnay,0,75,75
+C732,Cortes Maxx,Chardonnay,0,31,31
+C733,Cortes Maxx,Chardonnay,0,28,28
+C734,Cortes Maxx,Chardonnay,0,9,9
+C735,Cortes Maxx,Chardonnay,0,14,14
+C736,Cortes Maxx,Chardonnay,0,6,6
+C737,Cortes Maxx,Chardonnay,0,18,18
+C738,Cortes Maxx,Chardonnay,0,4,4
+C739,Cortes Maxx,Chardonnay,0,4,4
+C7310,Cortes Maxx,Chardonnay,0,3,3
+C7311,Cortes Maxx,Chardonnay,0,1,1
+C7312,Cortes Maxx,Chardonnay,0,0,0
+C7313,Cortes Maxx,Chardonnay,0,3,3
+C7314,Cortes Maxx,Chardonnay,0,0,0
+C7315,Cortes Maxx,Chardonnay,0,0,0
+C7316,Cortes Maxx,Chardonnay,0,4,4
+C781,Cortes Maxx,Chardonnay,0,43,43
+C782,Cortes Maxx,Chardonnay,0,66,66
+C783,Cortes Maxx,Chardonnay,0,30,30
+C784,Cortes Maxx,Chardonnay,0,7,7
+C785,Cortes Maxx,Chardonnay,0,3,3
+C786,Cortes Maxx,Chardonnay,0,2,2
+C787,Cortes Maxx,Chardonnay,0,1,1
+C788,Cortes Maxx,Chardonnay,0,3,3
+C789,Cortes Maxx,Chardonnay,0,1,1
+C7810,Cortes Maxx,Chardonnay,0,0,0
+C7811,Cortes Maxx,Chardonnay,0,1,1
+C7812,Cortes Maxx,Chardonnay,0,3,3
+C7813,Cortes Maxx,Chardonnay,0,0,0
+C7814,Cortes Maxx,Chardonnay,0,0,0
+C841,Cortes Maxx,Chardonnay,0,91,91
+C842,Cortes Maxx,Chardonnay,0,61,61
+C843,Cortes Maxx,Chardonnay,0,44,44
+C844,Cortes Maxx,Chardonnay,0,40,40
+C845,Cortes Maxx,Chardonnay,0,50,50
+C846,Cortes Maxx,Chardonnay,0,19,19
+C847,Cortes Maxx,Chardonnay,0,29,29
+C848,Cortes Maxx,Chardonnay,0,30,30
+C849,Cortes Maxx,Chardonnay,0,14,14
+C8410,Cortes Maxx,Chardonnay,0,34,34
+C8411,Cortes Maxx,Chardonnay,0,12,12
+C8412,Cortes Maxx,Chardonnay,0,8,8
+C8413,Cortes Maxx,Chardonnay,0,3,3
+C8414,Cortes Maxx,Chardonnay,0,25,25
+CF11,Crptonyx,Cabernet franc,1,1,41
+CF12,Crptonyx,Cabernet franc,1,0,19
+CF13,Crptonyx,Cabernet franc,1,0,16
+CF14,Crptonyx,Cabernet franc,1,0,29
+CF15,Crptonyx,Cabernet franc,1,0,19
+CF16,Crptonyx,Cabernet franc,1,0,32
+CF17,Crptonyx,Cabernet franc,1,0,15
+CF18,Crptonyx,Cabernet franc,1,0,14
+CF19,Crptonyx,Cabernet franc,1,0,8
+CF110,Crptonyx,Cabernet franc,1,0,2
+CF111,Crptonyx,Cabernet franc,1,0,23
+CF112,Crptonyx,Cabernet franc,1,1,11
+CF113,Crptonyx,Cabernet franc,1,0,22
+CF114,Crptonyx,Cabernet franc,1,0,17
+CF115,Crptonyx,Cabernet franc,1,1,31
+CF116,Crptonyx,Cabernet franc,1,,46
+CF117,Crptonyx,Cabernet franc,1,,69
+CF61,Crptonyx,Cabernet franc,1,1,19
+CF62,Crptonyx,Cabernet franc,1,0,3
+CF63,Crptonyx,Cabernet franc,1,0,13
+CF64,Crptonyx,Cabernet franc,1,1,10
+CF65,Crptonyx,Cabernet franc,1,0,8
+CF66,Crptonyx,Cabernet franc,1,0,5
+CF67,Crptonyx,Cabernet franc,1,0,0
+CF68,Crptonyx,Cabernet franc,1,0,0
+CF69,Crptonyx,Cabernet franc,1,0,2
+CF610,Crptonyx,Cabernet franc,1,0,1
+CF611,Crptonyx,Cabernet franc,1,0,0
+CF612,Crptonyx,Cabernet franc,1,0,3
+CF613,Crptonyx,Cabernet franc,1,0,3
+CF614,Crptonyx,Cabernet franc,1,0,6
+CF615,Crptonyx,Cabernet franc,1,0,13
+CF616,Crptonyx,Cabernet franc,1,0,12
+CF617,Crptonyx,Cabernet franc,1,0,9
+CF121,Crptonyx,Cabernet franc,1,0,21
+CF122,Crptonyx,Cabernet franc,1,0,7
+CF123,Crptonyx,Cabernet franc,1,0,6
+CF124,Crptonyx,Cabernet franc,1,0,4
+CF125,Crptonyx,Cabernet franc,1,0,3
+CF126,Crptonyx,Cabernet franc,1,0,1
+CF127,Crptonyx,Cabernet franc,1,0,1
+CF128,Crptonyx,Cabernet franc,1,0,1
+CF129,Crptonyx,Cabernet franc,1,0,1
+CF1210,Crptonyx,Cabernet franc,1,0,1
+CF1211,Crptonyx,Cabernet franc,1,0,3
+CF1212,Crptonyx,Cabernet franc,1,0,4
+CF1213,Crptonyx,Cabernet franc,1,0,1
+CF1214,Crptonyx,Cabernet franc,1,0,1
+CF1215,Crptonyx,Cabernet franc,1,0,0
+CF1216,Crptonyx,Cabernet franc,1,0,1
+CF1217,Crptonyx,Cabernet franc,1,,4
+CF171,Crptonyx,Cabernet franc,1,2,17
+CF172,Crptonyx,Cabernet franc,1,0,6
+CF173,Crptonyx,Cabernet franc,1,0,5
+CF174,Crptonyx,Cabernet franc,1,0,5
+CF175,Crptonyx,Cabernet franc,1,0,2
+CF176,Crptonyx,Cabernet franc,1,0,1
+CF177,Crptonyx,Cabernet franc,1,0,2
+CF178,Crptonyx,Cabernet franc,1,0,6
+CF179,Crptonyx,Cabernet franc,1,0,4
+CF1710,Crptonyx,Cabernet franc,1,0,0
+CF1711,Crptonyx,Cabernet franc,1,1,1
+CF1712,Crptonyx,Cabernet franc,1,0,0
+CF1713,Crptonyx,Cabernet franc,1,0,2
+CF1714,Crptonyx,Cabernet franc,1,0,1
+CF1715,Crptonyx,Cabernet franc,1,0,7
+CF1716,Crptonyx,Cabernet franc,1,1,2
+CF1717,Crptonyx,Cabernet franc,1,0,9
+CF1718,Crptonyx,Cabernet franc,1,0,10
+CF221,Crptonyx,Cabernet franc,1,0,71
+CF222,Crptonyx,Cabernet franc,1,0,19
+CF223,Crptonyx,Cabernet franc,1,0,7
+CF224,Crptonyx,Cabernet franc,1,0,11
+CF225,Crptonyx,Cabernet franc,1,0,5
+CF226,Crptonyx,Cabernet franc,1,0,4
+CF227,Crptonyx,Cabernet franc,1,1,6
+CF228,Crptonyx,Cabernet franc,1,0,8
+CF229,Crptonyx,Cabernet franc,1,0,3
+CF2210,Crptonyx,Cabernet franc,1,0,7
+CF2211,Crptonyx,Cabernet franc,1,0,1
+CF2212,Crptonyx,Cabernet franc,1,0,3
+CF2213,Crptonyx,Cabernet franc,1,0,0
+CF2214,Crptonyx,Cabernet franc,1,0,7
+CF2215,Crptonyx,Cabernet franc,1,,3
+CF2216,Crptonyx,Cabernet franc,1,,5
+CF2217,Crptonyx,Cabernet franc,1,,5
+CS231,Cortes Maxx,Cabernet Sauv,1,11,71
+CS232,Cortes Maxx,Cabernet Sauv,1,0,14
+CS233,Cortes Maxx,Cabernet Sauv,1,0,2
+CS234,Cortes Maxx,Cabernet Sauv,1,0,4
+CS235,Cortes Maxx,Cabernet Sauv,1,1,5
+CS236,Cortes Maxx,Cabernet Sauv,1,0,1
+CS237,Cortes Maxx,Cabernet Sauv,1,0,0
+CS238,Cortes Maxx,Cabernet Sauv,1,0,3
+CS239,Cortes Maxx,Cabernet Sauv,1,0,2
+CS2310,Cortes Maxx,Cabernet Sauv,1,0,1
+CS2311,Cortes Maxx,Cabernet Sauv,1,0,0
+CS2312,Cortes Maxx,Cabernet Sauv,1,0,5
+CS2313,Cortes Maxx,Cabernet Sauv,1,0,0
+CS2314,Cortes Maxx,Cabernet Sauv,1,1,0
+CS2315,Cortes Maxx,Cabernet Sauv,1,0,2
+CS2316,Cortes Maxx,Cabernet Sauv,1,0,2
+CS2317,Cortes Maxx,Cabernet Sauv,1,0,2
+CS281,Cortes Maxx,Cabernet Sauv,1,2,44
+CS282,Cortes Maxx,Cabernet Sauv,1,0,10
+CS283,Cortes Maxx,Cabernet Sauv,1,0,8
+CS284,Cortes Maxx,Cabernet Sauv,1,0,4
+CS285,Cortes Maxx,Cabernet Sauv,1,0,2
+CS286,Cortes Maxx,Cabernet Sauv,1,0,4
+CS287,Cortes Maxx,Cabernet Sauv,1,0,1
+CS288,Cortes Maxx,Cabernet Sauv,1,0,1
+CS289,Cortes Maxx,Cabernet Sauv,1,0,0
+CS2810,Cortes Maxx,Cabernet Sauv,1,0,1
+CS2811,Cortes Maxx,Cabernet Sauv,1,0,4
+CS2812,Cortes Maxx,Cabernet Sauv,1,0,2
+CS2813,Cortes Maxx,Cabernet Sauv,1,0,0
+CS2814,Cortes Maxx,Cabernet Sauv,1,0,0
+CS2815,Cortes Maxx,Cabernet Sauv,1,0,1
+CS2816,Cortes Maxx,Cabernet Sauv,1,0,3
+CS2817,Cortes Maxx,Cabernet Sauv,1,0,4
+CS331,Cortes Maxx,Cabernet Sauv,1,2,4
+CS332,Cortes Maxx,Cabernet Sauv,1,0,2
+CS333,Cortes Maxx,Cabernet Sauv,1,0,3
+CS334,Cortes Maxx,Cabernet Sauv,1,0,2
+CS335,Cortes Maxx,Cabernet Sauv,1,0,0
+CS336,Cortes Maxx,Cabernet Sauv,1,0,1
+CS337,Cortes Maxx,Cabernet Sauv,1,0,2
+CS338,Cortes Maxx,Cabernet Sauv,1,0,4
+CS339,Cortes Maxx,Cabernet Sauv,1,0,2
+CS3310,Cortes Maxx,Cabernet Sauv,1,0,0
+CS3311,Cortes Maxx,Cabernet Sauv,1,0,2
+CS3312,Cortes Maxx,Cabernet Sauv,1,0,3
+CS3313,Cortes Maxx,Cabernet Sauv,1,0,0
+CS3314,Cortes Maxx,Cabernet Sauv,1,0,0
+CS371,Cortes Maxx,Cabernet Sauv,1,5,41
+CS372,Cortes Maxx,Cabernet Sauv,1,0,21
+CS373,Cortes Maxx,Cabernet Sauv,1,0,8
+CS374,Cortes Maxx,Cabernet Sauv,1,0,3
+CS375,Cortes Maxx,Cabernet Sauv,1,0,1
+CS376,Cortes Maxx,Cabernet Sauv,1,0,4
+CS377,Cortes Maxx,Cabernet Sauv,1,0,0
+CS378,Cortes Maxx,Cabernet Sauv,1,0,0
+CS379,Cortes Maxx,Cabernet Sauv,1,0,2
+CS3710,Cortes Maxx,Cabernet Sauv,1,0,0
+CS3711,Cortes Maxx,Cabernet Sauv,1,0,0
+CS3712,Cortes Maxx,Cabernet Sauv,1,0,1
+CS3713,Cortes Maxx,Cabernet Sauv,1,0,2
+CS3714,Cortes Maxx,Cabernet Sauv,1,0,1
+CS3715,Cortes Maxx,Cabernet Sauv,1,0,1
+CS3716,Cortes Maxx,Cabernet Sauv,1,0,3
+CS3717,Cortes Maxx,Cabernet Sauv,1,0,2
+CS421,Cortes Maxx,Cabernet Sauv,1,1,111
+CS422,Cortes Maxx,Cabernet Sauv,1,1,17
+CS423,Cortes Maxx,Cabernet Sauv,1,0,10
+CS424,Cortes Maxx,Cabernet Sauv,1,0,3
+CS425,Cortes Maxx,Cabernet Sauv,1,0,4
+CS426,Cortes Maxx,Cabernet Sauv,1,0,3
+CS427,Cortes Maxx,Cabernet Sauv,1,0,2
+CS428,Cortes Maxx,Cabernet Sauv,1,0,0
+CS429,Cortes Maxx,Cabernet Sauv,1,0,2
+CS4210,Cortes Maxx,Cabernet Sauv,1,1,1
+CS4211,Cortes Maxx,Cabernet Sauv,1,0,1
+CS4212,Cortes Maxx,Cabernet Sauv,1,0,0
+CS4213,Cortes Maxx,Cabernet Sauv,1,0,0
+CS4214,Cortes Maxx,Cabernet Sauv,1,0,0
+CS4215,Cortes Maxx,Cabernet Sauv,1,0,0
+CS4216,Cortes Maxx,Cabernet Sauv,1,0,3
+CS4217,Cortes Maxx,Cabernet Sauv,1,0,2
+M431,Crptonyx,Merlot,1,1,60
+M432,Crptonyx,Merlot,1,1,34
+M433,Crptonyx,Merlot,1,1,25
+M434,Crptonyx,Merlot,1,0,8
+M435,Crptonyx,Merlot,1,0,10
+M436,Crptonyx,Merlot,1,0,2
+M437,Crptonyx,Merlot,1,0,7
+M438,Crptonyx,Merlot,1,0,1
+M439,Crptonyx,Merlot,1,0,0
+M4310,Crptonyx,Merlot,1,0,1
+M4311,Crptonyx,Merlot,1,0,1
+M4312,Crptonyx,Merlot,1,0,1
+M4313,Crptonyx,Merlot,1,0,1
+M4314,Crptonyx,Merlot,1,0,2
+M4315,Crptonyx,Merlot,1,0,0
+M4316,Crptonyx,Merlot,1,0,0
+M4317,Crptonyx,Merlot,1,1,5
+M481,Crptonyx,Merlot,1,3,77
+M482,Crptonyx,Merlot,1,6,33
+M483,Crptonyx,Merlot,1,1,14
+M484,Crptonyx,Merlot,1,0,9
+M485,Crptonyx,Merlot,1,0,4
+M486,Crptonyx,Merlot,1,0,6
+M487,Crptonyx,Merlot,1,0,4
+M488,Crptonyx,Merlot,1,1,3
+M489,Crptonyx,Merlot,1,0,1
+M4810,Crptonyx,Merlot,1,0,0
+M4811,Crptonyx,Merlot,1,0,2
+M4812,Crptonyx,Merlot,1,0,1
+M4813,Crptonyx,Merlot,1,0,0
+M4814,Crptonyx,Merlot,1,0,0
+M4815,Crptonyx,Merlot,1,0,1
+M4816,Crptonyx,Merlot,1,0,0
+M4817,Crptonyx,Merlot,1,0,0
+M531,Crptonyx,Merlot,1,3,149
+M532,Crptonyx,Merlot,1,2,83
+M533,Crptonyx,Merlot,1,0,38
+M534,Crptonyx,Merlot,1,0,3
+M535,Crptonyx,Merlot,1,0,6
+M536,Crptonyx,Merlot,1,0,3
+M537,Crptonyx,Merlot,1,0,2
+M538,Crptonyx,Merlot,1,0,0
+M539,Crptonyx,Merlot,1,0,3
+M5310,Crptonyx,Merlot,1,0,1
+M5311,Crptonyx,Merlot,1,0,5
+M5312,Crptonyx,Merlot,1,0,1
+M5313,Crptonyx,Merlot,1,0,0
+M5314,Crptonyx,Merlot,1,0,0
+M5315,Crptonyx,Merlot,1,0,0
+M5316,Crptonyx,Merlot,1,0,3
+M5317,Crptonyx,Merlot,1,,
+M571,Crptonyx,Merlot,1,4,164
+M572,Crptonyx,Merlot,1,1,66
+M573,Crptonyx,Merlot,1,0,26
+M574,Crptonyx,Merlot,1,0,11
+M575,Crptonyx,Merlot,1,0,2
+M576,Crptonyx,Merlot,1,0,1
+M577,Crptonyx,Merlot,1,0,2
+M578,Crptonyx,Merlot,1,0,2
+M579,Crptonyx,Merlot,1,0,0
+M5710,Crptonyx,Merlot,1,2,2
+M5711,Crptonyx,Merlot,1,0,1
+M5712,Crptonyx,Merlot,1,0,1
+M5713,Crptonyx,Merlot,1,0,0
+M5714,Crptonyx,Merlot,1,0,0
+M5715,Crptonyx,Merlot,1,0,0
+M5716,Crptonyx,Merlot,1,0,3
+M621,Crptonyx,Merlot,1,0,133
+M622,Crptonyx,Merlot,1,1,42
+M623,Crptonyx,Merlot,1,0,32
+M624,Crptonyx,Merlot,1,0,12
+M625,Crptonyx,Merlot,1,0,3
+M626,Crptonyx,Merlot,1,0,2
+M627,Crptonyx,Merlot,1,0,1
+M628,Crptonyx,Merlot,1,0,4
+M629,Crptonyx,Merlot,1,0,1
+M6210,Crptonyx,Merlot,1,0,3
+M6211,Crptonyx,Merlot,1,0,1
+M6212,Crptonyx,Merlot,1,0,3
+M6213,Crptonyx,Merlot,1,0,2
+M6214,Crptonyx,Merlot,1,0,2
+M6215,Crptonyx,Merlot,1,0,0
+M6216,Crptonyx,Merlot,1,0,3
+C631,Cortes Maxx,Chardonnay,1,6,46
+C632,Cortes Maxx,Chardonnay,1,3,37
+C633,Cortes Maxx,Chardonnay,1,0,9
+C634,Cortes Maxx,Chardonnay,1,0,4
+C635,Cortes Maxx,Chardonnay,1,1,13
+C636,Cortes Maxx,Chardonnay,1,0,2
+C637,Cortes Maxx,Chardonnay,1,0,2
+C638,Cortes Maxx,Chardonnay,1,0,0
+C639,Cortes Maxx,Chardonnay,1,0,0
+C6310,Cortes Maxx,Chardonnay,1,0,0
+C6311,Cortes Maxx,Chardonnay,1,0,1
+C6312,Cortes Maxx,Chardonnay,1,0,0
+C6313,Cortes Maxx,Chardonnay,1,0,2
+C6314,Cortes Maxx,Chardonnay,1,0,0
+C6315,Cortes Maxx,Chardonnay,1,0,4
+C6316,Cortes Maxx,Chardonnay,1,0,11
+C681,Cortes Maxx,Chardonnay,1,1,97
+C682,Cortes Maxx,Chardonnay,1,1,14
+C683,Cortes Maxx,Chardonnay,1,1,29
+C684,Cortes Maxx,Chardonnay,1,1,5
+C685,Cortes Maxx,Chardonnay,1,0,9
+C686,Cortes Maxx,Chardonnay,1,2,8
+C687,Cortes Maxx,Chardonnay,1,0,3
+C688,Cortes Maxx,Chardonnay,1,0,0
+C689,Cortes Maxx,Chardonnay,1,0,0
+C6910,Cortes Maxx,Chardonnay,1,1,0
+C6911,Cortes Maxx,Chardonnay,1,0,1
+C6912,Cortes Maxx,Chardonnay,1,0,0
+C6913,Cortes Maxx,Chardonnay,1,0,1
+C6914,Cortes Maxx,Chardonnay,1,0,0
+C6915,Cortes Maxx,Chardonnay,1,,0
+C6916,Cortes Maxx,Chardonnay,1,,6
+C731,Cortes Maxx,Chardonnay,1,1,75
+C732,Cortes Maxx,Chardonnay,1,2,31
+C733,Cortes Maxx,Chardonnay,1,2,28
+C734,Cortes Maxx,Chardonnay,1,2,9
+C735,Cortes Maxx,Chardonnay,1,0,14
+C736,Cortes Maxx,Chardonnay,1,0,6
+C737,Cortes Maxx,Chardonnay,1,0,18
+C738,Cortes Maxx,Chardonnay,1,0,4
+C739,Cortes Maxx,Chardonnay,1,0,4
+C7310,Cortes Maxx,Chardonnay,1,0,3
+C7311,Cortes Maxx,Chardonnay,1,0,1
+C7312,Cortes Maxx,Chardonnay,1,0,0
+C7313,Cortes Maxx,Chardonnay,1,0,3
+C7314,Cortes Maxx,Chardonnay,1,0,0
+C7315,Cortes Maxx,Chardonnay,1,0,0
+C7316,Cortes Maxx,Chardonnay,1,0,4
+C781,Cortes Maxx,Chardonnay,1,0,43
+C782,Cortes Maxx,Chardonnay,1,3,66
+C783,Cortes Maxx,Chardonnay,1,0,30
+C784,Cortes Maxx,Chardonnay,1,0,7
+C785,Cortes Maxx,Chardonnay,1,0,3
+C786,Cortes Maxx,Chardonnay,1,0,2
+C787,Cortes Maxx,Chardonnay,1,0,1
+C788,Cortes Maxx,Chardonnay,1,0,3
+C789,Cortes Maxx,Chardonnay,1,0,1
+C7810,Cortes Maxx,Chardonnay,1,0,0
+C7811,Cortes Maxx,Chardonnay,1,0,1
+C7812,Cortes Maxx,Chardonnay,1,0,3
+C7813,Cortes Maxx,Chardonnay,1,0,0
+C7814,Cortes Maxx,Chardonnay,1,0,0
+C841,Cortes Maxx,Chardonnay,1,6,91
+C842,Cortes Maxx,Chardonnay,1,1,61
+C843,Cortes Maxx,Chardonnay,1,1,44
+C844,Cortes Maxx,Chardonnay,1,4,40
+C845,Cortes Maxx,Chardonnay,1,2,50
+C846,Cortes Maxx,Chardonnay,1,0,19
+C847,Cortes Maxx,Chardonnay,1,0,29
+C848,Cortes Maxx,Chardonnay,1,3,30
+C849,Cortes Maxx,Chardonnay,1,2,14
+C8410,Cortes Maxx,Chardonnay,1,2,34
+C8411,Cortes Maxx,Chardonnay,1,0,12
+C8412,Cortes Maxx,Chardonnay,1,0,8
+C8413,Cortes Maxx,Chardonnay,1,1,3
+C8414,Cortes Maxx,Chardonnay,1,0,25
+CF11,Crptonyx,Cabernet franc,2,0,41
+CF12,Crptonyx,Cabernet franc,2,1,19
+CF13,Crptonyx,Cabernet franc,2,0,16
+CF14,Crptonyx,Cabernet franc,2,1,29
+CF15,Crptonyx,Cabernet franc,2,0,19
+CF16,Crptonyx,Cabernet franc,2,0,32
+CF17,Crptonyx,Cabernet franc,2,0,15
+CF18,Crptonyx,Cabernet franc,2,0,14
+CF19,Crptonyx,Cabernet franc,2,0,8
+CF110,Crptonyx,Cabernet franc,2,0,2
+CF111,Crptonyx,Cabernet franc,2,0,23
+CF112,Crptonyx,Cabernet franc,2,0,11
+CF113,Crptonyx,Cabernet franc,2,1,22
+CF114,Crptonyx,Cabernet franc,2,0,17
+CF115,Crptonyx,Cabernet franc,2,1,31
+CF116,Crptonyx,Cabernet franc,2,0,46
+CF117,Crptonyx,Cabernet franc,2,1,69
+CF61,Crptonyx,Cabernet franc,2,1,19
+CF62,Crptonyx,Cabernet franc,2,0,3
+CF63,Crptonyx,Cabernet franc,2,0,13
+CF64,Crptonyx,Cabernet franc,2,0,10
+CF65,Crptonyx,Cabernet franc,2,0,8
+CF66,Crptonyx,Cabernet franc,2,0,5
+CF67,Crptonyx,Cabernet franc,2,0,0
+CF68,Crptonyx,Cabernet franc,2,0,0
+CF69,Crptonyx,Cabernet franc,2,0,2
+CF610,Crptonyx,Cabernet franc,2,0,1
+CF611,Crptonyx,Cabernet franc,2,0,0
+CF612,Crptonyx,Cabernet franc,2,0,3
+CF613,Crptonyx,Cabernet franc,2,0,3
+CF614,Crptonyx,Cabernet franc,2,0,6
+CF615,Crptonyx,Cabernet franc,2,0,13
+CF616,Crptonyx,Cabernet franc,2,1,12
+CF617,Crptonyx,Cabernet franc,2,2,9
+CF121,Crptonyx,Cabernet franc,2,1,21
+CF122,Crptonyx,Cabernet franc,2,0,7
+CF123,Crptonyx,Cabernet franc,2,0,6
+CF124,Crptonyx,Cabernet franc,2,0,4
+CF125,Crptonyx,Cabernet franc,2,0,3
+CF126,Crptonyx,Cabernet franc,2,0,1
+CF127,Crptonyx,Cabernet franc,2,0,1
+CF128,Crptonyx,Cabernet franc,2,0,1
+CF129,Crptonyx,Cabernet franc,2,0,1
+CF1210,Crptonyx,Cabernet franc,2,0,1
+CF1211,Crptonyx,Cabernet franc,2,0,3
+CF1212,Crptonyx,Cabernet franc,2,0,4
+CF1213,Crptonyx,Cabernet franc,2,0,1
+CF1214,Crptonyx,Cabernet franc,2,0,1
+CF1215,Crptonyx,Cabernet franc,2,0,0
+CF1216,Crptonyx,Cabernet franc,2,0,1
+CF1217,Crptonyx,Cabernet franc,2,0,4
+CF171,Crptonyx,Cabernet franc,2,0,17
+CF172,Crptonyx,Cabernet franc,2,0,6
+CF173,Crptonyx,Cabernet franc,2,0,5
+CF174,Crptonyx,Cabernet franc,2,0,5
+CF175,Crptonyx,Cabernet franc,2,0,2
+CF176,Crptonyx,Cabernet franc,2,0,1
+CF177,Crptonyx,Cabernet franc,2,0,2
+CF178,Crptonyx,Cabernet franc,2,0,6
+CF179,Crptonyx,Cabernet franc,2,0,4
+CF1710,Crptonyx,Cabernet franc,2,0,0
+CF1711,Crptonyx,Cabernet franc,2,0,1
+CF1712,Crptonyx,Cabernet franc,2,0,0
+CF1713,Crptonyx,Cabernet franc,2,0,2
+CF1714,Crptonyx,Cabernet franc,2,0,1
+CF1715,Crptonyx,Cabernet franc,2,0,7
+CF1716,Crptonyx,Cabernet franc,2,0,2
+CF1717,Crptonyx,Cabernet franc,2,0,9
+CF1718,Crptonyx,Cabernet franc,2,0,10
+CF221,Crptonyx,Cabernet franc,2,1,71
+CF222,Crptonyx,Cabernet franc,2,0,19
+CF223,Crptonyx,Cabernet franc,2,0,7
+CF224,Crptonyx,Cabernet franc,2,0,11
+CF225,Crptonyx,Cabernet franc,2,0,5
+CF226,Crptonyx,Cabernet franc,2,0,4
+CF227,Crptonyx,Cabernet franc,2,0,6
+CF228,Crptonyx,Cabernet franc,2,0,8
+CF229,Crptonyx,Cabernet franc,2,0,3
+CF2210,Crptonyx,Cabernet franc,2,0,7
+CF2211,Crptonyx,Cabernet franc,2,0,1
+CF2212,Crptonyx,Cabernet franc,2,0,3
+CF2213,Crptonyx,Cabernet franc,2,0,0
+CF2214,Crptonyx,Cabernet franc,2,0,7
+CF2215,Crptonyx,Cabernet franc,2,0,3
+CF2216,Crptonyx,Cabernet franc,2,0,5
+CF2217,Crptonyx,Cabernet franc,2,0,5
+CS231,Cortes Maxx,Cabernet Sauv,2,8,71
+CS232,Cortes Maxx,Cabernet Sauv,2,4,14
+CS233,Cortes Maxx,Cabernet Sauv,2,0,2
+CS234,Cortes Maxx,Cabernet Sauv,2,0,4
+CS235,Cortes Maxx,Cabernet Sauv,2,1,5
+CS236,Cortes Maxx,Cabernet Sauv,2,0,1
+CS237,Cortes Maxx,Cabernet Sauv,2,0,0
+CS238,Cortes Maxx,Cabernet Sauv,2,3,3
+CS239,Cortes Maxx,Cabernet Sauv,2,0,2
+CS2310,Cortes Maxx,Cabernet Sauv,2,1,1
+CS2311,Cortes Maxx,Cabernet Sauv,2,0,0
+CS2312,Cortes Maxx,Cabernet Sauv,2,0,5
+CS2313,Cortes Maxx,Cabernet Sauv,2,0,0
+CS2314,Cortes Maxx,Cabernet Sauv,2,0,0
+CS2315,Cortes Maxx,Cabernet Sauv,2,0,2
+CS2316,Cortes Maxx,Cabernet Sauv,2,0,2
+CS2317,Cortes Maxx,Cabernet Sauv,2,0,2
+CS281,Cortes Maxx,Cabernet Sauv,2,19,44
+CS282,Cortes Maxx,Cabernet Sauv,2,2,10
+CS283,Cortes Maxx,Cabernet Sauv,2,1,8
+CS284,Cortes Maxx,Cabernet Sauv,2,1,4
+CS285,Cortes Maxx,Cabernet Sauv,2,0,2
+CS286,Cortes Maxx,Cabernet Sauv,2,1,4
+CS287,Cortes Maxx,Cabernet Sauv,2,1,1
+CS288,Cortes Maxx,Cabernet Sauv,2,0,1
+CS289,Cortes Maxx,Cabernet Sauv,2,0,0
+CS2810,Cortes Maxx,Cabernet Sauv,2,0,1
+CS2811,Cortes Maxx,Cabernet Sauv,2,0,4
+CS2812,Cortes Maxx,Cabernet Sauv,2,2,2
+CS2813,Cortes Maxx,Cabernet Sauv,2,1,0
+CS2814,Cortes Maxx,Cabernet Sauv,2,1,0
+CS2815,Cortes Maxx,Cabernet Sauv,2,0,1
+CS2816,Cortes Maxx,Cabernet Sauv,2,0,3
+CS2817,Cortes Maxx,Cabernet Sauv,2,2,4
+CS331,Cortes Maxx,Cabernet Sauv,2,2,4
+CS332,Cortes Maxx,Cabernet Sauv,2,1,2
+CS333,Cortes Maxx,Cabernet Sauv,2,0,3
+CS334,Cortes Maxx,Cabernet Sauv,2,2,2
+CS335,Cortes Maxx,Cabernet Sauv,2,0,0
+CS336,Cortes Maxx,Cabernet Sauv,2,0,1
+CS337,Cortes Maxx,Cabernet Sauv,2,0,2
+CS338,Cortes Maxx,Cabernet Sauv,2,0,4
+CS339,Cortes Maxx,Cabernet Sauv,2,2,2
+CS3310,Cortes Maxx,Cabernet Sauv,2,0,0
+CS3311,Cortes Maxx,Cabernet Sauv,2,0,2
+CS3312,Cortes Maxx,Cabernet Sauv,2,0,3
+CS3313,Cortes Maxx,Cabernet Sauv,2,0,0
+CS3314,Cortes Maxx,Cabernet Sauv,2,,0
+CS371,Cortes Maxx,Cabernet Sauv,2,30,41
+CS372,Cortes Maxx,Cabernet Sauv,2,11,21
+CS373,Cortes Maxx,Cabernet Sauv,2,0,8
+CS374,Cortes Maxx,Cabernet Sauv,2,2,3
+CS375,Cortes Maxx,Cabernet Sauv,2,0,1
+CS376,Cortes Maxx,Cabernet Sauv,2,0,4
+CS377,Cortes Maxx,Cabernet Sauv,2,0,0
+CS378,Cortes Maxx,Cabernet Sauv,2,0,0
+CS379,Cortes Maxx,Cabernet Sauv,2,1,2
+CS3710,Cortes Maxx,Cabernet Sauv,2,0,0
+CS3711,Cortes Maxx,Cabernet Sauv,2,0,0
+CS3712,Cortes Maxx,Cabernet Sauv,2,0,1
+CS3713,Cortes Maxx,Cabernet Sauv,2,0,2
+CS3714,Cortes Maxx,Cabernet Sauv,2,0,1
+CS3715,Cortes Maxx,Cabernet Sauv,2,0,1
+CS3716,Cortes Maxx,Cabernet Sauv,2,1,3
+CS3717,Cortes Maxx,Cabernet Sauv,2,0,2
+CS421,Cortes Maxx,Cabernet Sauv,2,17,111
+CS422,Cortes Maxx,Cabernet Sauv,2,4,17
+CS423,Cortes Maxx,Cabernet Sauv,2,3,10
+CS424,Cortes Maxx,Cabernet Sauv,2,3,3
+CS425,Cortes Maxx,Cabernet Sauv,2,0,4
+CS426,Cortes Maxx,Cabernet Sauv,2,0,3
+CS427,Cortes Maxx,Cabernet Sauv,2,0,2
+CS428,Cortes Maxx,Cabernet Sauv,2,0,0
+CS429,Cortes Maxx,Cabernet Sauv,2,0,2
+CS4210,Cortes Maxx,Cabernet Sauv,2,1,1
+CS4211,Cortes Maxx,Cabernet Sauv,2,0,1
+CS4212,Cortes Maxx,Cabernet Sauv,2,0,0
+CS4213,Cortes Maxx,Cabernet Sauv,2,0,0
+CS4214,Cortes Maxx,Cabernet Sauv,2,0,0
+CS4215,Cortes Maxx,Cabernet Sauv,2,0,0
+CS4216,Cortes Maxx,Cabernet Sauv,2,0,3
+CS4217,Cortes Maxx,Cabernet Sauv,2,0,2
+M431,Crptonyx,Merlot,2,0,60
+M432,Crptonyx,Merlot,2,1,34
+M433,Crptonyx,Merlot,2,0,25
+M434,Crptonyx,Merlot,2,0,8
+M435,Crptonyx,Merlot,2,0,10
+M436,Crptonyx,Merlot,2,0,2
+M437,Crptonyx,Merlot,2,0,7
+M438,Crptonyx,Merlot,2,0,1
+M439,Crptonyx,Merlot,2,0,0
+M4310,Crptonyx,Merlot,2,0,1
+M4311,Crptonyx,Merlot,2,0,1
+M4312,Crptonyx,Merlot,2,0,1
+M4313,Crptonyx,Merlot,2,0,1
+M4314,Crptonyx,Merlot,2,0,2
+M4315,Crptonyx,Merlot,2,0,0
+M4316,Crptonyx,Merlot,2,0,0
+M4317,Crptonyx,Merlot,2,0,5
+M481,Crptonyx,Merlot,2,1,77
+M482,Crptonyx,Merlot,2,2,33
+M483,Crptonyx,Merlot,2,0,14
+M484,Crptonyx,Merlot,2,0,9
+M485,Crptonyx,Merlot,2,0,4
+M486,Crptonyx,Merlot,2,0,6
+M487,Crptonyx,Merlot,2,0,4
+M488,Crptonyx,Merlot,2,0,3
+M489,Crptonyx,Merlot,2,0,1
+M4810,Crptonyx,Merlot,2,0,0
+M4811,Crptonyx,Merlot,2,0,2
+M4812,Crptonyx,Merlot,2,0,1
+M4813,Crptonyx,Merlot,2,0,0
+M4814,Crptonyx,Merlot,2,0,0
+M4815,Crptonyx,Merlot,2,0,1
+M4816,Crptonyx,Merlot,2,0,0
+M4817,Crptonyx,Merlot,2,0,0
+M531,Crptonyx,Merlot,2,3,149
+M532,Crptonyx,Merlot,2,2,83
+M533,Crptonyx,Merlot,2,0,38
+M534,Crptonyx,Merlot,2,0,3
+M535,Crptonyx,Merlot,2,0,6
+M536,Crptonyx,Merlot,2,0,3
+M537,Crptonyx,Merlot,2,0,2
+M538,Crptonyx,Merlot,2,0,0
+M539,Crptonyx,Merlot,2,0,3
+M5310,Crptonyx,Merlot,2,0,1
+M5311,Crptonyx,Merlot,2,0,5
+M5312,Crptonyx,Merlot,2,0,1
+M5313,Crptonyx,Merlot,2,0,0
+M5314,Crptonyx,Merlot,2,0,0
+M5315,Crptonyx,Merlot,2,0,0
+M5316,Crptonyx,Merlot,2,0,3
+M5317,Crptonyx,Merlot,2,0,
+M571,Crptonyx,Merlot,2,4,164
+M572,Crptonyx,Merlot,2,2,66
+M573,Crptonyx,Merlot,2,0,26
+M574,Crptonyx,Merlot,2,0,11
+M575,Crptonyx,Merlot,2,0,2
+M576,Crptonyx,Merlot,2,0,1
+M577,Crptonyx,Merlot,2,0,2
+M578,Crptonyx,Merlot,2,0,2
+M579,Crptonyx,Merlot,2,0,0
+M5710,Crptonyx,Merlot,2,0,2
+M5711,Crptonyx,Merlot,2,0,1
+M5712,Crptonyx,Merlot,2,0,1
+M5713,Crptonyx,Merlot,2,0,0
+M5714,Crptonyx,Merlot,2,0,0
+M5715,Crptonyx,Merlot,2,0,0
+M5716,Crptonyx,Merlot,2,0,3
+M621,Crptonyx,Merlot,2,1,133
+M622,Crptonyx,Merlot,2,2,42
+M623,Crptonyx,Merlot,2,2,32
+M624,Crptonyx,Merlot,2,0,12
+M625,Crptonyx,Merlot,2,0,3
+M626,Crptonyx,Merlot,2,0,2
+M627,Crptonyx,Merlot,2,0,1
+M628,Crptonyx,Merlot,2,0,4
+M629,Crptonyx,Merlot,2,0,1
+M6210,Crptonyx,Merlot,2,0,3
+M6211,Crptonyx,Merlot,2,0,1
+M6212,Crptonyx,Merlot,2,0,3
+M6213,Crptonyx,Merlot,2,0,2
+M6214,Crptonyx,Merlot,2,0,2
+M6215,Crptonyx,Merlot,2,0,0
+M6216,Crptonyx,Merlot,2,0,3
+C631,Cortes Maxx,Chardonnay,2,43,46
+C632,Cortes Maxx,Chardonnay,2,13,37
+C633,Cortes Maxx,Chardonnay,2,6,9
+C634,Cortes Maxx,Chardonnay,2,3,4
+C635,Cortes Maxx,Chardonnay,2,0,13
+C636,Cortes Maxx,Chardonnay,2,0,2
+C637,Cortes Maxx,Chardonnay,2,0,2
+C638,Cortes Maxx,Chardonnay,2,0,0
+C639,Cortes Maxx,Chardonnay,2,0,0
+C6310,Cortes Maxx,Chardonnay,2,0,0
+C6311,Cortes Maxx,Chardonnay,2,1,1
+C6312,Cortes Maxx,Chardonnay,2,1,0
+C6313,Cortes Maxx,Chardonnay,2,1,2
+C6314,Cortes Maxx,Chardonnay,2,0,0
+C6315,Cortes Maxx,Chardonnay,2,0,4
+C6316,Cortes Maxx,Chardonnay,2,0,11
+C681,Cortes Maxx,Chardonnay,2,21,97
+C682,Cortes Maxx,Chardonnay,2,9,14
+C683,Cortes Maxx,Chardonnay,2,2,29
+C684,Cortes Maxx,Chardonnay,2,3,5
+C685,Cortes Maxx,Chardonnay,2,0,9
+C686,Cortes Maxx,Chardonnay,2,1,8
+C687,Cortes Maxx,Chardonnay,2,0,3
+C688,Cortes Maxx,Chardonnay,2,0,0
+C689,Cortes Maxx,Chardonnay,2,0,0
+C6910,Cortes Maxx,Chardonnay,2,0,0
+C6911,Cortes Maxx,Chardonnay,2,1,1
+C6912,Cortes Maxx,Chardonnay,2,1,0
+C6913,Cortes Maxx,Chardonnay,2,0,1
+C6914,Cortes Maxx,Chardonnay,2,0,0
+C6915,Cortes Maxx,Chardonnay,2,1,0
+C6916,Cortes Maxx,Chardonnay,2,0,6
+C731,Cortes Maxx,Chardonnay,2,20,75
+C732,Cortes Maxx,Chardonnay,2,9,31
+C733,Cortes Maxx,Chardonnay,2,27,28
+C734,Cortes Maxx,Chardonnay,2,9,9
+C735,Cortes Maxx,Chardonnay,2,2,14
+C736,Cortes Maxx,Chardonnay,2,0,6
+C737,Cortes Maxx,Chardonnay,2,0,18
+C738,Cortes Maxx,Chardonnay,2,2,4
+C739,Cortes Maxx,Chardonnay,2,1,4
+C7310,Cortes Maxx,Chardonnay,2,1,3
+C7311,Cortes Maxx,Chardonnay,2,0,1
+C7312,Cortes Maxx,Chardonnay,2,0,0
+C7313,Cortes Maxx,Chardonnay,2,0,3
+C7314,Cortes Maxx,Chardonnay,2,0,0
+C7315,Cortes Maxx,Chardonnay,2,0,0
+C7316,Cortes Maxx,Chardonnay,2,1,4
+C781,Cortes Maxx,Chardonnay,2,12,43
+C782,Cortes Maxx,Chardonnay,2,9,66
+C783,Cortes Maxx,Chardonnay,2,2,30
+C784,Cortes Maxx,Chardonnay,2,2,7
+C785,Cortes Maxx,Chardonnay,2,1,3
+C786,Cortes Maxx,Chardonnay,2,1,2
+C787,Cortes Maxx,Chardonnay,2,4,1
+C788,Cortes Maxx,Chardonnay,2,1,3
+C789,Cortes Maxx,Chardonnay,2,0,1
+C7810,Cortes Maxx,Chardonnay,2,0,0
+C7811,Cortes Maxx,Chardonnay,2,1,1
+C7812,Cortes Maxx,Chardonnay,2,0,3
+C7813,Cortes Maxx,Chardonnay,2,0,0
+C7814,Cortes Maxx,Chardonnay,2,0,0
+C841,Cortes Maxx,Chardonnay,2,31,91
+C842,Cortes Maxx,Chardonnay,2,15,61
+C843,Cortes Maxx,Chardonnay,2,17,44
+C844,Cortes Maxx,Chardonnay,2,5,40
+C845,Cortes Maxx,Chardonnay,2,5,50
+C846,Cortes Maxx,Chardonnay,2,5,19
+C847,Cortes Maxx,Chardonnay,2,9,29
+C848,Cortes Maxx,Chardonnay,2,4,30
+C849,Cortes Maxx,Chardonnay,2,4,14
+C8410,Cortes Maxx,Chardonnay,2,12,34
+C8411,Cortes Maxx,Chardonnay,2,0,12
+C8412,Cortes Maxx,Chardonnay,2,1,8
+C8413,Cortes Maxx,Chardonnay,2,5,3
+C8414,Cortes Maxx,Chardonnay,2,3,25
+CF11,Crptonyx,Cabernet franc,3,1,41
+CF12,Crptonyx,Cabernet franc,3,0,19
+CF13,Crptonyx,Cabernet franc,3,0,16
+CF14,Crptonyx,Cabernet franc,3,2,29
+CF15,Crptonyx,Cabernet franc,3,0,19
+CF16,Crptonyx,Cabernet franc,3,0,32
+CF17,Crptonyx,Cabernet franc,3,0,15
+CF18,Crptonyx,Cabernet franc,3,0,14
+CF19,Crptonyx,Cabernet franc,3,2,8
+CF110,Crptonyx,Cabernet franc,3,0,2
+CF111,Crptonyx,Cabernet franc,3,1,23
+CF112,Crptonyx,Cabernet franc,3,0,11
+CF113,Crptonyx,Cabernet franc,3,0,22
+CF114,Crptonyx,Cabernet franc,3,0,17
+CF115,Crptonyx,Cabernet franc,3,1,31
+CF116,Crptonyx,Cabernet franc,3,0,46
+CF117,Crptonyx,Cabernet franc,3,0,69
+CF61,Crptonyx,Cabernet franc,3,0,19
+CF62,Crptonyx,Cabernet franc,3,0,3
+CF63,Crptonyx,Cabernet franc,3,0,13
+CF64,Crptonyx,Cabernet franc,3,0,10
+CF65,Crptonyx,Cabernet franc,3,0,8
+CF66,Crptonyx,Cabernet franc,3,0,5
+CF67,Crptonyx,Cabernet franc,3,0,0
+CF68,Crptonyx,Cabernet franc,3,0,0
+CF69,Crptonyx,Cabernet franc,3,0,2
+CF610,Crptonyx,Cabernet franc,3,0,1
+CF611,Crptonyx,Cabernet franc,3,0,0
+CF612,Crptonyx,Cabernet franc,3,0,3
+CF613,Crptonyx,Cabernet franc,3,0,3
+CF614,Crptonyx,Cabernet franc,3,0,6
+CF615,Crptonyx,Cabernet franc,3,0,13
+CF616,Crptonyx,Cabernet franc,3,0,12
+CF617,Crptonyx,Cabernet franc,3,0,9
+CF121,Crptonyx,Cabernet franc,3,0,21
+CF122,Crptonyx,Cabernet franc,3,0,7
+CF123,Crptonyx,Cabernet franc,3,0,6
+CF124,Crptonyx,Cabernet franc,3,0,4
+CF125,Crptonyx,Cabernet franc,3,0,3
+CF126,Crptonyx,Cabernet franc,3,0,1
+CF127,Crptonyx,Cabernet franc,3,0,1
+CF128,Crptonyx,Cabernet franc,3,0,1
+CF129,Crptonyx,Cabernet franc,3,0,1
+CF1210,Crptonyx,Cabernet franc,3,0,1
+CF1211,Crptonyx,Cabernet franc,3,0,3
+CF1212,Crptonyx,Cabernet franc,3,0,4
+CF1213,Crptonyx,Cabernet franc,3,0,1
+CF1214,Crptonyx,Cabernet franc,3,0,1
+CF1215,Crptonyx,Cabernet franc,3,0,0
+CF1216,Crptonyx,Cabernet franc,3,0,1
+CF1217,Crptonyx,Cabernet franc,3,0,4
+CF171,Crptonyx,Cabernet franc,3,5,17
+CF172,Crptonyx,Cabernet franc,3,0,6
+CF173,Crptonyx,Cabernet franc,3,0,5
+CF174,Crptonyx,Cabernet franc,3,0,5
+CF175,Crptonyx,Cabernet franc,3,0,2
+CF176,Crptonyx,Cabernet franc,3,0,1
+CF177,Crptonyx,Cabernet franc,3,0,2
+CF178,Crptonyx,Cabernet franc,3,0,6
+CF179,Crptonyx,Cabernet franc,3,0,4
+CF1710,Crptonyx,Cabernet franc,3,0,0
+CF1711,Crptonyx,Cabernet franc,3,0,1
+CF1712,Crptonyx,Cabernet franc,3,0,0
+CF1713,Crptonyx,Cabernet franc,3,0,2
+CF1714,Crptonyx,Cabernet franc,3,1,1
+CF1715,Crptonyx,Cabernet franc,3,0,7
+CF1716,Crptonyx,Cabernet franc,3,1,2
+CF1717,Crptonyx,Cabernet franc,3,0,9
+CF1718,Crptonyx,Cabernet franc,3,0,10
+CF221,Crptonyx,Cabernet franc,3,4,71
+CF222,Crptonyx,Cabernet franc,3,1,19
+CF223,Crptonyx,Cabernet franc,3,0,7
+CF224,Crptonyx,Cabernet franc,3,0,11
+CF225,Crptonyx,Cabernet franc,3,0,5
+CF226,Crptonyx,Cabernet franc,3,0,4
+CF227,Crptonyx,Cabernet franc,3,0,6
+CF228,Crptonyx,Cabernet franc,3,0,8
+CF229,Crptonyx,Cabernet franc,3,0,3
+CF2210,Crptonyx,Cabernet franc,3,0,7
+CF2211,Crptonyx,Cabernet franc,3,0,1
+CF2212,Crptonyx,Cabernet franc,3,0,3
+CF2213,Crptonyx,Cabernet franc,3,0,0
+CF2214,Crptonyx,Cabernet franc,3,0,7
+CF2215,Crptonyx,Cabernet franc,3,0,3
+CF2216,Crptonyx,Cabernet franc,3,0,5
+CF2217,Crptonyx,Cabernet franc,3,0,5
+CS231,Cortes Maxx,Cabernet Sauv,3,31,71
+CS232,Cortes Maxx,Cabernet Sauv,3,2,14
+CS233,Cortes Maxx,Cabernet Sauv,3,0,2
+CS234,Cortes Maxx,Cabernet Sauv,3,0,4
+CS235,Cortes Maxx,Cabernet Sauv,3,0,5
+CS236,Cortes Maxx,Cabernet Sauv,3,0,1
+CS237,Cortes Maxx,Cabernet Sauv,3,0,0
+CS238,Cortes Maxx,Cabernet Sauv,3,0,3
+CS239,Cortes Maxx,Cabernet Sauv,3,0,2
+CS2310,Cortes Maxx,Cabernet Sauv,3,0,1
+CS2311,Cortes Maxx,Cabernet Sauv,3,0,0
+CS2312,Cortes Maxx,Cabernet Sauv,3,0,5
+CS2313,Cortes Maxx,Cabernet Sauv,3,0,0
+CS2314,Cortes Maxx,Cabernet Sauv,3,0,0
+CS2315,Cortes Maxx,Cabernet Sauv,3,0,2
+CS2316,Cortes Maxx,Cabernet Sauv,3,1,2
+CS2317,Cortes Maxx,Cabernet Sauv,3,0,2
+CS281,Cortes Maxx,Cabernet Sauv,3,44,44
+CS282,Cortes Maxx,Cabernet Sauv,3,2,10
+CS283,Cortes Maxx,Cabernet Sauv,3,1,8
+CS284,Cortes Maxx,Cabernet Sauv,3,1,4
+CS285,Cortes Maxx,Cabernet Sauv,3,0,2
+CS286,Cortes Maxx,Cabernet Sauv,3,0,4
+CS287,Cortes Maxx,Cabernet Sauv,3,0,1
+CS288,Cortes Maxx,Cabernet Sauv,3,0,1
+CS289,Cortes Maxx,Cabernet Sauv,3,0,0
+CS2810,Cortes Maxx,Cabernet Sauv,3,0,1
+CS2811,Cortes Maxx,Cabernet Sauv,3,1,4
+CS2812,Cortes Maxx,Cabernet Sauv,3,0,2
+CS2813,Cortes Maxx,Cabernet Sauv,3,0,0
+CS2814,Cortes Maxx,Cabernet Sauv,3,0,0
+CS2815,Cortes Maxx,Cabernet Sauv,3,0,1
+CS2816,Cortes Maxx,Cabernet Sauv,3,0,3
+CS2817,Cortes Maxx,Cabernet Sauv,3,0,4
+CS331,Cortes Maxx,Cabernet Sauv,3,0,4
+CS332,Cortes Maxx,Cabernet Sauv,3,3,2
+CS333,Cortes Maxx,Cabernet Sauv,3,1,3
+CS334,Cortes Maxx,Cabernet Sauv,3,0,2
+CS335,Cortes Maxx,Cabernet Sauv,3,0,0
+CS336,Cortes Maxx,Cabernet Sauv,3,0,1
+CS337,Cortes Maxx,Cabernet Sauv,3,0,2
+CS338,Cortes Maxx,Cabernet Sauv,3,0,4
+CS339,Cortes Maxx,Cabernet Sauv,3,1,2
+CS3310,Cortes Maxx,Cabernet Sauv,3,0,0
+CS3311,Cortes Maxx,Cabernet Sauv,3,0,2
+CS3312,Cortes Maxx,Cabernet Sauv,3,0,3
+CS3313,Cortes Maxx,Cabernet Sauv,3,0,0
+CS3314,Cortes Maxx,Cabernet Sauv,3,0,0
+CS371,Cortes Maxx,Cabernet Sauv,3,58,41
+CS372,Cortes Maxx,Cabernet Sauv,3,15,21
+CS373,Cortes Maxx,Cabernet Sauv,3,2,8
+CS374,Cortes Maxx,Cabernet Sauv,3,1,3
+CS375,Cortes Maxx,Cabernet Sauv,3,1,1
+CS376,Cortes Maxx,Cabernet Sauv,3,0,4
+CS377,Cortes Maxx,Cabernet Sauv,3,0,0
+CS378,Cortes Maxx,Cabernet Sauv,3,1,0
+CS379,Cortes Maxx,Cabernet Sauv,3,1,2
+CS3710,Cortes Maxx,Cabernet Sauv,3,0,0
+CS3711,Cortes Maxx,Cabernet Sauv,3,0,0
+CS3712,Cortes Maxx,Cabernet Sauv,3,0,1
+CS3713,Cortes Maxx,Cabernet Sauv,3,0,2
+CS3714,Cortes Maxx,Cabernet Sauv,3,0,1
+CS3715,Cortes Maxx,Cabernet Sauv,3,0,1
+CS3716,Cortes Maxx,Cabernet Sauv,3,0,3
+CS3717,Cortes Maxx,Cabernet Sauv,3,0,2
+CS421,Cortes Maxx,Cabernet Sauv,3,41,111
+CS422,Cortes Maxx,Cabernet Sauv,3,7,17
+CS423,Cortes Maxx,Cabernet Sauv,3,2,10
+CS424,Cortes Maxx,Cabernet Sauv,3,1,3
+CS425,Cortes Maxx,Cabernet Sauv,3,0,4
+CS426,Cortes Maxx,Cabernet Sauv,3,0,3
+CS427,Cortes Maxx,Cabernet Sauv,3,0,2
+CS428,Cortes Maxx,Cabernet Sauv,3,0,0
+CS429,Cortes Maxx,Cabernet Sauv,3,0,2
+CS4210,Cortes Maxx,Cabernet Sauv,3,1,1
+CS4211,Cortes Maxx,Cabernet Sauv,3,0,1
+CS4212,Cortes Maxx,Cabernet Sauv,3,0,0
+CS4213,Cortes Maxx,Cabernet Sauv,3,0,0
+CS4214,Cortes Maxx,Cabernet Sauv,3,0,0
+CS4215,Cortes Maxx,Cabernet Sauv,3,0,0
+CS4216,Cortes Maxx,Cabernet Sauv,3,0,3
+CS4217,Cortes Maxx,Cabernet Sauv,3,1,2
+M431,Crptonyx,Merlot,3,16,60
+M432,Crptonyx,Merlot,3,8,34
+M433,Crptonyx,Merlot,3,5,25
+M434,Crptonyx,Merlot,3,0,8
+M435,Crptonyx,Merlot,3,0,10
+M436,Crptonyx,Merlot,3,0,2
+M437,Crptonyx,Merlot,3,2,7
+M438,Crptonyx,Merlot,3,0,1
+M439,Crptonyx,Merlot,3,0,0
+M4310,Crptonyx,Merlot,3,0,1
+M4311,Crptonyx,Merlot,3,0,1
+M4312,Crptonyx,Merlot,3,0,1
+M4313,Crptonyx,Merlot,3,0,1
+M4314,Crptonyx,Merlot,3,0,2
+M4315,Crptonyx,Merlot,3,0,0
+M4316,Crptonyx,Merlot,3,0,0
+M4317,Crptonyx,Merlot,3,0,5
+M481,Crptonyx,Merlot,3,7,77
+M482,Crptonyx,Merlot,3,4,33
+M483,Crptonyx,Merlot,3,0,14
+M484,Crptonyx,Merlot,3,0,9
+M485,Crptonyx,Merlot,3,0,4
+M486,Crptonyx,Merlot,3,0,6
+M487,Crptonyx,Merlot,3,0,4
+M488,Crptonyx,Merlot,3,0,3
+M489,Crptonyx,Merlot,3,0,1
+M4810,Crptonyx,Merlot,3,0,0
+M4811,Crptonyx,Merlot,3,0,2
+M4812,Crptonyx,Merlot,3,0,1
+M4813,Crptonyx,Merlot,3,0,0
+M4814,Crptonyx,Merlot,3,0,0
+M4815,Crptonyx,Merlot,3,0,1
+M4816,Crptonyx,Merlot,3,0,0
+M4817,Crptonyx,Merlot,3,0,0
+M531,Crptonyx,Merlot,3,26,149
+M532,Crptonyx,Merlot,3,15,83
+M533,Crptonyx,Merlot,3,3,38
+M534,Crptonyx,Merlot,3,0,3
+M535,Crptonyx,Merlot,3,0,6
+M536,Crptonyx,Merlot,3,0,3
+M537,Crptonyx,Merlot,3,0,2
+M538,Crptonyx,Merlot,3,0,0
+M539,Crptonyx,Merlot,3,0,3
+M5310,Crptonyx,Merlot,3,0,1
+M5311,Crptonyx,Merlot,3,0,5
+M5312,Crptonyx,Merlot,3,0,1
+M5313,Crptonyx,Merlot,3,0,0
+M5314,Crptonyx,Merlot,3,0,0
+M5315,Crptonyx,Merlot,3,0,0
+M5316,Crptonyx,Merlot,3,0,3
+M5317,Crptonyx,Merlot,3,,
+M571,Crptonyx,Merlot,3,22,164
+M572,Crptonyx,Merlot,3,5,66
+M573,Crptonyx,Merlot,3,0,26
+M574,Crptonyx,Merlot,3,0,11
+M575,Crptonyx,Merlot,3,0,2
+M576,Crptonyx,Merlot,3,0,1
+M577,Crptonyx,Merlot,3,0,2
+M578,Crptonyx,Merlot,3,0,2
+M579,Crptonyx,Merlot,3,0,0
+M5710,Crptonyx,Merlot,3,0,2
+M5711,Crptonyx,Merlot,3,0,1
+M5712,Crptonyx,Merlot,3,0,1
+M5713,Crptonyx,Merlot,3,0,0
+M5714,Crptonyx,Merlot,3,0,0
+M5715,Crptonyx,Merlot,3,0,0
+M5716,Crptonyx,Merlot,3,0,3
+M621,Crptonyx,Merlot,3,34,133
+M622,Crptonyx,Merlot,3,5,42
+M623,Crptonyx,Merlot,3,0,32
+M624,Crptonyx,Merlot,3,0,12
+M625,Crptonyx,Merlot,3,0,3
+M626,Crptonyx,Merlot,3,0,2
+M627,Crptonyx,Merlot,3,0,1
+M628,Crptonyx,Merlot,3,0,4
+M629,Crptonyx,Merlot,3,0,1
+M6210,Crptonyx,Merlot,3,0,3
+M6211,Crptonyx,Merlot,3,0,1
+M6212,Crptonyx,Merlot,3,0,3
+M6213,Crptonyx,Merlot,3,0,2
+M6214,Crptonyx,Merlot,3,1,2
+M6215,Crptonyx,Merlot,3,0,0
+M6216,Crptonyx,Merlot,3,0,3
+C631,Cortes Maxx,Chardonnay,3,37,46
+C632,Cortes Maxx,Chardonnay,3,13,37
+C633,Cortes Maxx,Chardonnay,3,11,9
+C634,Cortes Maxx,Chardonnay,3,4,4
+C635,Cortes Maxx,Chardonnay,3,3,13
+C636,Cortes Maxx,Chardonnay,3,3,2
+C637,Cortes Maxx,Chardonnay,3,0,2
+C638,Cortes Maxx,Chardonnay,3,1,0
+C639,Cortes Maxx,Chardonnay,3,1,0
+C6310,Cortes Maxx,Chardonnay,3,0,0
+C6311,Cortes Maxx,Chardonnay,3,1,1
+C6312,Cortes Maxx,Chardonnay,3,0,0
+C6313,Cortes Maxx,Chardonnay,3,2,2
+C6314,Cortes Maxx,Chardonnay,3,0,0
+C6315,Cortes Maxx,Chardonnay,3,3,4
+C6316,Cortes Maxx,Chardonnay,3,0,11
+C681,Cortes Maxx,Chardonnay,3,35,97
+C682,Cortes Maxx,Chardonnay,3,25,14
+C683,Cortes Maxx,Chardonnay,3,8,29
+C684,Cortes Maxx,Chardonnay,3,4,5
+C685,Cortes Maxx,Chardonnay,3,1,9
+C686,Cortes Maxx,Chardonnay,3,1,8
+C687,Cortes Maxx,Chardonnay,3,1,3
+C688,Cortes Maxx,Chardonnay,3,2,0
+C689,Cortes Maxx,Chardonnay,3,1,0
+C6910,Cortes Maxx,Chardonnay,3,1,0
+C6911,Cortes Maxx,Chardonnay,3,0,1
+C6912,Cortes Maxx,Chardonnay,3,1,0
+C6913,Cortes Maxx,Chardonnay,3,0,1
+C6914,Cortes Maxx,Chardonnay,3,0,0
+C6915,Cortes Maxx,Chardonnay,3,0,0
+C6916,Cortes Maxx,Chardonnay,3,0,6
+C731,Cortes Maxx,Chardonnay,3,25,75
+C732,Cortes Maxx,Chardonnay,3,10,31
+C733,Cortes Maxx,Chardonnay,3,25,28
+C734,Cortes Maxx,Chardonnay,3,7,9
+C735,Cortes Maxx,Chardonnay,3,3,14
+C736,Cortes Maxx,Chardonnay,3,1,6
+C737,Cortes Maxx,Chardonnay,3,4,18
+C738,Cortes Maxx,Chardonnay,3,0,4
+C739,Cortes Maxx,Chardonnay,3,2,4
+C7310,Cortes Maxx,Chardonnay,3,1,3
+C7311,Cortes Maxx,Chardonnay,3,0,1
+C7312,Cortes Maxx,Chardonnay,3,0,0
+C7313,Cortes Maxx,Chardonnay,3,0,3
+C7314,Cortes Maxx,Chardonnay,3,0,0
+C7315,Cortes Maxx,Chardonnay,3,0,0
+C7316,Cortes Maxx,Chardonnay,3,1,4
+C781,Cortes Maxx,Chardonnay,3,11,43
+C782,Cortes Maxx,Chardonnay,3,12,66
+C783,Cortes Maxx,Chardonnay,3,3,30
+C784,Cortes Maxx,Chardonnay,3,3,7
+C785,Cortes Maxx,Chardonnay,3,1,3
+C786,Cortes Maxx,Chardonnay,3,2,2
+C787,Cortes Maxx,Chardonnay,3,2,1
+C788,Cortes Maxx,Chardonnay,3,0,3
+C789,Cortes Maxx,Chardonnay,3,0,1
+C7810,Cortes Maxx,Chardonnay,3,0,0
+C7811,Cortes Maxx,Chardonnay,3,0,1
+C7812,Cortes Maxx,Chardonnay,3,1,3
+C7813,Cortes Maxx,Chardonnay,3,1,0
+C7814,Cortes Maxx,Chardonnay,3,1,0
+C841,Cortes Maxx,Chardonnay,3,57,91
+C842,Cortes Maxx,Chardonnay,3,30,61
+C843,Cortes Maxx,Chardonnay,3,27,44
+C844,Cortes Maxx,Chardonnay,3,12,40
+C845,Cortes Maxx,Chardonnay,3,10,50
+C846,Cortes Maxx,Chardonnay,3,7,19
+C847,Cortes Maxx,Chardonnay,3,14,29
+C848,Cortes Maxx,Chardonnay,3,3,30
+C849,Cortes Maxx,Chardonnay,3,2,14
+C8410,Cortes Maxx,Chardonnay,3,15,34
+C8411,Cortes Maxx,Chardonnay,3,6,12
+C8412,Cortes Maxx,Chardonnay,3,4,8
+C8413,Cortes Maxx,Chardonnay,3,3,3
+C8414,Cortes Maxx,Chardonnay,3,1,25
+CF11,Crptonyx,Cabernet franc,4,13,41
+CF12,Crptonyx,Cabernet franc,4,4,19
+CF13,Crptonyx,Cabernet franc,4,7,16
+CF14,Crptonyx,Cabernet franc,4,3,29
+CF15,Crptonyx,Cabernet franc,4,2,19
+CF16,Crptonyx,Cabernet franc,4,1,32
+CF17,Crptonyx,Cabernet franc,4,1,15
+CF18,Crptonyx,Cabernet franc,4,0,14
+CF19,Crptonyx,Cabernet franc,4,0,8
+CF110,Crptonyx,Cabernet franc,4,0,2
+CF111,Crptonyx,Cabernet franc,4,2,23
+CF112,Crptonyx,Cabernet franc,4,2,11
+CF113,Crptonyx,Cabernet franc,4,1,22
+CF114,Crptonyx,Cabernet franc,4,2,17
+CF115,Crptonyx,Cabernet franc,4,2,31
+CF116,Crptonyx,Cabernet franc,4,0,46
+CF117,Crptonyx,Cabernet franc,4,2,69
+CF61,Crptonyx,Cabernet franc,4,4,19
+CF62,Crptonyx,Cabernet franc,4,1,3
+CF63,Crptonyx,Cabernet franc,4,1,13
+CF64,Crptonyx,Cabernet franc,4,1,10
+CF65,Crptonyx,Cabernet franc,4,2,8
+CF66,Crptonyx,Cabernet franc,4,0,5
+CF67,Crptonyx,Cabernet franc,4,0,0
+CF68,Crptonyx,Cabernet franc,4,0,0
+CF69,Crptonyx,Cabernet franc,4,0,2
+CF610,Crptonyx,Cabernet franc,4,2,1
+CF611,Crptonyx,Cabernet franc,4,1,0
+CF612,Crptonyx,Cabernet franc,4,0,3
+CF613,Crptonyx,Cabernet franc,4,0,3
+CF614,Crptonyx,Cabernet franc,4,4,6
+CF615,Crptonyx,Cabernet franc,4,2,13
+CF616,Crptonyx,Cabernet franc,4,3,12
+CF617,Crptonyx,Cabernet franc,4,3,9
+CF121,Crptonyx,Cabernet franc,4,8,21
+CF122,Crptonyx,Cabernet franc,4,0,7
+CF123,Crptonyx,Cabernet franc,4,0,6
+CF124,Crptonyx,Cabernet franc,4,4,4
+CF125,Crptonyx,Cabernet franc,4,0,3
+CF126,Crptonyx,Cabernet franc,4,0,1
+CF127,Crptonyx,Cabernet franc,4,1,1
+CF128,Crptonyx,Cabernet franc,4,1,1
+CF129,Crptonyx,Cabernet franc,4,0,1
+CF1210,Crptonyx,Cabernet franc,4,0,1
+CF1211,Crptonyx,Cabernet franc,4,1,3
+CF1212,Crptonyx,Cabernet franc,4,0,4
+CF1213,Crptonyx,Cabernet franc,4,2,1
+CF1214,Crptonyx,Cabernet franc,4,1,1
+CF1215,Crptonyx,Cabernet franc,4,0,0
+CF1216,Crptonyx,Cabernet franc,4,0,1
+CF1217,Crptonyx,Cabernet franc,4,2,4
+CF171,Crptonyx,Cabernet franc,4,5,17
+CF172,Crptonyx,Cabernet franc,4,0,6
+CF173,Crptonyx,Cabernet franc,4,0,5
+CF174,Crptonyx,Cabernet franc,4,0,5
+CF175,Crptonyx,Cabernet franc,4,0,2
+CF176,Crptonyx,Cabernet franc,4,0,1
+CF177,Crptonyx,Cabernet franc,4,0,2
+CF178,Crptonyx,Cabernet franc,4,0,6
+CF179,Crptonyx,Cabernet franc,4,0,4
+CF1710,Crptonyx,Cabernet franc,4,0,0
+CF1711,Crptonyx,Cabernet franc,4,0,1
+CF1712,Crptonyx,Cabernet franc,4,2,0
+CF1713,Crptonyx,Cabernet franc,4,1,2
+CF1714,Crptonyx,Cabernet franc,4,0,1
+CF1715,Crptonyx,Cabernet franc,4,0,7
+CF1716,Crptonyx,Cabernet franc,4,1,2
+CF1717,Crptonyx,Cabernet franc,4,1,9
+CF1718,Crptonyx,Cabernet franc,4,2,10
+CF221,Crptonyx,Cabernet franc,4,8,71
+CF222,Crptonyx,Cabernet franc,4,1,19
+CF223,Crptonyx,Cabernet franc,4,0,7
+CF224,Crptonyx,Cabernet franc,4,0,11
+CF225,Crptonyx,Cabernet franc,4,0,5
+CF226,Crptonyx,Cabernet franc,4,0,4
+CF227,Crptonyx,Cabernet franc,4,0,6
+CF228,Crptonyx,Cabernet franc,4,0,8
+CF229,Crptonyx,Cabernet franc,4,0,3
+CF2210,Crptonyx,Cabernet franc,4,0,7
+CF2211,Crptonyx,Cabernet franc,4,1,1
+CF2212,Crptonyx,Cabernet franc,4,0,3
+CF2213,Crptonyx,Cabernet franc,4,1,0
+CF2214,Crptonyx,Cabernet franc,4,1,7
+CF2215,Crptonyx,Cabernet franc,4,0,3
+CF2216,Crptonyx,Cabernet franc,4,0,5
+CF2217,Crptonyx,Cabernet franc,4,1,5
+CS231,Crptonyx,Cabernet Sauv,0,31,31
+CS232,Crptonyx,Cabernet Sauv,0,2,2
+CS233,Crptonyx,Cabernet Sauv,0,0,0
+CS234,Crptonyx,Cabernet Sauv,0,0,0
+CS235,Crptonyx,Cabernet Sauv,0,0,0
+CS236,Crptonyx,Cabernet Sauv,0,0,0
+CS237,Crptonyx,Cabernet Sauv,0,0,0
+CS238,Crptonyx,Cabernet Sauv,0,0,0
+CS239,Crptonyx,Cabernet Sauv,0,0,0
+CS2310,Crptonyx,Cabernet Sauv,0,0,0
+CS2311,Crptonyx,Cabernet Sauv,0,0,0
+CS2312,Crptonyx,Cabernet Sauv,0,0,0
+CS2313,Crptonyx,Cabernet Sauv,0,0,0
+CS2314,Crptonyx,Cabernet Sauv,0,0,0
+CS2315,Crptonyx,Cabernet Sauv,0,0,0
+CS2316,Crptonyx,Cabernet Sauv,0,1,1
+CS2317,Crptonyx,Cabernet Sauv,0,0,0
+CS281,Crptonyx,Cabernet Sauv,0,44,44
+CS282,Crptonyx,Cabernet Sauv,0,2,2
+CS283,Crptonyx,Cabernet Sauv,0,1,1
+CS284,Crptonyx,Cabernet Sauv,0,1,1
+CS285,Crptonyx,Cabernet Sauv,0,0,0
+CS286,Crptonyx,Cabernet Sauv,0,0,0
+CS287,Crptonyx,Cabernet Sauv,0,0,0
+CS288,Crptonyx,Cabernet Sauv,0,0,0
+CS289,Crptonyx,Cabernet Sauv,0,0,0
+CS2810,Crptonyx,Cabernet Sauv,0,0,0
+CS2811,Crptonyx,Cabernet Sauv,0,1,1
+CS2812,Crptonyx,Cabernet Sauv,0,0,0
+CS2813,Crptonyx,Cabernet Sauv,0,0,0
+CS2814,Crptonyx,Cabernet Sauv,0,0,0
+CS2815,Crptonyx,Cabernet Sauv,0,0,0
+CS2816,Crptonyx,Cabernet Sauv,0,0,0
+CS2817,Crptonyx,Cabernet Sauv,0,0,0
+CS331,Crptonyx,Cabernet Sauv,0,0,0
+CS332,Crptonyx,Cabernet Sauv,0,3,3
+CS333,Crptonyx,Cabernet Sauv,0,1,1
+CS334,Crptonyx,Cabernet Sauv,0,0,0
+CS335,Crptonyx,Cabernet Sauv,0,0,0
+CS336,Crptonyx,Cabernet Sauv,0,0,0
+CS337,Crptonyx,Cabernet Sauv,0,0,0
+CS338,Crptonyx,Cabernet Sauv,0,0,0
+CS339,Crptonyx,Cabernet Sauv,0,1,1
+CS3310,Crptonyx,Cabernet Sauv,0,0,0
+CS3311,Crptonyx,Cabernet Sauv,0,0,0
+CS3312,Crptonyx,Cabernet Sauv,0,0,0
+CS3313,Crptonyx,Cabernet Sauv,0,0,0
+CS3314,Crptonyx,Cabernet Sauv,0,0,0
+CS371,Crptonyx,Cabernet Sauv,0,58,58
+CS372,Crptonyx,Cabernet Sauv,0,15,15
+CS373,Crptonyx,Cabernet Sauv,0,2,2
+CS374,Crptonyx,Cabernet Sauv,0,1,1
+CS375,Crptonyx,Cabernet Sauv,0,1,1
+CS376,Crptonyx,Cabernet Sauv,0,0,0
+CS377,Crptonyx,Cabernet Sauv,0,0,0
+CS378,Crptonyx,Cabernet Sauv,0,1,1
+CS379,Crptonyx,Cabernet Sauv,0,1,1
+CS3710,Crptonyx,Cabernet Sauv,0,0,0
+CS3711,Crptonyx,Cabernet Sauv,0,0,0
+CS3712,Crptonyx,Cabernet Sauv,0,0,0
+CS3713,Crptonyx,Cabernet Sauv,0,0,0
+CS3714,Crptonyx,Cabernet Sauv,0,0,0
+CS3715,Crptonyx,Cabernet Sauv,0,0,0
+CS3716,Crptonyx,Cabernet Sauv,0,0,0
+CS3717,Crptonyx,Cabernet Sauv,0,0,0
+CS421,Crptonyx,Cabernet Sauv,0,41,41
+CS422,Crptonyx,Cabernet Sauv,0,7,7
+CS423,Crptonyx,Cabernet Sauv,0,2,2
+CS424,Crptonyx,Cabernet Sauv,0,1,1
+CS425,Crptonyx,Cabernet Sauv,0,0,0
+CS426,Crptonyx,Cabernet Sauv,0,0,0
+CS427,Crptonyx,Cabernet Sauv,0,0,0
+CS428,Crptonyx,Cabernet Sauv,0,0,0
+CS429,Crptonyx,Cabernet Sauv,0,0,0
+CS4210,Crptonyx,Cabernet Sauv,0,1,1
+CS4211,Crptonyx,Cabernet Sauv,0,0,0
+CS4212,Crptonyx,Cabernet Sauv,0,0,0
+CS4213,Crptonyx,Cabernet Sauv,0,0,0
+CS4214,Crptonyx,Cabernet Sauv,0,0,0
+CS4215,Crptonyx,Cabernet Sauv,0,0,0
+CS4216,Crptonyx,Cabernet Sauv,0,0,0
+CS4217,Crptonyx,Cabernet Sauv,0,1,1
+M431,Crptonyx,Merlot,4,15,60
+M432,Crptonyx,Merlot,4,7,34
+M433,Crptonyx,Merlot,4,7,25
+M434,Crptonyx,Merlot,4,1,8
+M435,Crptonyx,Merlot,4,3,10
+M436,Crptonyx,Merlot,4,0,2
+M437,Crptonyx,Merlot,4,0,7
+M438,Crptonyx,Merlot,4,1,1
+M439,Crptonyx,Merlot,4,0,0
+M4310,Crptonyx,Merlot,4,2,1
+M4311,Crptonyx,Merlot,4,0,1
+M4312,Crptonyx,Merlot,4,1,1
+M4313,Crptonyx,Merlot,4,0,1
+M4314,Crptonyx,Merlot,4,0,2
+M4315,Crptonyx,Merlot,4,2,0
+M4316,Crptonyx,Merlot,4,0,0
+M4317,Crptonyx,Merlot,4,0,5
+M481,Crptonyx,Merlot,4,14,77
+M482,Crptonyx,Merlot,4,7,33
+M483,Crptonyx,Merlot,4,3,14
+M484,Crptonyx,Merlot,4,1,9
+M485,Crptonyx,Merlot,4,0,4
+M486,Crptonyx,Merlot,4,1,6
+M487,Crptonyx,Merlot,4,1,4
+M488,Crptonyx,Merlot,4,0,3
+M489,Crptonyx,Merlot,4,0,1
+M4810,Crptonyx,Merlot,4,0,0
+M4811,Crptonyx,Merlot,4,0,2
+M4812,Crptonyx,Merlot,4,0,1
+M4813,Crptonyx,Merlot,4,0,0
+M4814,Crptonyx,Merlot,4,0,0
+M4815,Crptonyx,Merlot,4,0,1
+M4816,Crptonyx,Merlot,4,0,0
+M4817,Crptonyx,Merlot,4,1,0
+M531,Crptonyx,Merlot,4,16,149
+M532,Crptonyx,Merlot,4,11,83
+M533,Crptonyx,Merlot,4,4,38
+M534,Crptonyx,Merlot,4,1,3
+M535,Crptonyx,Merlot,4,1,6
+M536,Crptonyx,Merlot,4,1,3
+M537,Crptonyx,Merlot,4,0,2
+M538,Crptonyx,Merlot,4,1,0
+M539,Crptonyx,Merlot,4,1,3
+M5310,Crptonyx,Merlot,4,1,1
+M5311,Crptonyx,Merlot,4,0,5
+M5312,Crptonyx,Merlot,4,0,1
+M5313,Crptonyx,Merlot,4,0,0
+M5314,Crptonyx,Merlot,4,0,0
+M5315,Crptonyx,Merlot,4,0,0
+M5316,Crptonyx,Merlot,4,0,3
+M5317,Crptonyx,Merlot,4,,
+M571,Crptonyx,Merlot,4,7,164
+M572,Crptonyx,Merlot,4,3,66
+M573,Crptonyx,Merlot,4,1,26
+M574,Crptonyx,Merlot,4,0,11
+M575,Crptonyx,Merlot,4,1,2
+M576,Crptonyx,Merlot,4,0,1
+M577,Crptonyx,Merlot,4,0,2
+M578,Crptonyx,Merlot,4,0,2
+M579,Crptonyx,Merlot,4,1,0
+M5710,Crptonyx,Merlot,4,0,2
+M5711,Crptonyx,Merlot,4,0,1
+M5712,Crptonyx,Merlot,4,0,1
+M5713,Crptonyx,Merlot,4,0,0
+M5714,Crptonyx,Merlot,4,0,0
+M5715,Crptonyx,Merlot,4,0,0
+M5716,Crptonyx,Merlot,4,0,3
+M621,Crptonyx,Merlot,4,16,133
+M622,Crptonyx,Merlot,4,8,42
+M623,Crptonyx,Merlot,4,3,32
+M624,Crptonyx,Merlot,4,0,12
+M625,Crptonyx,Merlot,4,1,3
+M626,Crptonyx,Merlot,4,1,2
+M627,Crptonyx,Merlot,4,0,1
+M628,Crptonyx,Merlot,4,1,4
+M629,Crptonyx,Merlot,4,0,1
+M6210,Crptonyx,Merlot,4,0,3
+M6211,Crptonyx,Merlot,4,1,1
+M6212,Crptonyx,Merlot,4,0,3
+M6213,Crptonyx,Merlot,4,0,2
+M6214,Crptonyx,Merlot,4,0,2
+M6215,Crptonyx,Merlot,4,1,0
+M6216,Crptonyx,Merlot,4,0,3
+C631,Cortes Maxx,Chardonnay,4,19,46
+C632,Cortes Maxx,Chardonnay,4,10,37
+C633,Cortes Maxx,Chardonnay,4,11,9
+C634,Cortes Maxx,Chardonnay,4,2,4
+C635,Cortes Maxx,Chardonnay,4,0,13
+C636,Cortes Maxx,Chardonnay,4,0,2
+C637,Cortes Maxx,Chardonnay,4,0,2
+C638,Cortes Maxx,Chardonnay,4,0,0
+C639,Cortes Maxx,Chardonnay,4,0,0
+C6310,Cortes Maxx,Chardonnay,4,1,0
+C6311,Cortes Maxx,Chardonnay,4,0,1
+C6312,Cortes Maxx,Chardonnay,4,0,0
+C6313,Cortes Maxx,Chardonnay,4,0,2
+C6314,Cortes Maxx,Chardonnay,4,0,0
+C6315,Cortes Maxx,Chardonnay,4,4,4
+C6316,Cortes Maxx,Chardonnay,4,0,11
+C681,Cortes Maxx,Chardonnay,4,NA,97
+C682,Cortes Maxx,Chardonnay,4,NA,14
+C683,Cortes Maxx,Chardonnay,4,NA,29
+C684,Cortes Maxx,Chardonnay,4,NA,5
+C685,Cortes Maxx,Chardonnay,4,NA,9
+C686,Cortes Maxx,Chardonnay,4,NA,8
+C687,Cortes Maxx,Chardonnay,4,NA,3
+C688,Cortes Maxx,Chardonnay,4,NA,0
+C689,Cortes Maxx,Chardonnay,4,NA,0
+C6910,Cortes Maxx,Chardonnay,4,NA,0
+C6911,Cortes Maxx,Chardonnay,4,NA,1
+C6912,Cortes Maxx,Chardonnay,4,NA,0
+C6913,Cortes Maxx,Chardonnay,4,NA,1
+C6914,Cortes Maxx,Chardonnay,4,NA,0
+C6915,Cortes Maxx,Chardonnay,4,NA,0
+C6916,Cortes Maxx,Chardonnay,4,NA,6
+C731,Cortes Maxx,Chardonnay,4,NA,75
+C732,Cortes Maxx,Chardonnay,4,NA,31
+C733,Cortes Maxx,Chardonnay,4,NA,28
+C734,Cortes Maxx,Chardonnay,4,NA,9
+C735,Cortes Maxx,Chardonnay,4,NA,14
+C736,Cortes Maxx,Chardonnay,4,NA,6
+C737,Cortes Maxx,Chardonnay,4,NA,18
+C738,Cortes Maxx,Chardonnay,4,NA,4
+C739,Cortes Maxx,Chardonnay,4,NA,4
+C7310,Cortes Maxx,Chardonnay,4,NA,3
+C7311,Cortes Maxx,Chardonnay,4,NA,1
+C7312,Cortes Maxx,Chardonnay,4,NA,0
+C7313,Cortes Maxx,Chardonnay,4,NA,3
+C7314,Cortes Maxx,Chardonnay,4,NA,0
+C7315,Cortes Maxx,Chardonnay,4,NA,0
+C7316,Cortes Maxx,Chardonnay,4,NA,4
+C781,Cortes Maxx,Chardonnay,4,NA,43
+C782,Cortes Maxx,Chardonnay,4,NA,66
+C783,Cortes Maxx,Chardonnay,4,NA,30
+C784,Cortes Maxx,Chardonnay,4,NA,7
+C785,Cortes Maxx,Chardonnay,4,NA,3
+C786,Cortes Maxx,Chardonnay,4,NA,2
+C787,Cortes Maxx,Chardonnay,4,NA,1
+C788,Cortes Maxx,Chardonnay,4,NA,3
+C789,Cortes Maxx,Chardonnay,4,NA,1
+C7810,Cortes Maxx,Chardonnay,4,NA,0
+C7811,Cortes Maxx,Chardonnay,4,NA,1
+C7812,Cortes Maxx,Chardonnay,4,NA,3
+C7813,Cortes Maxx,Chardonnay,4,NA,0
+C7814,Cortes Maxx,Chardonnay,4,NA,0
+C841,Cortes Maxx,Chardonnay,4,NA,91
+C842,Cortes Maxx,Chardonnay,4,NA,61
+C843,Cortes Maxx,Chardonnay,4,NA,44
+C844,Cortes Maxx,Chardonnay,4,NA,40
+C845,Cortes Maxx,Chardonnay,4,NA,50
+C846,Cortes Maxx,Chardonnay,4,NA,19
+C847,Cortes Maxx,Chardonnay,4,NA,29
+C848,Cortes Maxx,Chardonnay,4,NA,30
+C849,Cortes Maxx,Chardonnay,4,NA,14
+C8410,Cortes Maxx,Chardonnay,4,NA,34
+C8411,Cortes Maxx,Chardonnay,4,NA,12
+C8412,Cortes Maxx,Chardonnay,4,NA,8
+C8413,Cortes Maxx,Chardonnay,4,NA,3
+C8414,Cortes Maxx,Chardonnay,4,NA,25
+CF11,Crptonyx,Cabernet franc,6,22,41
+CF12,Crptonyx,Cabernet franc,6,5,19
+CF13,Crptonyx,Cabernet franc,6,4,16
+CF14,Crptonyx,Cabernet franc,6,7,29
+CF15,Crptonyx,Cabernet franc,6,2,19
+CF16,Crptonyx,Cabernet franc,6,4,32
+CF17,Crptonyx,Cabernet franc,6,8,15
+CF18,Crptonyx,Cabernet franc,6,8,14
+CF19,Crptonyx,Cabernet franc,6,3,8
+CF110,Crptonyx,Cabernet franc,6,3,2
+CF111,Crptonyx,Cabernet franc,6,2,23
+CF112,Crptonyx,Cabernet franc,6,3,11
+CF113,Crptonyx,Cabernet franc,6,4,22
+CF114,Crptonyx,Cabernet franc,6,1,17
+CF115,Crptonyx,Cabernet franc,6,1,31
+CF116,Crptonyx,Cabernet franc,6,3,46
+CF117,Crptonyx,Cabernet franc,6,3,69
+CF61,Crptonyx,Cabernet franc,6,17,19
+CF62,Crptonyx,Cabernet franc,6,4,3
+CF63,Crptonyx,Cabernet franc,6,0,13
+CF64,Crptonyx,Cabernet franc,6,4,10
+CF65,Crptonyx,Cabernet franc,6,1,8
+CF66,Crptonyx,Cabernet franc,6,0,5
+CF67,Crptonyx,Cabernet franc,6,1,0
+CF68,Crptonyx,Cabernet franc,6,0,0
+CF69,Crptonyx,Cabernet franc,6,0,2
+CF610,Crptonyx,Cabernet franc,6,1,1
+CF611,Crptonyx,Cabernet franc,6,0,0
+CF612,Crptonyx,Cabernet franc,6,0,3
+CF613,Crptonyx,Cabernet franc,6,2,3
+CF614,Crptonyx,Cabernet franc,6,2,6
+CF615,Crptonyx,Cabernet franc,6,1,13
+CF616,Crptonyx,Cabernet franc,6,1,12
+CF617,Crptonyx,Cabernet franc,6,6,9
+CF121,Crptonyx,Cabernet franc,6,8,21
+CF122,Crptonyx,Cabernet franc,6,1,7
+CF123,Crptonyx,Cabernet franc,6,0,6
+CF124,Crptonyx,Cabernet franc,6,1,4
+CF125,Crptonyx,Cabernet franc,6,0,3
+CF126,Crptonyx,Cabernet franc,6,0,1
+CF127,Crptonyx,Cabernet franc,6,0,1
+CF128,Crptonyx,Cabernet franc,6,0,1
+CF129,Crptonyx,Cabernet franc,6,0,1
+CF1210,Crptonyx,Cabernet franc,6,0,1
+CF1211,Crptonyx,Cabernet franc,6,0,3
+CF1212,Crptonyx,Cabernet franc,6,2,4
+CF1213,Crptonyx,Cabernet franc,6,0,1
+CF1214,Crptonyx,Cabernet franc,6,0,1
+CF1215,Crptonyx,Cabernet franc,6,1,0
+CF1216,Crptonyx,Cabernet franc,6,0,1
+CF1217,Crptonyx,Cabernet franc,6,1,4
+CF171,Crptonyx,Cabernet franc,6,3,17
+CF172,Crptonyx,Cabernet franc,6,3,6
+CF173,Crptonyx,Cabernet franc,6,1,5
+CF174,Crptonyx,Cabernet franc,6,0,5
+CF175,Crptonyx,Cabernet franc,6,0,2
+CF176,Crptonyx,Cabernet franc,6,1,1
+CF177,Crptonyx,Cabernet franc,6,1,2
+CF178,Crptonyx,Cabernet franc,6,0,6
+CF179,Crptonyx,Cabernet franc,6,0,4
+CF1710,Crptonyx,Cabernet franc,6,1,0
+CF1711,Crptonyx,Cabernet franc,6,0,1
+CF1712,Crptonyx,Cabernet franc,6,0,0
+CF1713,Crptonyx,Cabernet franc,6,3,2
+CF1714,Crptonyx,Cabernet franc,6,0,1
+CF1715,Crptonyx,Cabernet franc,6,4,7
+CF1716,Crptonyx,Cabernet franc,6,1,2
+CF1717,Crptonyx,Cabernet franc,6,0,9
+CF1718,Crptonyx,Cabernet franc,6,2,10
+CF221,Crptonyx,Cabernet franc,6,7,71
+CF222,Crptonyx,Cabernet franc,6,3,19
+CF223,Crptonyx,Cabernet franc,6,0,7
+CF224,Crptonyx,Cabernet franc,6,0,11
+CF225,Crptonyx,Cabernet franc,6,0,5
+CF226,Crptonyx,Cabernet franc,6,1,4
+CF227,Crptonyx,Cabernet franc,6,0,6
+CF228,Crptonyx,Cabernet franc,6,1,8
+CF229,Crptonyx,Cabernet franc,6,1,3
+CF2210,Crptonyx,Cabernet franc,6,1,7
+CF2211,Crptonyx,Cabernet franc,6,0,1
+CF2212,Crptonyx,Cabernet franc,6,1,3
+CF2213,Crptonyx,Cabernet franc,6,0,0
+CF2214,Crptonyx,Cabernet franc,6,1,7
+CF2215,Crptonyx,Cabernet franc,6,0,3
+CF2216,Crptonyx,Cabernet franc,6,0,5
+CF2217,Crptonyx,Cabernet franc,6,0,5
+CS231,Crptonyx,Cabernet Sauv,1,0,31
+CS232,Crptonyx,Cabernet Sauv,1,0,2
+CS233,Crptonyx,Cabernet Sauv,1,0,0
+CS234,Crptonyx,Cabernet Sauv,1,1,0
+CS235,Crptonyx,Cabernet Sauv,1,0,0
+CS236,Crptonyx,Cabernet Sauv,1,0,0
+CS237,Crptonyx,Cabernet Sauv,1,0,0
+CS238,Crptonyx,Cabernet Sauv,1,0,0
+CS239,Crptonyx,Cabernet Sauv,1,0,0
+CS2310,Crptonyx,Cabernet Sauv,1,0,0
+CS2311,Crptonyx,Cabernet Sauv,1,0,0
+CS2312,Crptonyx,Cabernet Sauv,1,0,0
+CS2313,Crptonyx,Cabernet Sauv,1,0,0
+CS2314,Crptonyx,Cabernet Sauv,1,1,0
+CS2315,Crptonyx,Cabernet Sauv,1,0,0
+CS2316,Crptonyx,Cabernet Sauv,1,0,1
+CS2317,Crptonyx,Cabernet Sauv,1,0,0
+CS281,Crptonyx,Cabernet Sauv,1,0,44
+CS282,Crptonyx,Cabernet Sauv,1,0,2
+CS283,Crptonyx,Cabernet Sauv,1,0,1
+CS284,Crptonyx,Cabernet Sauv,1,0,1
+CS285,Crptonyx,Cabernet Sauv,1,0,0
+CS286,Crptonyx,Cabernet Sauv,1,0,0
+CS287,Crptonyx,Cabernet Sauv,1,0,0
+CS288,Crptonyx,Cabernet Sauv,1,0,0
+CS289,Crptonyx,Cabernet Sauv,1,0,0
+CS2810,Crptonyx,Cabernet Sauv,1,0,0
+CS2811,Crptonyx,Cabernet Sauv,1,0,1
+CS2812,Crptonyx,Cabernet Sauv,1,0,0
+CS2813,Crptonyx,Cabernet Sauv,1,0,0
+CS2814,Crptonyx,Cabernet Sauv,1,0,0
+CS2815,Crptonyx,Cabernet Sauv,1,0,0
+CS2816,Crptonyx,Cabernet Sauv,1,0,0
+CS2817,Crptonyx,Cabernet Sauv,1,1,0
+CS331,Crptonyx,Cabernet Sauv,1,0,0
+CS332,Crptonyx,Cabernet Sauv,1,0,3
+CS333,Crptonyx,Cabernet Sauv,1,0,1
+CS334,Crptonyx,Cabernet Sauv,1,1,0
+CS335,Crptonyx,Cabernet Sauv,1,0,0
+CS336,Crptonyx,Cabernet Sauv,1,0,0
+CS337,Crptonyx,Cabernet Sauv,1,0,0
+CS338,Crptonyx,Cabernet Sauv,1,0,0
+CS339,Crptonyx,Cabernet Sauv,1,0,1
+CS3310,Crptonyx,Cabernet Sauv,1,0,0
+CS3311,Crptonyx,Cabernet Sauv,1,0,0
+CS3312,Crptonyx,Cabernet Sauv,1,0,0
+CS3313,Crptonyx,Cabernet Sauv,1,0,0
+CS3314,Crptonyx,Cabernet Sauv,1,0,0
+CS371,Crptonyx,Cabernet Sauv,1,2,58
+CS372,Crptonyx,Cabernet Sauv,1,3,15
+CS373,Crptonyx,Cabernet Sauv,1,0,2
+CS374,Crptonyx,Cabernet Sauv,1,0,1
+CS375,Crptonyx,Cabernet Sauv,1,0,1
+CS376,Crptonyx,Cabernet Sauv,1,1,0
+CS377,Crptonyx,Cabernet Sauv,1,0,0
+CS378,Crptonyx,Cabernet Sauv,1,0,1
+CS379,Crptonyx,Cabernet Sauv,1,2,1
+CS3710,Crptonyx,Cabernet Sauv,1,0,0
+CS3711,Crptonyx,Cabernet Sauv,1,0,0
+CS3712,Crptonyx,Cabernet Sauv,1,0,0
+CS3713,Crptonyx,Cabernet Sauv,1,0,0
+CS3714,Crptonyx,Cabernet Sauv,1,0,0
+CS3715,Crptonyx,Cabernet Sauv,1,0,0
+CS3716,Crptonyx,Cabernet Sauv,1,0,0
+CS3717,Crptonyx,Cabernet Sauv,1,0,0
+CS421,Crptonyx,Cabernet Sauv,1,5,41
+CS422,Crptonyx,Cabernet Sauv,1,2,7
+CS423,Crptonyx,Cabernet Sauv,1,0,2
+CS424,Crptonyx,Cabernet Sauv,1,0,1
+CS425,Crptonyx,Cabernet Sauv,1,1,0
+CS426,Crptonyx,Cabernet Sauv,1,0,0
+CS427,Crptonyx,Cabernet Sauv,1,0,0
+CS428,Crptonyx,Cabernet Sauv,1,0,0
+CS429,Crptonyx,Cabernet Sauv,1,0,0
+CS4210,Crptonyx,Cabernet Sauv,1,0,1
+CS4211,Crptonyx,Cabernet Sauv,1,0,0
+CS4212,Crptonyx,Cabernet Sauv,1,0,0
+CS4213,Crptonyx,Cabernet Sauv,1,0,0
+CS4214,Crptonyx,Cabernet Sauv,1,0,0
+CS4215,Crptonyx,Cabernet Sauv,1,0,0
+CS4216,Crptonyx,Cabernet Sauv,1,1,0
+CS4217,Crptonyx,Cabernet Sauv,1,0,1
+M431,Crptonyx,Merlot,6,6,60
+M432,Crptonyx,Merlot,6,5,34
+M433,Crptonyx,Merlot,6,5,25
+M434,Crptonyx,Merlot,6,2,8
+M435,Crptonyx,Merlot,6,0,10
+M436,Crptonyx,Merlot,6,0,2
+M437,Crptonyx,Merlot,6,0,7
+M438,Crptonyx,Merlot,6,0,1
+M439,Crptonyx,Merlot,6,0,0
+M4310,Crptonyx,Merlot,6,0,1
+M4311,Crptonyx,Merlot,6,0,1
+M4312,Crptonyx,Merlot,6,2,1
+M4313,Crptonyx,Merlot,6,0,1
+M4314,Crptonyx,Merlot,6,2,2
+M4315,Crptonyx,Merlot,6,1,0
+M4316,Crptonyx,Merlot,6,1,0
+M4317,Crptonyx,Merlot,6,3,5
+M481,Crptonyx,Merlot,6,36,77
+M482,Crptonyx,Merlot,6,12,33
+M483,Crptonyx,Merlot,6,8,14
+M484,Crptonyx,Merlot,6,3,9
+M485,Crptonyx,Merlot,6,1,4
+M486,Crptonyx,Merlot,6,2,6
+M487,Crptonyx,Merlot,6,0,4
+M488,Crptonyx,Merlot,6,0,3
+M489,Crptonyx,Merlot,6,3,1
+M4810,Crptonyx,Merlot,6,0,0
+M4811,Crptonyx,Merlot,6,0,2
+M4812,Crptonyx,Merlot,6,0,1
+M4813,Crptonyx,Merlot,6,0,0
+M4814,Crptonyx,Merlot,6,0,0
+M4815,Crptonyx,Merlot,6,1,1
+M4816,Crptonyx,Merlot,6,0,0
+M4817,Crptonyx,Merlot,6,2,0
+M531,Crptonyx,Merlot,6,32,149
+M532,Crptonyx,Merlot,6,24,83
+M533,Crptonyx,Merlot,6,3,38
+M534,Crptonyx,Merlot,6,1,3
+M535,Crptonyx,Merlot,6,3,6
+M536,Crptonyx,Merlot,6,0,3
+M537,Crptonyx,Merlot,6,0,2
+M538,Crptonyx,Merlot,6,0,0
+M539,Crptonyx,Merlot,6,2,3
+M5310,Crptonyx,Merlot,6,1,1
+M5311,Crptonyx,Merlot,6,0,5
+M5312,Crptonyx,Merlot,6,1,1
+M5313,Crptonyx,Merlot,6,0,0
+M5314,Crptonyx,Merlot,6,0,0
+M5315,Crptonyx,Merlot,6,0,0
+M5316,Crptonyx,Merlot,6,0,3
+M5317,Crptonyx,Merlot,6,1,
+M571,Crptonyx,Merlot,6,28,164
+M572,Crptonyx,Merlot,6,10,66
+M573,Crptonyx,Merlot,6,1,26
+M574,Crptonyx,Merlot,6,4,11
+M575,Crptonyx,Merlot,6,2,2
+M576,Crptonyx,Merlot,6,0,1
+M577,Crptonyx,Merlot,6,0,2
+M578,Crptonyx,Merlot,6,1,2
+M579,Crptonyx,Merlot,6,0,0
+M5710,Crptonyx,Merlot,6,0,2
+M5711,Crptonyx,Merlot,6,0,1
+M5712,Crptonyx,Merlot,6,0,1
+M5713,Crptonyx,Merlot,6,0,0
+M5714,Crptonyx,Merlot,6,0,0
+M5715,Crptonyx,Merlot,6,0,0
+M5716,Crptonyx,Merlot,6,0,3
+M621,Crptonyx,Merlot,6,42,133
+M622,Crptonyx,Merlot,6,3,42
+M623,Crptonyx,Merlot,6,0,32
+M624,Crptonyx,Merlot,6,3,12
+M625,Crptonyx,Merlot,6,0,3
+M626,Crptonyx,Merlot,6,0,2
+M627,Crptonyx,Merlot,6,0,1
+M628,Crptonyx,Merlot,6,1,4
+M629,Crptonyx,Merlot,6,0,1
+M6210,Crptonyx,Merlot,6,0,3
+M6211,Crptonyx,Merlot,6,0,1
+M6212,Crptonyx,Merlot,6,0,3
+M6213,Crptonyx,Merlot,6,0,2
+M6214,Crptonyx,Merlot,6,0,2
+M6215,Crptonyx,Merlot,6,0,0
+M6216,Crptonyx,Merlot,6,0,3
+C631,Bridage 2EC,Chardonnay,0,19,19
+C632,Bridage 2EC,Chardonnay,0,10,10
+C633,Bridage 2EC,Chardonnay,0,11,11
+C634,Bridage 2EC,Chardonnay,0,2,2
+C635,Bridage 2EC,Chardonnay,0,0,0
+C636,Bridage 2EC,Chardonnay,0,0,0
+C637,Bridage 2EC,Chardonnay,0,0,0
+C638,Bridage 2EC,Chardonnay,0,0,0
+C639,Bridage 2EC,Chardonnay,0,0,0
+C6310,Bridage 2EC,Chardonnay,0,1,1
+C6311,Bridage 2EC,Chardonnay,0,0,0
+C6312,Bridage 2EC,Chardonnay,0,0,0
+C6313,Bridage 2EC,Chardonnay,0,0,0
+C6314,Bridage 2EC,Chardonnay,0,0,0
+C6315,Bridage 2EC,Chardonnay,0,4,4
+C6316,Bridage 2EC,Chardonnay,0,0,0
+C681,Bridage 2EC,Chardonnay,0,NA,35
+C682,Bridage 2EC,Chardonnay,0,NA,25
+C683,Bridage 2EC,Chardonnay,0,NA,8
+C684,Bridage 2EC,Chardonnay,0,NA,4
+C685,Bridage 2EC,Chardonnay,0,NA,1
+C686,Bridage 2EC,Chardonnay,0,NA,1
+C687,Bridage 2EC,Chardonnay,0,NA,1
+C688,Bridage 2EC,Chardonnay,0,NA,2
+C689,Bridage 2EC,Chardonnay,0,NA,1
+C6910,Bridage 2EC,Chardonnay,0,NA,1
+C6911,Bridage 2EC,Chardonnay,0,NA,0
+C6912,Bridage 2EC,Chardonnay,0,NA,1
+C6913,Bridage 2EC,Chardonnay,0,NA,0
+C6914,Bridage 2EC,Chardonnay,0,NA,0
+C6915,Bridage 2EC,Chardonnay,0,NA,0
+C6916,Bridage 2EC,Chardonnay,0,NA,0
+C731,Bridage 2EC,Chardonnay,0,NA,25
+C732,Bridage 2EC,Chardonnay,0,NA,10
+C733,Bridage 2EC,Chardonnay,0,NA,25
+C734,Bridage 2EC,Chardonnay,0,NA,7
+C735,Bridage 2EC,Chardonnay,0,NA,3
+C736,Bridage 2EC,Chardonnay,0,NA,1
+C737,Bridage 2EC,Chardonnay,0,NA,4
+C738,Bridage 2EC,Chardonnay,0,NA,0
+C739,Bridage 2EC,Chardonnay,0,NA,2
+C7310,Bridage 2EC,Chardonnay,0,NA,1
+C7311,Bridage 2EC,Chardonnay,0,NA,0
+C7312,Bridage 2EC,Chardonnay,0,NA,0
+C7313,Bridage 2EC,Chardonnay,0,NA,0
+C7314,Bridage 2EC,Chardonnay,0,NA,0
+C7315,Bridage 2EC,Chardonnay,0,NA,0
+C7316,Bridage 2EC,Chardonnay,0,NA,1
+C781,Bridage 2EC,Chardonnay,0,NA,11
+C782,Bridage 2EC,Chardonnay,0,NA,12
+C783,Bridage 2EC,Chardonnay,0,NA,3
+C784,Bridage 2EC,Chardonnay,0,NA,3
+C785,Bridage 2EC,Chardonnay,0,NA,1
+C786,Bridage 2EC,Chardonnay,0,NA,2
+C787,Bridage 2EC,Chardonnay,0,NA,2
+C788,Bridage 2EC,Chardonnay,0,NA,0
+C789,Bridage 2EC,Chardonnay,0,NA,0
+C7810,Bridage 2EC,Chardonnay,0,NA,0
+C7811,Bridage 2EC,Chardonnay,0,NA,0
+C7812,Bridage 2EC,Chardonnay,0,NA,1
+C7813,Bridage 2EC,Chardonnay,0,NA,1
+C7814,Bridage 2EC,Chardonnay,0,NA,1
+C841,Bridage 2EC,Chardonnay,0,NA,57
+C842,Bridage 2EC,Chardonnay,0,NA,30
+C843,Bridage 2EC,Chardonnay,0,NA,27
+C844,Bridage 2EC,Chardonnay,0,NA,12
+C845,Bridage 2EC,Chardonnay,0,NA,10
+C846,Bridage 2EC,Chardonnay,0,NA,7
+C847,Bridage 2EC,Chardonnay,0,NA,14
+C848,Bridage 2EC,Chardonnay,0,NA,3
+C849,Bridage 2EC,Chardonnay,0,NA,2
+C8410,Bridage 2EC,Chardonnay,0,NA,15
+C8411,Bridage 2EC,Chardonnay,0,NA,6
+C8412,Bridage 2EC,Chardonnay,0,NA,4
+C8413,Bridage 2EC,Chardonnay,0,NA,3
+C8414,Bridage 2EC,Chardonnay,0,NA,1
+CF11,Crptonyx,Cabernet franc,8,1,41
+CF12,Crptonyx,Cabernet franc,8,2,19
+CF13,Crptonyx,Cabernet franc,8,1,16
+CF14,Crptonyx,Cabernet franc,8,1,29
+CF15,Crptonyx,Cabernet franc,8,2,19
+CF16,Crptonyx,Cabernet franc,8,2,32
+CF17,Crptonyx,Cabernet franc,8,3,15
+CF18,Crptonyx,Cabernet franc,8,0,14
+CF19,Crptonyx,Cabernet franc,8,0,8
+CF110,Crptonyx,Cabernet franc,8,0,2
+CF111,Crptonyx,Cabernet franc,8,1,23
+CF112,Crptonyx,Cabernet franc,8,1,11
+CF113,Crptonyx,Cabernet franc,8,2,22
+CF114,Crptonyx,Cabernet franc,8,1,17
+CF115,Crptonyx,Cabernet franc,8,2,31
+CF116,Crptonyx,Cabernet franc,8,5,46
+CF117,Crptonyx,Cabernet franc,8,17,69
+CF61,Crptonyx,Cabernet franc,8,5,19
+CF62,Crptonyx,Cabernet franc,8,1,3
+CF63,Crptonyx,Cabernet franc,8,1,13
+CF64,Crptonyx,Cabernet franc,8,3,10
+CF65,Crptonyx,Cabernet franc,8,1,8
+CF66,Crptonyx,Cabernet franc,8,2,5
+CF67,Crptonyx,Cabernet franc,8,2,0
+CF68,Crptonyx,Cabernet franc,8,0,0
+CF69,Crptonyx,Cabernet franc,8,1,2
+CF610,Crptonyx,Cabernet franc,8,2,1
+CF611,Crptonyx,Cabernet franc,8,0,0
+CF612,Crptonyx,Cabernet franc,8,1,3
+CF613,Crptonyx,Cabernet franc,8,0,3
+CF614,Crptonyx,Cabernet franc,8,1,6
+CF615,Crptonyx,Cabernet franc,8,9,13
+CF616,Crptonyx,Cabernet franc,8,4,12
+CF617,Crptonyx,Cabernet franc,8,16,9
+CF121,Crptonyx,Cabernet franc,8,6,21
+CF122,Crptonyx,Cabernet franc,8,2,7
+CF123,Crptonyx,Cabernet franc,8,2,6
+CF124,Crptonyx,Cabernet franc,8,0,4
+CF125,Crptonyx,Cabernet franc,8,4,3
+CF126,Crptonyx,Cabernet franc,8,0,1
+CF127,Crptonyx,Cabernet franc,8,3,1
+CF128,Crptonyx,Cabernet franc,8,0,1
+CF129,Crptonyx,Cabernet franc,8,1,1
+CF1210,Crptonyx,Cabernet franc,8,0,1
+CF1211,Crptonyx,Cabernet franc,8,0,3
+CF1212,Crptonyx,Cabernet franc,8,0,4
+CF1213,Crptonyx,Cabernet franc,8,0,1
+CF1214,Crptonyx,Cabernet franc,8,0,1
+CF1215,Crptonyx,Cabernet franc,8,0,0
+CF1216,Crptonyx,Cabernet franc,8,0,1
+CF1217,Crptonyx,Cabernet franc,8,5,4
+CF171,Crptonyx,Cabernet franc,8,2,17
+CF172,Crptonyx,Cabernet franc,8,3,6
+CF173,Crptonyx,Cabernet franc,8,1,5
+CF174,Crptonyx,Cabernet franc,8,1,5
+CF175,Crptonyx,Cabernet franc,8,0,2
+CF176,Crptonyx,Cabernet franc,8,0,1
+CF177,Crptonyx,Cabernet franc,8,0,2
+CF178,Crptonyx,Cabernet franc,8,0,6
+CF179,Crptonyx,Cabernet franc,8,2,4
+CF1710,Crptonyx,Cabernet franc,8,1,0
+CF1711,Crptonyx,Cabernet franc,8,0,1
+CF1712,Crptonyx,Cabernet franc,8,1,0
+CF1713,Crptonyx,Cabernet franc,8,0,2
+CF1714,Crptonyx,Cabernet franc,8,0,1
+CF1715,Crptonyx,Cabernet franc,8,3,7
+CF1716,Crptonyx,Cabernet franc,8,2,2
+CF1717,Crptonyx,Cabernet franc,8,0,9
+CF1718,Crptonyx,Cabernet franc,8,3,10
+CF221,Crptonyx,Cabernet franc,8,7,71
+CF222,Crptonyx,Cabernet franc,8,2,19
+CF223,Crptonyx,Cabernet franc,8,3,7
+CF224,Crptonyx,Cabernet franc,8,0,11
+CF225,Crptonyx,Cabernet franc,8,0,5
+CF226,Crptonyx,Cabernet franc,8,2,4
+CF227,Crptonyx,Cabernet franc,8,0,6
+CF228,Crptonyx,Cabernet franc,8,1,8
+CF229,Crptonyx,Cabernet franc,8,0,3
+CF2210,Crptonyx,Cabernet franc,8,0,7
+CF2211,Crptonyx,Cabernet franc,8,1,1
+CF2212,Crptonyx,Cabernet franc,8,0,3
+CF2213,Crptonyx,Cabernet franc,8,0,0
+CF2214,Crptonyx,Cabernet franc,8,0,7
+CF2215,Crptonyx,Cabernet franc,8,0,3
+CF2216,Crptonyx,Cabernet franc,8,3,5
+CF2217,Crptonyx,Cabernet franc,8,13,5
+CS231,Crptonyx,Cabernet Sauv,3,0,31
+CS232,Crptonyx,Cabernet Sauv,3,0,2
+CS233,Crptonyx,Cabernet Sauv,3,0,0
+CS234,Crptonyx,Cabernet Sauv,3,1,0
+CS235,Crptonyx,Cabernet Sauv,3,0,0
+CS236,Crptonyx,Cabernet Sauv,3,0,0
+CS237,Crptonyx,Cabernet Sauv,3,0,0
+CS238,Crptonyx,Cabernet Sauv,3,0,0
+CS239,Crptonyx,Cabernet Sauv,3,0,0
+CS2310,Crptonyx,Cabernet Sauv,3,0,0
+CS2311,Crptonyx,Cabernet Sauv,3,0,0
+CS2312,Crptonyx,Cabernet Sauv,3,0,0
+CS2313,Crptonyx,Cabernet Sauv,3,0,0
+CS2314,Crptonyx,Cabernet Sauv,3,0,0
+CS2315,Crptonyx,Cabernet Sauv,3,0,0
+CS2316,Crptonyx,Cabernet Sauv,3,0,1
+CS2317,Crptonyx,Cabernet Sauv,3,0,0
+CS281,Crptonyx,Cabernet Sauv,3,0,44
+CS282,Crptonyx,Cabernet Sauv,3,0,2
+CS283,Crptonyx,Cabernet Sauv,3,0,1
+CS284,Crptonyx,Cabernet Sauv,3,0,1
+CS285,Crptonyx,Cabernet Sauv,3,0,0
+CS286,Crptonyx,Cabernet Sauv,3,0,0
+CS287,Crptonyx,Cabernet Sauv,3,0,0
+CS288,Crptonyx,Cabernet Sauv,3,0,0
+CS289,Crptonyx,Cabernet Sauv,3,0,0
+CS2810,Crptonyx,Cabernet Sauv,3,0,0
+CS2811,Crptonyx,Cabernet Sauv,3,0,1
+CS2812,Crptonyx,Cabernet Sauv,3,0,0
+CS2813,Crptonyx,Cabernet Sauv,3,0,0
+CS2814,Crptonyx,Cabernet Sauv,3,0,0
+CS2815,Crptonyx,Cabernet Sauv,3,0,0
+CS2816,Crptonyx,Cabernet Sauv,3,0,0
+CS2817,Crptonyx,Cabernet Sauv,3,0,0
+CS331,Crptonyx,Cabernet Sauv,3,0,0
+CS332,Crptonyx,Cabernet Sauv,3,0,3
+CS333,Crptonyx,Cabernet Sauv,3,0,1
+CS334,Crptonyx,Cabernet Sauv,3,0,0
+CS335,Crptonyx,Cabernet Sauv,3,0,0
+CS336,Crptonyx,Cabernet Sauv,3,0,0
+CS337,Crptonyx,Cabernet Sauv,3,0,0
+CS338,Crptonyx,Cabernet Sauv,3,0,0
+CS339,Crptonyx,Cabernet Sauv,3,0,1
+CS3310,Crptonyx,Cabernet Sauv,3,0,0
+CS3311,Crptonyx,Cabernet Sauv,3,0,0
+CS3312,Crptonyx,Cabernet Sauv,3,0,0
+CS3313,Crptonyx,Cabernet Sauv,3,0,0
+CS3314,Crptonyx,Cabernet Sauv,3,0,0
+CS371,Crptonyx,Cabernet Sauv,3,1,58
+CS372,Crptonyx,Cabernet Sauv,3,0,15
+CS373,Crptonyx,Cabernet Sauv,3,0,2
+CS374,Crptonyx,Cabernet Sauv,3,0,1
+CS375,Crptonyx,Cabernet Sauv,3,0,1
+CS376,Crptonyx,Cabernet Sauv,3,0,0
+CS377,Crptonyx,Cabernet Sauv,3,0,0
+CS378,Crptonyx,Cabernet Sauv,3,0,1
+CS379,Crptonyx,Cabernet Sauv,3,0,1
+CS3710,Crptonyx,Cabernet Sauv,3,0,0
+CS3711,Crptonyx,Cabernet Sauv,3,0,0
+CS3712,Crptonyx,Cabernet Sauv,3,0,0
+CS3713,Crptonyx,Cabernet Sauv,3,0,0
+CS3714,Crptonyx,Cabernet Sauv,3,0,0
+CS3715,Crptonyx,Cabernet Sauv,3,0,0
+CS3716,Crptonyx,Cabernet Sauv,3,0,0
+CS3717,Crptonyx,Cabernet Sauv,3,0,0
+CS421,Crptonyx,Cabernet Sauv,3,0,41
+CS422,Crptonyx,Cabernet Sauv,3,0,7
+CS423,Crptonyx,Cabernet Sauv,3,0,2
+CS424,Crptonyx,Cabernet Sauv,3,0,1
+CS425,Crptonyx,Cabernet Sauv,3,0,0
+CS426,Crptonyx,Cabernet Sauv,3,0,0
+CS427,Crptonyx,Cabernet Sauv,3,2,0
+CS428,Crptonyx,Cabernet Sauv,3,0,0
+CS429,Crptonyx,Cabernet Sauv,3,3,0
+CS4210,Crptonyx,Cabernet Sauv,3,0,1
+CS4211,Crptonyx,Cabernet Sauv,3,0,0
+CS4212,Crptonyx,Cabernet Sauv,3,0,0
+CS4213,Crptonyx,Cabernet Sauv,3,0,0
+CS4214,Crptonyx,Cabernet Sauv,3,0,0
+CS4215,Crptonyx,Cabernet Sauv,3,0,0
+CS4216,Crptonyx,Cabernet Sauv,3,0,0
+CS4217,Crptonyx,Cabernet Sauv,3,0,1
+M431,Crptonyx,Merlot,8,7,60
+M432,Crptonyx,Merlot,8,4,34
+M433,Crptonyx,Merlot,8,2,25
+M434,Crptonyx,Merlot,8,0,8
+M435,Crptonyx,Merlot,8,1,10
+M436,Crptonyx,Merlot,8,0,2
+M437,Crptonyx,Merlot,8,0,7
+M438,Crptonyx,Merlot,8,0,1
+M439,Crptonyx,Merlot,8,0,0
+M4310,Crptonyx,Merlot,8,0,1
+M4311,Crptonyx,Merlot,8,0,1
+M4312,Crptonyx,Merlot,8,0,1
+M4313,Crptonyx,Merlot,8,0,1
+M4314,Crptonyx,Merlot,8,0,2
+M4315,Crptonyx,Merlot,8,0,0
+M4316,Crptonyx,Merlot,8,0,0
+M4317,Crptonyx,Merlot,8,2,5
+M481,Crptonyx,Merlot,8,26,77
+M482,Crptonyx,Merlot,8,4,33
+M483,Crptonyx,Merlot,8,1,14
+M484,Crptonyx,Merlot,8,1,9
+M485,Crptonyx,Merlot,8,3,4
+M486,Crptonyx,Merlot,8,0,6
+M487,Crptonyx,Merlot,8,0,4
+M488,Crptonyx,Merlot,8,1,3
+M489,Crptonyx,Merlot,8,0,1
+M4810,Crptonyx,Merlot,8,0,0
+M4811,Crptonyx,Merlot,8,0,2
+M4812,Crptonyx,Merlot,8,0,1
+M4813,Crptonyx,Merlot,8,1,0
+M4814,Crptonyx,Merlot,8,0,0
+M4815,Crptonyx,Merlot,8,0,1
+M4816,Crptonyx,Merlot,8,0,0
+M4817,Crptonyx,Merlot,8,4,0
+M531,Crptonyx,Merlot,8,26,149
+M532,Crptonyx,Merlot,8,5,83
+M533,Crptonyx,Merlot,8,5,38
+M534,Crptonyx,Merlot,8,3,3
+M535,Crptonyx,Merlot,8,3,6
+M536,Crptonyx,Merlot,8,2,3
+M537,Crptonyx,Merlot,8,0,2
+M538,Crptonyx,Merlot,8,0,0
+M539,Crptonyx,Merlot,8,1,3
+M5310,Crptonyx,Merlot,8,0,1
+M5311,Crptonyx,Merlot,8,0,5
+M5312,Crptonyx,Merlot,8,0,1
+M5313,Crptonyx,Merlot,8,0,0
+M5314,Crptonyx,Merlot,8,0,0
+M5315,Crptonyx,Merlot,8,0,0
+M5316,Crptonyx,Merlot,8,1,3
+M5317,Crptonyx,Merlot,8,,
+M571,Crptonyx,Merlot,8,17,164
+M572,Crptonyx,Merlot,8,2,66
+M573,Crptonyx,Merlot,8,3,26
+M574,Crptonyx,Merlot,8,1,11
+M575,Crptonyx,Merlot,8,1,2
+M576,Crptonyx,Merlot,8,0,1
+M577,Crptonyx,Merlot,8,0,2
+M578,Crptonyx,Merlot,8,0,2
+M579,Crptonyx,Merlot,8,0,0
+M5710,Crptonyx,Merlot,8,0,2
+M5711,Crptonyx,Merlot,8,0,1
+M5712,Crptonyx,Merlot,8,0,1
+M5713,Crptonyx,Merlot,8,0,0
+M5714,Crptonyx,Merlot,8,0,0
+M5715,Crptonyx,Merlot,8,0,0
+M5716,Crptonyx,Merlot,8,2,3
+M621,Crptonyx,Merlot,8,45,133
+M622,Crptonyx,Merlot,8,1,42
+M623,Crptonyx,Merlot,8,2,32
+M624,Crptonyx,Merlot,8,3,12
+M625,Crptonyx,Merlot,8,0,3
+M626,Crptonyx,Merlot,8,0,2
+M627,Crptonyx,Merlot,8,0,1
+M628,Crptonyx,Merlot,8,0,4
+M629,Crptonyx,Merlot,8,0,1
+M6210,Crptonyx,Merlot,8,0,3
+M6211,Crptonyx,Merlot,8,0,1
+M6212,Crptonyx,Merlot,8,0,3
+M6213,Crptonyx,Merlot,8,0,2
+M6214,Crptonyx,Merlot,8,0,2
+M6215,Crptonyx,Merlot,8,0,0
+M6216,Crptonyx,Merlot,8,2,3
+C631,Bridage 2EC,Chardonnay,2,0,19
+C632,Bridage 2EC,Chardonnay,2,0,10
+C633,Bridage 2EC,Chardonnay,2,0,11
+C634,Bridage 2EC,Chardonnay,2,0,2
+C635,Bridage 2EC,Chardonnay,2,0,0
+C636,Bridage 2EC,Chardonnay,2,0,0
+C637,Bridage 2EC,Chardonnay,2,0,0
+C638,Bridage 2EC,Chardonnay,2,0,0
+C639,Bridage 2EC,Chardonnay,2,0,0
+C6310,Bridage 2EC,Chardonnay,2,0,1
+C6311,Bridage 2EC,Chardonnay,2,0,0
+C6312,Bridage 2EC,Chardonnay,2,0,0
+C6313,Bridage 2EC,Chardonnay,2,0,0
+C6314,Bridage 2EC,Chardonnay,2,0,0
+C6315,Bridage 2EC,Chardonnay,2,0,4
+C6316,Bridage 2EC,Chardonnay,2,0,0
+C681,Bridage 2EC,Chardonnay,2,0,35
+C682,Bridage 2EC,Chardonnay,2,0,25
+C683,Bridage 2EC,Chardonnay,2,0,8
+C684,Bridage 2EC,Chardonnay,2,0,4
+C685,Bridage 2EC,Chardonnay,2,0,1
+C686,Bridage 2EC,Chardonnay,2,0,1
+C687,Bridage 2EC,Chardonnay,2,0,1
+C688,Bridage 2EC,Chardonnay,2,0,2
+C689,Bridage 2EC,Chardonnay,2,0,1
+C6910,Bridage 2EC,Chardonnay,2,0,1
+C6911,Bridage 2EC,Chardonnay,2,0,0
+C6912,Bridage 2EC,Chardonnay,2,0,1
+C6913,Bridage 2EC,Chardonnay,2,0,0
+C6914,Bridage 2EC,Chardonnay,2,0,0
+C6915,Bridage 2EC,Chardonnay,2,0,0
+C6916,Bridage 2EC,Chardonnay,2,0,0
+C731,Bridage 2EC,Chardonnay,2,0,25
+C732,Bridage 2EC,Chardonnay,2,0,10
+C733,Bridage 2EC,Chardonnay,2,0,25
+C734,Bridage 2EC,Chardonnay,2,0,7
+C735,Bridage 2EC,Chardonnay,2,0,3
+C736,Bridage 2EC,Chardonnay,2,0,1
+C737,Bridage 2EC,Chardonnay,2,0,4
+C738,Bridage 2EC,Chardonnay,2,0,0
+C739,Bridage 2EC,Chardonnay,2,0,2
+C7310,Bridage 2EC,Chardonnay,2,0,1
+C7311,Bridage 2EC,Chardonnay,2,0,0
+C7312,Bridage 2EC,Chardonnay,2,0,0
+C7313,Bridage 2EC,Chardonnay,2,0,0
+C7314,Bridage 2EC,Chardonnay,2,0,0
+C7315,Bridage 2EC,Chardonnay,2,0,0
+C7316,Bridage 2EC,Chardonnay,2,0,1
+C781,Bridage 2EC,Chardonnay,2,0,11
+C782,Bridage 2EC,Chardonnay,2,0,12
+C783,Bridage 2EC,Chardonnay,2,0,3
+C784,Bridage 2EC,Chardonnay,2,0,3
+C785,Bridage 2EC,Chardonnay,2,0,1
+C786,Bridage 2EC,Chardonnay,2,0,2
+C787,Bridage 2EC,Chardonnay,2,0,2
+C788,Bridage 2EC,Chardonnay,2,0,0
+C789,Bridage 2EC,Chardonnay,2,0,0
+C7810,Bridage 2EC,Chardonnay,2,0,0
+C7811,Bridage 2EC,Chardonnay,2,0,0
+C7812,Bridage 2EC,Chardonnay,2,0,1
+C7813,Bridage 2EC,Chardonnay,2,0,1
+C7814,Bridage 2EC,Chardonnay,2,0,1
+C841,Bridage 2EC,Chardonnay,2,0,57
+C842,Bridage 2EC,Chardonnay,2,0,30
+C843,Bridage 2EC,Chardonnay,2,0,27
+C844,Bridage 2EC,Chardonnay,2,0,12
+C845,Bridage 2EC,Chardonnay,2,0,10
+C846,Bridage 2EC,Chardonnay,2,0,7
+C847,Bridage 2EC,Chardonnay,2,0,14
+C848,Bridage 2EC,Chardonnay,2,0,3
+C849,Bridage 2EC,Chardonnay,2,0,2
+C8410,Bridage 2EC,Chardonnay,2,0,15
+C8411,Bridage 2EC,Chardonnay,2,0,6
+C8412,Bridage 2EC,Chardonnay,2,0,4
+C8413,Bridage 2EC,Chardonnay,2,0,3
+C8414,Bridage 2EC,Chardonnay,2,0,1
+CF11,Crptonyx,Cabernet franc,10,2,41
+CF12,Crptonyx,Cabernet franc,10,3,19
+CF13,Crptonyx,Cabernet franc,10,1,16
+CF14,Crptonyx,Cabernet franc,10,2,29
+CF15,Crptonyx,Cabernet franc,10,4,19
+CF16,Crptonyx,Cabernet franc,10,0,32
+CF17,Crptonyx,Cabernet franc,10,5,15
+CF18,Crptonyx,Cabernet franc,10,3,14
+CF19,Crptonyx,Cabernet franc,10,1,8
+CF110,Crptonyx,Cabernet franc,10,3,2
+CF111,Crptonyx,Cabernet franc,10,2,23
+CF112,Crptonyx,Cabernet franc,10,0,11
+CF113,Crptonyx,Cabernet franc,10,2,22
+CF114,Crptonyx,Cabernet franc,10,1,17
+CF115,Crptonyx,Cabernet franc,10,2,31
+CF116,Crptonyx,Cabernet franc,10,13,46
+CF117,Crptonyx,Cabernet franc,10,12,69
+CF61,Crptonyx,Cabernet franc,10,2,19
+CF62,Crptonyx,Cabernet franc,10,0,3
+CF63,Crptonyx,Cabernet franc,10,2,13
+CF64,Crptonyx,Cabernet franc,10,1,10
+CF65,Crptonyx,Cabernet franc,10,0,8
+CF66,Crptonyx,Cabernet franc,10,0,5
+CF67,Crptonyx,Cabernet franc,10,1,0
+CF68,Crptonyx,Cabernet franc,10,0,0
+CF69,Crptonyx,Cabernet franc,10,0,2
+CF610,Crptonyx,Cabernet franc,10,0,1
+CF611,Crptonyx,Cabernet franc,10,0,0
+CF612,Crptonyx,Cabernet franc,10,0,3
+CF613,Crptonyx,Cabernet franc,10,0,3
+CF614,Crptonyx,Cabernet franc,10,2,6
+CF615,Crptonyx,Cabernet franc,10,1,13
+CF616,Crptonyx,Cabernet franc,10,0,12
+CF617,Crptonyx,Cabernet franc,10,3,9
+CF121,Crptonyx,Cabernet franc,10,0,21
+CF122,Crptonyx,Cabernet franc,10,2,7
+CF123,Crptonyx,Cabernet franc,10,0,6
+CF124,Crptonyx,Cabernet franc,10,0,4
+CF125,Crptonyx,Cabernet franc,10,0,3
+CF126,Crptonyx,Cabernet franc,10,0,1
+CF127,Crptonyx,Cabernet franc,10,1,1
+CF128,Crptonyx,Cabernet franc,10,1,1
+CF129,Crptonyx,Cabernet franc,10,0,1
+CF1210,Crptonyx,Cabernet franc,10,0,1
+CF1211,Crptonyx,Cabernet franc,10,0,3
+CF1212,Crptonyx,Cabernet franc,10,1,4
+CF1213,Crptonyx,Cabernet franc,10,0,1
+CF1214,Crptonyx,Cabernet franc,10,0,1
+CF1215,Crptonyx,Cabernet franc,10,0,0
+CF1216,Crptonyx,Cabernet franc,10,0,1
+CF1217,Crptonyx,Cabernet franc,10,0,4
+CF171,Crptonyx,Cabernet franc,10,0,17
+CF172,Crptonyx,Cabernet franc,10,1,6
+CF173,Crptonyx,Cabernet franc,10,0,5
+CF174,Crptonyx,Cabernet franc,10,1,5
+CF175,Crptonyx,Cabernet franc,10,0,2
+CF176,Crptonyx,Cabernet franc,10,0,1
+CF177,Crptonyx,Cabernet franc,10,0,2
+CF178,Crptonyx,Cabernet franc,10,0,6
+CF179,Crptonyx,Cabernet franc,10,1,4
+CF1710,Crptonyx,Cabernet franc,10,0,0
+CF1711,Crptonyx,Cabernet franc,10,0,1
+CF1712,Crptonyx,Cabernet franc,10,0,0
+CF1713,Crptonyx,Cabernet franc,10,0,2
+CF1714,Crptonyx,Cabernet franc,10,0,1
+CF1715,Crptonyx,Cabernet franc,10,1,7
+CF1716,Crptonyx,Cabernet franc,10,0,2
+CF1717,Crptonyx,Cabernet franc,10,0,9
+CF1718,Crptonyx,Cabernet franc,10,0,10
+CF221,Crptonyx,Cabernet franc,10,1,71
+CF222,Crptonyx,Cabernet franc,10,0,19
+CF223,Crptonyx,Cabernet franc,10,0,7
+CF224,Crptonyx,Cabernet franc,10,0,11
+CF225,Crptonyx,Cabernet franc,10,0,5
+CF226,Crptonyx,Cabernet franc,10,0,4
+CF227,Crptonyx,Cabernet franc,10,0,6
+CF228,Crptonyx,Cabernet franc,10,1,8
+CF229,Crptonyx,Cabernet franc,10,0,3
+CF2210,Crptonyx,Cabernet franc,10,0,7
+CF2211,Crptonyx,Cabernet franc,10,0,1
+CF2212,Crptonyx,Cabernet franc,10,0,3
+CF2213,Crptonyx,Cabernet franc,10,0,0
+CF2214,Crptonyx,Cabernet franc,10,0,7
+CF2215,Crptonyx,Cabernet franc,10,0,3
+CF2216,Crptonyx,Cabernet franc,10,0,5
+CF2217,Crptonyx,Cabernet franc,10,0,5
+CS231,Crptonyx,Cabernet Sauv,5,3,31
+CS232,Crptonyx,Cabernet Sauv,5,0,2
+CS233,Crptonyx,Cabernet Sauv,5,2,0
+CS234,Crptonyx,Cabernet Sauv,5,0,0
+CS235,Crptonyx,Cabernet Sauv,5,0,0
+CS236,Crptonyx,Cabernet Sauv,5,0,0
+CS237,Crptonyx,Cabernet Sauv,5,0,0
+CS238,Crptonyx,Cabernet Sauv,5,1,0
+CS239,Crptonyx,Cabernet Sauv,5,0,0
+CS2310,Crptonyx,Cabernet Sauv,5,0,0
+CS2311,Crptonyx,Cabernet Sauv,5,0,0
+CS2312,Crptonyx,Cabernet Sauv,5,0,0
+CS2313,Crptonyx,Cabernet Sauv,5,0,0
+CS2314,Crptonyx,Cabernet Sauv,5,0,0
+CS2315,Crptonyx,Cabernet Sauv,5,0,0
+CS2316,Crptonyx,Cabernet Sauv,5,0,1
+CS2317,Crptonyx,Cabernet Sauv,5,3,0
+CS281,Crptonyx,Cabernet Sauv,5,2,44
+CS282,Crptonyx,Cabernet Sauv,5,1,2
+CS283,Crptonyx,Cabernet Sauv,5,0,1
+CS284,Crptonyx,Cabernet Sauv,5,0,1
+CS285,Crptonyx,Cabernet Sauv,5,0,0
+CS286,Crptonyx,Cabernet Sauv,5,0,0
+CS287,Crptonyx,Cabernet Sauv,5,0,0
+CS288,Crptonyx,Cabernet Sauv,5,0,0
+CS289,Crptonyx,Cabernet Sauv,5,0,0
+CS2810,Crptonyx,Cabernet Sauv,5,0,0
+CS2811,Crptonyx,Cabernet Sauv,5,0,1
+CS2812,Crptonyx,Cabernet Sauv,5,0,0
+CS2813,Crptonyx,Cabernet Sauv,5,0,0
+CS2814,Crptonyx,Cabernet Sauv,5,0,0
+CS2815,Crptonyx,Cabernet Sauv,5,0,0
+CS2816,Crptonyx,Cabernet Sauv,5,0,0
+CS2817,Crptonyx,Cabernet Sauv,5,0,0
+CS331,Crptonyx,Cabernet Sauv,5,1,0
+CS332,Crptonyx,Cabernet Sauv,5,0,3
+CS333,Crptonyx,Cabernet Sauv,5,0,1
+CS334,Crptonyx,Cabernet Sauv,5,0,0
+CS335,Crptonyx,Cabernet Sauv,5,0,0
+CS336,Crptonyx,Cabernet Sauv,5,0,0
+CS337,Crptonyx,Cabernet Sauv,5,0,0
+CS338,Crptonyx,Cabernet Sauv,5,1,0
+CS339,Crptonyx,Cabernet Sauv,5,0,1
+CS3310,Crptonyx,Cabernet Sauv,5,0,0
+CS3311,Crptonyx,Cabernet Sauv,5,0,0
+CS3312,Crptonyx,Cabernet Sauv,5,0,0
+CS3313,Crptonyx,Cabernet Sauv,5,0,0
+CS3314,Crptonyx,Cabernet Sauv,5,0,0
+CS371,Crptonyx,Cabernet Sauv,5,1,58
+CS372,Crptonyx,Cabernet Sauv,5,0,15
+CS373,Crptonyx,Cabernet Sauv,5,0,2
+CS374,Crptonyx,Cabernet Sauv,5,0,1
+CS375,Crptonyx,Cabernet Sauv,5,0,1
+CS376,Crptonyx,Cabernet Sauv,5,0,0
+CS377,Crptonyx,Cabernet Sauv,5,0,0
+CS378,Crptonyx,Cabernet Sauv,5,0,1
+CS379,Crptonyx,Cabernet Sauv,5,0,1
+CS3710,Crptonyx,Cabernet Sauv,5,0,0
+CS3711,Crptonyx,Cabernet Sauv,5,0,0
+CS3712,Crptonyx,Cabernet Sauv,5,0,0
+CS3713,Crptonyx,Cabernet Sauv,5,0,0
+CS3714,Crptonyx,Cabernet Sauv,5,0,0
+CS3715,Crptonyx,Cabernet Sauv,5,0,0
+CS3716,Crptonyx,Cabernet Sauv,5,0,0
+CS3717,Crptonyx,Cabernet Sauv,5,0,0
+CS421,Crptonyx,Cabernet Sauv,5,4,41
+CS422,Crptonyx,Cabernet Sauv,5,1,7
+CS423,Crptonyx,Cabernet Sauv,5,0,2
+CS424,Crptonyx,Cabernet Sauv,5,1,1
+CS425,Crptonyx,Cabernet Sauv,5,0,0
+CS426,Crptonyx,Cabernet Sauv,5,0,0
+CS427,Crptonyx,Cabernet Sauv,5,0,0
+CS428,Crptonyx,Cabernet Sauv,5,0,0
+CS429,Crptonyx,Cabernet Sauv,5,0,0
+CS4210,Crptonyx,Cabernet Sauv,5,0,1
+CS4211,Crptonyx,Cabernet Sauv,5,0,0
+CS4212,Crptonyx,Cabernet Sauv,5,0,0
+CS4213,Crptonyx,Cabernet Sauv,5,0,0
+CS4214,Crptonyx,Cabernet Sauv,5,0,0
+CS4215,Crptonyx,Cabernet Sauv,5,0,0
+CS4216,Crptonyx,Cabernet Sauv,5,0,0
+CS4217,Crptonyx,Cabernet Sauv,5,0,1
+M431,Crptonyx,Merlot,10,14,60
+M432,Crptonyx,Merlot,10,3,34
+M433,Crptonyx,Merlot,10,2,25
+M434,Crptonyx,Merlot,10,6,8
+M435,Crptonyx,Merlot,10,1,10
+M436,Crptonyx,Merlot,10,0,2
+M437,Crptonyx,Merlot,10,0,7
+M438,Crptonyx,Merlot,10,0,1
+M439,Crptonyx,Merlot,10,0,0
+M4310,Crptonyx,Merlot,10,0,1
+M4311,Crptonyx,Merlot,10,0,1
+M4312,Crptonyx,Merlot,10,0,1
+M4313,Crptonyx,Merlot,10,0,1
+M4314,Crptonyx,Merlot,10,0,2
+M4315,Crptonyx,Merlot,10,0,0
+M4316,Crptonyx,Merlot,10,0,0
+M4317,Crptonyx,Merlot,10,1,5
+M481,Crptonyx,Merlot,10,35,77
+M482,Crptonyx,Merlot,10,5,33
+M483,Crptonyx,Merlot,10,3,14
+M484,Crptonyx,Merlot,10,0,9
+M485,Crptonyx,Merlot,10,3,4
+M486,Crptonyx,Merlot,10,0,6
+M487,Crptonyx,Merlot,10,0,4
+M488,Crptonyx,Merlot,10,0,3
+M489,Crptonyx,Merlot,10,1,1
+M4810,Crptonyx,Merlot,10,0,0
+M4811,Crptonyx,Merlot,10,0,2
+M4812,Crptonyx,Merlot,10,0,1
+M4813,Crptonyx,Merlot,10,0,0
+M4814,Crptonyx,Merlot,10,0,0
+M4815,Crptonyx,Merlot,10,0,1
+M4816,Crptonyx,Merlot,10,0,0
+M4817,Crptonyx,Merlot,10,0,0
+M531,Crptonyx,Merlot,10,52,149
+M532,Crptonyx,Merlot,10,12,83
+M533,Crptonyx,Merlot,10,2,38
+M534,Crptonyx,Merlot,10,8,3
+M535,Crptonyx,Merlot,10,6,6
+M536,Crptonyx,Merlot,10,0,3
+M537,Crptonyx,Merlot,10,0,2
+M538,Crptonyx,Merlot,10,0,0
+M539,Crptonyx,Merlot,10,0,3
+M5310,Crptonyx,Merlot,10,0,1
+M5311,Crptonyx,Merlot,10,0,5
+M5312,Crptonyx,Merlot,10,0,1
+M5313,Crptonyx,Merlot,10,0,0
+M5314,Crptonyx,Merlot,10,0,0
+M5315,Crptonyx,Merlot,10,2,0
+M5316,Crptonyx,Merlot,10,1,3
+M5317,Crptonyx,Merlot,10,,
+M571,Crptonyx,Merlot,10,15,164
+M572,Crptonyx,Merlot,10,7,66
+M573,Crptonyx,Merlot,10,9,26
+M574,Crptonyx,Merlot,10,0,11
+M575,Crptonyx,Merlot,10,1,2
+M576,Crptonyx,Merlot,10,0,1
+M577,Crptonyx,Merlot,10,1,2
+M578,Crptonyx,Merlot,10,1,2
+M579,Crptonyx,Merlot,10,0,0
+M5710,Crptonyx,Merlot,10,0,2
+M5711,Crptonyx,Merlot,10,0,1
+M5712,Crptonyx,Merlot,10,0,1
+M5713,Crptonyx,Merlot,10,0,0
+M5714,Crptonyx,Merlot,10,0,0
+M5715,Crptonyx,Merlot,10,0,0
+M5716,Crptonyx,Merlot,10,1,3
+M621,Crptonyx,Merlot,10,24,133
+M622,Crptonyx,Merlot,10,0,42
+M623,Crptonyx,Merlot,10,0,32
+M624,Crptonyx,Merlot,10,0,12
+M625,Crptonyx,Merlot,10,0,3
+M626,Crptonyx,Merlot,10,0,2
+M627,Crptonyx,Merlot,10,1,1
+M628,Crptonyx,Merlot,10,0,4
+M629,Crptonyx,Merlot,10,0,1
+M6210,Crptonyx,Merlot,10,0,3
+M6211,Crptonyx,Merlot,10,0,1
+M6212,Crptonyx,Merlot,10,0,3
+M6213,Crptonyx,Merlot,10,0,2
+M6214,Crptonyx,Merlot,10,0,2
+M6215,Crptonyx,Merlot,10,0,0
+M6216,Crptonyx,Merlot,10,1,3
+C631,Bridage 2EC,Chardonnay,4,0,19
+C632,Bridage 2EC,Chardonnay,4,0,10
+C633,Bridage 2EC,Chardonnay,4,0,11
+C634,Bridage 2EC,Chardonnay,4,0,2
+C635,Bridage 2EC,Chardonnay,4,0,0
+C636,Bridage 2EC,Chardonnay,4,0,0
+C637,Bridage 2EC,Chardonnay,4,0,0
+C638,Bridage 2EC,Chardonnay,4,0,0
+C639,Bridage 2EC,Chardonnay,4,0,0
+C6310,Bridage 2EC,Chardonnay,4,0,1
+C6311,Bridage 2EC,Chardonnay,4,0,0
+C6312,Bridage 2EC,Chardonnay,4,0,0
+C6313,Bridage 2EC,Chardonnay,4,0,0
+C6314,Bridage 2EC,Chardonnay,4,0,0
+C6315,Bridage 2EC,Chardonnay,4,0,4
+C6316,Bridage 2EC,Chardonnay,4,0,0
+C681,Bridage 2EC,Chardonnay,4,0,35
+C682,Bridage 2EC,Chardonnay,4,0,25
+C683,Bridage 2EC,Chardonnay,4,0,8
+C684,Bridage 2EC,Chardonnay,4,0,4
+C685,Bridage 2EC,Chardonnay,4,0,1
+C686,Bridage 2EC,Chardonnay,4,0,1
+C687,Bridage 2EC,Chardonnay,4,0,1
+C688,Bridage 2EC,Chardonnay,4,0,2
+C689,Bridage 2EC,Chardonnay,4,0,1
+C6910,Bridage 2EC,Chardonnay,4,0,1
+C6911,Bridage 2EC,Chardonnay,4,0,0
+C6912,Bridage 2EC,Chardonnay,4,0,1
+C6913,Bridage 2EC,Chardonnay,4,0,0
+C6914,Bridage 2EC,Chardonnay,4,0,0
+C6915,Bridage 2EC,Chardonnay,4,0,0
+C6916,Bridage 2EC,Chardonnay,4,0,0
+C731,Bridage 2EC,Chardonnay,4,0,25
+C732,Bridage 2EC,Chardonnay,4,0,10
+C733,Bridage 2EC,Chardonnay,4,0,25
+C734,Bridage 2EC,Chardonnay,4,0,7
+C735,Bridage 2EC,Chardonnay,4,0,3
+C736,Bridage 2EC,Chardonnay,4,0,1
+C737,Bridage 2EC,Chardonnay,4,0,4
+C738,Bridage 2EC,Chardonnay,4,0,0
+C739,Bridage 2EC,Chardonnay,4,0,2
+C7310,Bridage 2EC,Chardonnay,4,0,1
+C7311,Bridage 2EC,Chardonnay,4,0,0
+C7312,Bridage 2EC,Chardonnay,4,0,0
+C7313,Bridage 2EC,Chardonnay,4,0,0
+C7314,Bridage 2EC,Chardonnay,4,0,0
+C7315,Bridage 2EC,Chardonnay,4,0,0
+C7316,Bridage 2EC,Chardonnay,4,0,1
+C781,Bridage 2EC,Chardonnay,4,0,11
+C782,Bridage 2EC,Chardonnay,4,0,12
+C783,Bridage 2EC,Chardonnay,4,0,3
+C784,Bridage 2EC,Chardonnay,4,0,3
+C785,Bridage 2EC,Chardonnay,4,0,1
+C786,Bridage 2EC,Chardonnay,4,0,2
+C787,Bridage 2EC,Chardonnay,4,0,2
+C788,Bridage 2EC,Chardonnay,4,0,0
+C789,Bridage 2EC,Chardonnay,4,0,0
+C7810,Bridage 2EC,Chardonnay,4,0,0
+C7811,Bridage 2EC,Chardonnay,4,0,0
+C7812,Bridage 2EC,Chardonnay,4,0,1
+C7813,Bridage 2EC,Chardonnay,4,0,1
+C7814,Bridage 2EC,Chardonnay,4,0,1
+C841,Bridage 2EC,Chardonnay,4,0,57
+C842,Bridage 2EC,Chardonnay,4,0,30
+C843,Bridage 2EC,Chardonnay,4,0,27
+C844,Bridage 2EC,Chardonnay,4,0,12
+C845,Bridage 2EC,Chardonnay,4,0,10
+C846,Bridage 2EC,Chardonnay,4,0,7
+C847,Bridage 2EC,Chardonnay,4,1,14
+C848,Bridage 2EC,Chardonnay,4,0,3
+C849,Bridage 2EC,Chardonnay,4,0,2
+C8410,Bridage 2EC,Chardonnay,4,0,15
+C8411,Bridage 2EC,Chardonnay,4,0,6
+C8412,Bridage 2EC,Chardonnay,4,0,4
+C8413,Bridage 2EC,Chardonnay,4,0,3
+C8414,Bridage 2EC,Chardonnay,4,0,1
+CF11,Cortes Maxx,Cabernet franc,0,2,2
+CF12,Cortes Maxx,Cabernet franc,0,3,3
+CF13,Cortes Maxx,Cabernet franc,0,1,1
+CF14,Cortes Maxx,Cabernet franc,0,2,2
+CF15,Cortes Maxx,Cabernet franc,0,4,4
+CF16,Cortes Maxx,Cabernet franc,0,0,0
+CF17,Cortes Maxx,Cabernet franc,0,5,5
+CF18,Cortes Maxx,Cabernet franc,0,3,3
+CF19,Cortes Maxx,Cabernet franc,0,1,1
+CF110,Cortes Maxx,Cabernet franc,0,3,3
+CF111,Cortes Maxx,Cabernet franc,0,2,2
+CF112,Cortes Maxx,Cabernet franc,0,0,0
+CF113,Cortes Maxx,Cabernet franc,0,2,2
+CF114,Cortes Maxx,Cabernet franc,0,1,1
+CF115,Cortes Maxx,Cabernet franc,0,2,2
+CF116,Cortes Maxx,Cabernet franc,0,13,13
+CF117,Cortes Maxx,Cabernet franc,0,12,12
+CF61,Cortes Maxx,Cabernet franc,0,2,2
+CF62,Cortes Maxx,Cabernet franc,0,0,0
+CF63,Cortes Maxx,Cabernet franc,0,2,2
+CF64,Cortes Maxx,Cabernet franc,0,1,1
+CF65,Cortes Maxx,Cabernet franc,0,0,0
+CF66,Cortes Maxx,Cabernet franc,0,0,0
+CF67,Cortes Maxx,Cabernet franc,0,1,1
+CF68,Cortes Maxx,Cabernet franc,0,0,0
+CF69,Cortes Maxx,Cabernet franc,0,0,0
+CF610,Cortes Maxx,Cabernet franc,0,0,0
+CF611,Cortes Maxx,Cabernet franc,0,0,0
+CF612,Cortes Maxx,Cabernet franc,0,0,0
+CF613,Cortes Maxx,Cabernet franc,0,0,0
+CF614,Cortes Maxx,Cabernet franc,0,2,2
+CF615,Cortes Maxx,Cabernet franc,0,1,1
+CF616,Cortes Maxx,Cabernet franc,0,0,0
+CF617,Cortes Maxx,Cabernet franc,0,3,3
+CF121,Cortes Maxx,Cabernet franc,0,0,0
+CF122,Cortes Maxx,Cabernet franc,0,2,2
+CF123,Cortes Maxx,Cabernet franc,0,0,0
+CF124,Cortes Maxx,Cabernet franc,0,0,0
+CF125,Cortes Maxx,Cabernet franc,0,0,0
+CF126,Cortes Maxx,Cabernet franc,0,0,0
+CF127,Cortes Maxx,Cabernet franc,0,1,1
+CF128,Cortes Maxx,Cabernet franc,0,1,1
+CF129,Cortes Maxx,Cabernet franc,0,0,0
+CF1210,Cortes Maxx,Cabernet franc,0,0,0
+CF1211,Cortes Maxx,Cabernet franc,0,0,0
+CF1212,Cortes Maxx,Cabernet franc,0,1,1
+CF1213,Cortes Maxx,Cabernet franc,0,0,0
+CF1214,Cortes Maxx,Cabernet franc,0,0,0
+CF1215,Cortes Maxx,Cabernet franc,0,0,0
+CF1216,Cortes Maxx,Cabernet franc,0,0,0
+CF1217,Cortes Maxx,Cabernet franc,0,0,0
+CF171,Cortes Maxx,Cabernet franc,0,0,0
+CF172,Cortes Maxx,Cabernet franc,0,1,1
+CF173,Cortes Maxx,Cabernet franc,0,0,0
+CF174,Cortes Maxx,Cabernet franc,0,1,1
+CF175,Cortes Maxx,Cabernet franc,0,0,0
+CF176,Cortes Maxx,Cabernet franc,0,0,0
+CF177,Cortes Maxx,Cabernet franc,0,0,0
+CF178,Cortes Maxx,Cabernet franc,0,0,0
+CF179,Cortes Maxx,Cabernet franc,0,1,1
+CF1710,Cortes Maxx,Cabernet franc,0,0,0
+CF1711,Cortes Maxx,Cabernet franc,0,0,0
+CF1712,Cortes Maxx,Cabernet franc,0,0,0
+CF1713,Cortes Maxx,Cabernet franc,0,0,0
+CF1714,Cortes Maxx,Cabernet franc,0,0,0
+CF1715,Cortes Maxx,Cabernet franc,0,1,1
+CF1716,Cortes Maxx,Cabernet franc,0,0,0
+CF1717,Cortes Maxx,Cabernet franc,0,0,0
+CF1718,Cortes Maxx,Cabernet franc,0,0,0
+CF221,Cortes Maxx,Cabernet franc,0,1,1
+CF222,Cortes Maxx,Cabernet franc,0,0,0
+CF223,Cortes Maxx,Cabernet franc,0,0,0
+CF224,Cortes Maxx,Cabernet franc,0,0,0
+CF225,Cortes Maxx,Cabernet franc,0,0,0
+CF226,Cortes Maxx,Cabernet franc,0,0,0
+CF227,Cortes Maxx,Cabernet franc,0,0,0
+CF228,Cortes Maxx,Cabernet franc,0,1,1
+CF229,Cortes Maxx,Cabernet franc,0,0,0
+CF2210,Cortes Maxx,Cabernet franc,0,0,0
+CF2211,Cortes Maxx,Cabernet franc,0,0,0
+CF2212,Cortes Maxx,Cabernet franc,0,0,0
+CF2213,Cortes Maxx,Cabernet franc,0,0,0
+CF2214,Cortes Maxx,Cabernet franc,0,0,0
+CF2215,Cortes Maxx,Cabernet franc,0,0,0
+CF2216,Cortes Maxx,Cabernet franc,0,0,0
+CF2217,Cortes Maxx,Cabernet franc,0,0,0
+CS231,Crptonyx,Cabernet Sauv,7,1,31
+CS232,Crptonyx,Cabernet Sauv,7,0,2
+CS233,Crptonyx,Cabernet Sauv,7,0,0
+CS234,Crptonyx,Cabernet Sauv,7,0,0
+CS235,Crptonyx,Cabernet Sauv,7,0,0
+CS236,Crptonyx,Cabernet Sauv,7,0,0
+CS237,Crptonyx,Cabernet Sauv,7,0,0
+CS238,Crptonyx,Cabernet Sauv,7,0,0
+CS239,Crptonyx,Cabernet Sauv,7,0,0
+CS2310,Crptonyx,Cabernet Sauv,7,0,0
+CS2311,Crptonyx,Cabernet Sauv,7,0,0
+CS2312,Crptonyx,Cabernet Sauv,7,0,0
+CS2313,Crptonyx,Cabernet Sauv,7,0,0
+CS2314,Crptonyx,Cabernet Sauv,7,0,0
+CS2315,Crptonyx,Cabernet Sauv,7,0,0
+CS2316,Crptonyx,Cabernet Sauv,7,0,1
+CS2317,Crptonyx,Cabernet Sauv,7,0,0
+CS281,Crptonyx,Cabernet Sauv,7,0,44
+CS282,Crptonyx,Cabernet Sauv,7,0,2
+CS283,Crptonyx,Cabernet Sauv,7,0,1
+CS284,Crptonyx,Cabernet Sauv,7,0,1
+CS285,Crptonyx,Cabernet Sauv,7,0,0
+CS286,Crptonyx,Cabernet Sauv,7,0,0
+CS287,Crptonyx,Cabernet Sauv,7,0,0
+CS288,Crptonyx,Cabernet Sauv,7,0,0
+CS289,Crptonyx,Cabernet Sauv,7,0,0
+CS2810,Crptonyx,Cabernet Sauv,7,0,0
+CS2811,Crptonyx,Cabernet Sauv,7,0,1
+CS2812,Crptonyx,Cabernet Sauv,7,0,0
+CS2813,Crptonyx,Cabernet Sauv,7,0,0
+CS2814,Crptonyx,Cabernet Sauv,7,0,0
+CS2815,Crptonyx,Cabernet Sauv,7,0,0
+CS2816,Crptonyx,Cabernet Sauv,7,0,0
+CS2817,Crptonyx,Cabernet Sauv,7,0,0
+CS331,Crptonyx,Cabernet Sauv,7,0,0
+CS332,Crptonyx,Cabernet Sauv,7,0,3
+CS333,Crptonyx,Cabernet Sauv,7,0,1
+CS334,Crptonyx,Cabernet Sauv,7,0,0
+CS335,Crptonyx,Cabernet Sauv,7,0,0
+CS336,Crptonyx,Cabernet Sauv,7,0,0
+CS337,Crptonyx,Cabernet Sauv,7,0,0
+CS338,Crptonyx,Cabernet Sauv,7,0,0
+CS339,Crptonyx,Cabernet Sauv,7,0,1
+CS3310,Crptonyx,Cabernet Sauv,7,0,0
+CS3311,Crptonyx,Cabernet Sauv,7,0,0
+CS3312,Crptonyx,Cabernet Sauv,7,0,0
+CS3313,Crptonyx,Cabernet Sauv,7,0,0
+CS3314,Crptonyx,Cabernet Sauv,7,0,0
+CS371,Crptonyx,Cabernet Sauv,7,0,58
+CS372,Crptonyx,Cabernet Sauv,7,0,15
+CS373,Crptonyx,Cabernet Sauv,7,0,2
+CS374,Crptonyx,Cabernet Sauv,7,0,1
+CS375,Crptonyx,Cabernet Sauv,7,0,1
+CS376,Crptonyx,Cabernet Sauv,7,0,0
+CS377,Crptonyx,Cabernet Sauv,7,0,0
+CS378,Crptonyx,Cabernet Sauv,7,0,1
+CS379,Crptonyx,Cabernet Sauv,7,0,1
+CS3710,Crptonyx,Cabernet Sauv,7,0,0
+CS3711,Crptonyx,Cabernet Sauv,7,0,0
+CS3712,Crptonyx,Cabernet Sauv,7,0,0
+CS3713,Crptonyx,Cabernet Sauv,7,0,0
+CS3714,Crptonyx,Cabernet Sauv,7,0,0
+CS3715,Crptonyx,Cabernet Sauv,7,0,0
+CS3716,Crptonyx,Cabernet Sauv,7,0,0
+CS3717,Crptonyx,Cabernet Sauv,7,0,0
+CS421,Crptonyx,Cabernet Sauv,7,4,41
+CS422,Crptonyx,Cabernet Sauv,7,1,7
+CS423,Crptonyx,Cabernet Sauv,7,1,2
+CS424,Crptonyx,Cabernet Sauv,7,0,1
+CS425,Crptonyx,Cabernet Sauv,7,0,0
+CS426,Crptonyx,Cabernet Sauv,7,0,0
+CS427,Crptonyx,Cabernet Sauv,7,0,0
+CS428,Crptonyx,Cabernet Sauv,7,0,0
+CS429,Crptonyx,Cabernet Sauv,7,0,0
+CS4210,Crptonyx,Cabernet Sauv,7,0,1
+CS4211,Crptonyx,Cabernet Sauv,7,0,0
+CS4212,Crptonyx,Cabernet Sauv,7,0,0
+CS4213,Crptonyx,Cabernet Sauv,7,0,0
+CS4214,Crptonyx,Cabernet Sauv,7,0,0
+CS4215,Crptonyx,Cabernet Sauv,7,0,0
+CS4216,Crptonyx,Cabernet Sauv,7,0,0
+CS4217,Crptonyx,Cabernet Sauv,7,0,1
+M431,Cortes Maxx,Merlot,0,14,14
+M432,Cortes Maxx,Merlot,0,3,3
+M433,Cortes Maxx,Merlot,0,2,2
+M434,Cortes Maxx,Merlot,0,6,6
+M435,Cortes Maxx,Merlot,0,1,1
+M436,Cortes Maxx,Merlot,0,0,0
+M437,Cortes Maxx,Merlot,0,0,0
+M438,Cortes Maxx,Merlot,0,0,0
+M439,Cortes Maxx,Merlot,0,0,0
+M4310,Cortes Maxx,Merlot,0,0,0
+M4311,Cortes Maxx,Merlot,0,0,0
+M4312,Cortes Maxx,Merlot,0,0,0
+M4313,Cortes Maxx,Merlot,0,0,0
+M4314,Cortes Maxx,Merlot,0,0,0
+M4315,Cortes Maxx,Merlot,0,0,0
+M4316,Cortes Maxx,Merlot,0,0,0
+M4317,Cortes Maxx,Merlot,0,1,1
+M481,Cortes Maxx,Merlot,0,35,35
+M482,Cortes Maxx,Merlot,0,5,5
+M483,Cortes Maxx,Merlot,0,3,3
+M484,Cortes Maxx,Merlot,0,0,0
+M485,Cortes Maxx,Merlot,0,3,3
+M486,Cortes Maxx,Merlot,0,0,0
+M487,Cortes Maxx,Merlot,0,0,0
+M488,Cortes Maxx,Merlot,0,0,0
+M489,Cortes Maxx,Merlot,0,1,1
+M4810,Cortes Maxx,Merlot,0,0,0
+M4811,Cortes Maxx,Merlot,0,0,0
+M4812,Cortes Maxx,Merlot,0,0,0
+M4813,Cortes Maxx,Merlot,0,0,0
+M4814,Cortes Maxx,Merlot,0,0,0
+M4815,Cortes Maxx,Merlot,0,0,0
+M4816,Cortes Maxx,Merlot,0,0,0
+M4817,Cortes Maxx,Merlot,0,0,0
+M531,Cortes Maxx,Merlot,0,52,52
+M532,Cortes Maxx,Merlot,0,12,12
+M533,Cortes Maxx,Merlot,0,2,2
+M534,Cortes Maxx,Merlot,0,8,8
+M535,Cortes Maxx,Merlot,0,6,6
+M536,Cortes Maxx,Merlot,0,0,0
+M537,Cortes Maxx,Merlot,0,0,0
+M538,Cortes Maxx,Merlot,0,0,0
+M539,Cortes Maxx,Merlot,0,0,0
+M5310,Cortes Maxx,Merlot,0,0,0
+M5311,Cortes Maxx,Merlot,0,0,0
+M5312,Cortes Maxx,Merlot,0,0,0
+M5313,Cortes Maxx,Merlot,0,0,0
+M5314,Cortes Maxx,Merlot,0,0,0
+M5315,Cortes Maxx,Merlot,0,2,2
+M5316,Cortes Maxx,Merlot,0,1,1
+M5317,Cortes Maxx,Merlot,0,,
+M571,Cortes Maxx,Merlot,0,15,15
+M572,Cortes Maxx,Merlot,0,7,7
+M573,Cortes Maxx,Merlot,0,9,9
+M574,Cortes Maxx,Merlot,0,0,0
+M575,Cortes Maxx,Merlot,0,1,1
+M576,Cortes Maxx,Merlot,0,0,0
+M577,Cortes Maxx,Merlot,0,1,1
+M578,Cortes Maxx,Merlot,0,1,1
+M579,Cortes Maxx,Merlot,0,0,0
+M5710,Cortes Maxx,Merlot,0,0,0
+M5711,Cortes Maxx,Merlot,0,0,0
+M5712,Cortes Maxx,Merlot,0,0,0
+M5713,Cortes Maxx,Merlot,0,0,0
+M5714,Cortes Maxx,Merlot,0,0,0
+M5715,Cortes Maxx,Merlot,0,0,0
+M5716,Cortes Maxx,Merlot,0,1,1
+M621,Cortes Maxx,Merlot,0,24,24
+M622,Cortes Maxx,Merlot,0,0,0
+M623,Cortes Maxx,Merlot,0,0,0
+M624,Cortes Maxx,Merlot,0,0,0
+M625,Cortes Maxx,Merlot,0,0,0
+M626,Cortes Maxx,Merlot,0,0,0
+M627,Cortes Maxx,Merlot,0,1,1
+M628,Cortes Maxx,Merlot,0,0,0
+M629,Cortes Maxx,Merlot,0,0,0
+M6210,Cortes Maxx,Merlot,0,0,0
+M6211,Cortes Maxx,Merlot,0,0,0
+M6212,Cortes Maxx,Merlot,0,0,0
+M6213,Cortes Maxx,Merlot,0,0,0
+M6214,Cortes Maxx,Merlot,0,0,0
+M6215,Cortes Maxx,Merlot,0,0,0
+M6216,Cortes Maxx,Merlot,0,1,1
+C631,Bridage 2EC,Chardonnay,6,0,19
+C632,Bridage 2EC,Chardonnay,6,0,10
+C633,Bridage 2EC,Chardonnay,6,0,11
+C634,Bridage 2EC,Chardonnay,6,0,2
+C635,Bridage 2EC,Chardonnay,6,0,0
+C636,Bridage 2EC,Chardonnay,6,0,0
+C637,Bridage 2EC,Chardonnay,6,0,0
+C638,Bridage 2EC,Chardonnay,6,0,0
+C639,Bridage 2EC,Chardonnay,6,0,0
+C6310,Bridage 2EC,Chardonnay,6,1,1
+C6311,Bridage 2EC,Chardonnay,6,0,0
+C6312,Bridage 2EC,Chardonnay,6,0,0
+C6313,Bridage 2EC,Chardonnay,6,0,0
+C6314,Bridage 2EC,Chardonnay,6,0,0
+C6315,Bridage 2EC,Chardonnay,6,0,4
+C6316,Bridage 2EC,Chardonnay,6,0,0
+C681,Bridage 2EC,Chardonnay,6,0,35
+C682,Bridage 2EC,Chardonnay,6,0,25
+C683,Bridage 2EC,Chardonnay,6,0,8
+C684,Bridage 2EC,Chardonnay,6,0,4
+C685,Bridage 2EC,Chardonnay,6,0,1
+C686,Bridage 2EC,Chardonnay,6,0,1
+C687,Bridage 2EC,Chardonnay,6,0,1
+C688,Bridage 2EC,Chardonnay,6,0,2
+C689,Bridage 2EC,Chardonnay,6,0,1
+C6910,Bridage 2EC,Chardonnay,6,0,1
+C6911,Bridage 2EC,Chardonnay,6,0,0
+C6912,Bridage 2EC,Chardonnay,6,0,1
+C6913,Bridage 2EC,Chardonnay,6,0,0
+C6914,Bridage 2EC,Chardonnay,6,0,0
+C6915,Bridage 2EC,Chardonnay,6,0,0
+C6916,Bridage 2EC,Chardonnay,6,0,0
+C731,Bridage 2EC,Chardonnay,6,0,25
+C732,Bridage 2EC,Chardonnay,6,0,10
+C733,Bridage 2EC,Chardonnay,6,0,25
+C734,Bridage 2EC,Chardonnay,6,0,7
+C735,Bridage 2EC,Chardonnay,6,0,3
+C736,Bridage 2EC,Chardonnay,6,0,1
+C737,Bridage 2EC,Chardonnay,6,0,4
+C738,Bridage 2EC,Chardonnay,6,0,0
+C739,Bridage 2EC,Chardonnay,6,0,2
+C7310,Bridage 2EC,Chardonnay,6,0,1
+C7311,Bridage 2EC,Chardonnay,6,0,0
+C7312,Bridage 2EC,Chardonnay,6,0,0
+C7313,Bridage 2EC,Chardonnay,6,0,0
+C7314,Bridage 2EC,Chardonnay,6,0,0
+C7315,Bridage 2EC,Chardonnay,6,0,0
+C7316,Bridage 2EC,Chardonnay,6,0,1
+C781,Bridage 2EC,Chardonnay,6,0,11
+C782,Bridage 2EC,Chardonnay,6,0,12
+C783,Bridage 2EC,Chardonnay,6,0,3
+C784,Bridage 2EC,Chardonnay,6,0,3
+C785,Bridage 2EC,Chardonnay,6,0,1
+C786,Bridage 2EC,Chardonnay,6,0,2
+C787,Bridage 2EC,Chardonnay,6,0,2
+C788,Bridage 2EC,Chardonnay,6,0,0
+C789,Bridage 2EC,Chardonnay,6,0,0
+C7810,Bridage 2EC,Chardonnay,6,0,0
+C7811,Bridage 2EC,Chardonnay,6,0,0
+C7812,Bridage 2EC,Chardonnay,6,0,1
+C7813,Bridage 2EC,Chardonnay,6,0,1
+C7814,Bridage 2EC,Chardonnay,6,0,1
+C841,Bridage 2EC,Chardonnay,6,0,57
+C842,Bridage 2EC,Chardonnay,6,0,30
+C843,Bridage 2EC,Chardonnay,6,0,27
+C844,Bridage 2EC,Chardonnay,6,0,12
+C845,Bridage 2EC,Chardonnay,6,0,10
+C846,Bridage 2EC,Chardonnay,6,0,7
+C847,Bridage 2EC,Chardonnay,6,0,14
+C848,Bridage 2EC,Chardonnay,6,0,3
+C849,Bridage 2EC,Chardonnay,6,0,2
+C8410,Bridage 2EC,Chardonnay,6,0,15
+C8411,Bridage 2EC,Chardonnay,6,0,6
+C8412,Bridage 2EC,Chardonnay,6,0,4
+C8413,Bridage 2EC,Chardonnay,6,0,3
+C8414,Bridage 2EC,Chardonnay,6,0,1
+CF11,Cortes Maxx,Cabernet franc,2,3,2
+CF12,Cortes Maxx,Cabernet franc,2,2,3
+CF13,Cortes Maxx,Cabernet franc,2,1,1
+CF14,Cortes Maxx,Cabernet franc,2,2,2
+CF15,Cortes Maxx,Cabernet franc,2,0,4
+CF16,Cortes Maxx,Cabernet franc,2,1,0
+CF17,Cortes Maxx,Cabernet franc,2,0,5
+CF18,Cortes Maxx,Cabernet franc,2,1,3
+CF19,Cortes Maxx,Cabernet franc,2,0,1
+CF110,Cortes Maxx,Cabernet franc,2,0,3
+CF111,Cortes Maxx,Cabernet franc,2,0,2
+CF112,Cortes Maxx,Cabernet franc,2,0,0
+CF113,Cortes Maxx,Cabernet franc,2,0,2
+CF114,Cortes Maxx,Cabernet franc,2,0,1
+CF115,Cortes Maxx,Cabernet franc,2,1,2
+CF116,Cortes Maxx,Cabernet franc,2,2,13
+CF117,Cortes Maxx,Cabernet franc,2,2,12
+CF61,Cortes Maxx,Cabernet franc,2,1,2
+CF62,Cortes Maxx,Cabernet franc,2,0,0
+CF63,Cortes Maxx,Cabernet franc,2,1,2
+CF64,Cortes Maxx,Cabernet franc,2,0,1
+CF65,Cortes Maxx,Cabernet franc,2,0,0
+CF66,Cortes Maxx,Cabernet franc,2,0,0
+CF67,Cortes Maxx,Cabernet franc,2,0,1
+CF68,Cortes Maxx,Cabernet franc,2,0,0
+CF69,Cortes Maxx,Cabernet franc,2,0,0
+CF610,Cortes Maxx,Cabernet franc,2,0,0
+CF611,Cortes Maxx,Cabernet franc,2,0,0
+CF612,Cortes Maxx,Cabernet franc,2,0,0
+CF613,Cortes Maxx,Cabernet franc,2,1,0
+CF614,Cortes Maxx,Cabernet franc,2,0,2
+CF615,Cortes Maxx,Cabernet franc,2,0,1
+CF616,Cortes Maxx,Cabernet franc,2,2,0
+CF617,Cortes Maxx,Cabernet franc,2,2,3
+CF121,Cortes Maxx,Cabernet franc,2,1,0
+CF122,Cortes Maxx,Cabernet franc,2,2,2
+CF123,Cortes Maxx,Cabernet franc,2,0,0
+CF124,Cortes Maxx,Cabernet franc,2,0,0
+CF125,Cortes Maxx,Cabernet franc,2,0,0
+CF126,Cortes Maxx,Cabernet franc,2,0,0
+CF127,Cortes Maxx,Cabernet franc,2,0,1
+CF128,Cortes Maxx,Cabernet franc,2,0,1
+CF129,Cortes Maxx,Cabernet franc,2,0,0
+CF1210,Cortes Maxx,Cabernet franc,2,0,0
+CF1211,Cortes Maxx,Cabernet franc,2,0,0
+CF1212,Cortes Maxx,Cabernet franc,2,0,1
+CF1213,Cortes Maxx,Cabernet franc,2,0,0
+CF1214,Cortes Maxx,Cabernet franc,2,0,0
+CF1215,Cortes Maxx,Cabernet franc,2,0,0
+CF1216,Cortes Maxx,Cabernet franc,2,0,0
+CF1217,Cortes Maxx,Cabernet franc,2,0,0
+CF171,Cortes Maxx,Cabernet franc,2,3,0
+CF172,Cortes Maxx,Cabernet franc,2,0,1
+CF173,Cortes Maxx,Cabernet franc,2,0,0
+CF174,Cortes Maxx,Cabernet franc,2,0,1
+CF175,Cortes Maxx,Cabernet franc,2,0,0
+CF176,Cortes Maxx,Cabernet franc,2,0,0
+CF177,Cortes Maxx,Cabernet franc,2,0,0
+CF178,Cortes Maxx,Cabernet franc,2,0,0
+CF179,Cortes Maxx,Cabernet franc,2,0,1
+CF1710,Cortes Maxx,Cabernet franc,2,0,0
+CF1711,Cortes Maxx,Cabernet franc,2,0,0
+CF1712,Cortes Maxx,Cabernet franc,2,0,0
+CF1713,Cortes Maxx,Cabernet franc,2,0,0
+CF1714,Cortes Maxx,Cabernet franc,2,0,0
+CF1715,Cortes Maxx,Cabernet franc,2,0,1
+CF1716,Cortes Maxx,Cabernet franc,2,0,0
+CF1717,Cortes Maxx,Cabernet franc,2,0,0
+CF1718,Cortes Maxx,Cabernet franc,2,0,0
+CF221,Cortes Maxx,Cabernet franc,2,3,1
+CF222,Cortes Maxx,Cabernet franc,2,0,0
+CF223,Cortes Maxx,Cabernet franc,2,0,0
+CF224,Cortes Maxx,Cabernet franc,2,0,0
+CF225,Cortes Maxx,Cabernet franc,2,0,0
+CF226,Cortes Maxx,Cabernet franc,2,0,0
+CF227,Cortes Maxx,Cabernet franc,2,0,0
+CF228,Cortes Maxx,Cabernet franc,2,1,1
+CF229,Cortes Maxx,Cabernet franc,2,0,0
+CF2210,Cortes Maxx,Cabernet franc,2,0,0
+CF2211,Cortes Maxx,Cabernet franc,2,0,0
+CF2212,Cortes Maxx,Cabernet franc,2,0,0
+CF2213,Cortes Maxx,Cabernet franc,2,0,0
+CF2214,Cortes Maxx,Cabernet franc,2,0,0
+CF2215,Cortes Maxx,Cabernet franc,2,0,0
+CF2216,Cortes Maxx,Cabernet franc,2,0,0
+CF2217,Cortes Maxx,Cabernet franc,2,0,0
+CS231,Crptonyx,Cabernet Sauv,9,0,31
+CS232,Crptonyx,Cabernet Sauv,9,0,2
+CS233,Crptonyx,Cabernet Sauv,9,0,0
+CS234,Crptonyx,Cabernet Sauv,9,0,0
+CS235,Crptonyx,Cabernet Sauv,9,0,0
+CS236,Crptonyx,Cabernet Sauv,9,0,0
+CS237,Crptonyx,Cabernet Sauv,9,0,0
+CS238,Crptonyx,Cabernet Sauv,9,0,0
+CS239,Crptonyx,Cabernet Sauv,9,0,0
+CS2310,Crptonyx,Cabernet Sauv,9,0,0
+CS2311,Crptonyx,Cabernet Sauv,9,0,0
+CS2312,Crptonyx,Cabernet Sauv,9,0,0
+CS2313,Crptonyx,Cabernet Sauv,9,0,0
+CS2314,Crptonyx,Cabernet Sauv,9,0,0
+CS2315,Crptonyx,Cabernet Sauv,9,0,0
+CS2316,Crptonyx,Cabernet Sauv,9,0,1
+CS2317,Crptonyx,Cabernet Sauv,9,0,0
+CS281,Crptonyx,Cabernet Sauv,9,0,44
+CS282,Crptonyx,Cabernet Sauv,9,0,2
+CS283,Crptonyx,Cabernet Sauv,9,0,1
+CS284,Crptonyx,Cabernet Sauv,9,0,1
+CS285,Crptonyx,Cabernet Sauv,9,0,0
+CS286,Crptonyx,Cabernet Sauv,9,0,0
+CS287,Crptonyx,Cabernet Sauv,9,0,0
+CS288,Crptonyx,Cabernet Sauv,9,0,0
+CS289,Crptonyx,Cabernet Sauv,9,0,0
+CS2810,Crptonyx,Cabernet Sauv,9,0,0
+CS2811,Crptonyx,Cabernet Sauv,9,0,1
+CS2812,Crptonyx,Cabernet Sauv,9,0,0
+CS2813,Crptonyx,Cabernet Sauv,9,0,0
+CS2814,Crptonyx,Cabernet Sauv,9,0,0
+CS2815,Crptonyx,Cabernet Sauv,9,0,0
+CS2816,Crptonyx,Cabernet Sauv,9,0,0
+CS2817,Crptonyx,Cabernet Sauv,9,0,0
+CS331,Crptonyx,Cabernet Sauv,9,0,0
+CS332,Crptonyx,Cabernet Sauv,9,0,3
+CS333,Crptonyx,Cabernet Sauv,9,0,1
+CS334,Crptonyx,Cabernet Sauv,9,0,0
+CS335,Crptonyx,Cabernet Sauv,9,0,0
+CS336,Crptonyx,Cabernet Sauv,9,0,0
+CS337,Crptonyx,Cabernet Sauv,9,0,0
+CS338,Crptonyx,Cabernet Sauv,9,0,0
+CS339,Crptonyx,Cabernet Sauv,9,0,1
+CS3310,Crptonyx,Cabernet Sauv,9,0,0
+CS3311,Crptonyx,Cabernet Sauv,9,0,0
+CS3312,Crptonyx,Cabernet Sauv,9,0,0
+CS3313,Crptonyx,Cabernet Sauv,9,0,0
+CS3314,Crptonyx,Cabernet Sauv,9,0,0
+CS371,Crptonyx,Cabernet Sauv,9,0,58
+CS372,Crptonyx,Cabernet Sauv,9,0,15
+CS373,Crptonyx,Cabernet Sauv,9,0,2
+CS374,Crptonyx,Cabernet Sauv,9,0,1
+CS375,Crptonyx,Cabernet Sauv,9,0,1
+CS376,Crptonyx,Cabernet Sauv,9,0,0
+CS377,Crptonyx,Cabernet Sauv,9,0,0
+CS378,Crptonyx,Cabernet Sauv,9,0,1
+CS379,Crptonyx,Cabernet Sauv,9,0,1
+CS3710,Crptonyx,Cabernet Sauv,9,0,0
+CS3711,Crptonyx,Cabernet Sauv,9,0,0
+CS3712,Crptonyx,Cabernet Sauv,9,0,0
+CS3713,Crptonyx,Cabernet Sauv,9,0,0
+CS3714,Crptonyx,Cabernet Sauv,9,0,0
+CS3715,Crptonyx,Cabernet Sauv,9,0,0
+CS3716,Crptonyx,Cabernet Sauv,9,0,0
+CS3717,Crptonyx,Cabernet Sauv,9,0,0
+CS421,Crptonyx,Cabernet Sauv,9,0,41
+CS422,Crptonyx,Cabernet Sauv,9,0,7
+CS423,Crptonyx,Cabernet Sauv,9,0,2
+CS424,Crptonyx,Cabernet Sauv,9,0,1
+CS425,Crptonyx,Cabernet Sauv,9,0,0
+CS426,Crptonyx,Cabernet Sauv,9,0,0
+CS427,Crptonyx,Cabernet Sauv,9,0,0
+CS428,Crptonyx,Cabernet Sauv,9,0,0
+CS429,Crptonyx,Cabernet Sauv,9,0,0
+CS4210,Crptonyx,Cabernet Sauv,9,0,1
+CS4211,Crptonyx,Cabernet Sauv,9,0,0
+CS4212,Crptonyx,Cabernet Sauv,9,0,0
+CS4213,Crptonyx,Cabernet Sauv,9,0,0
+CS4214,Crptonyx,Cabernet Sauv,9,0,0
+CS4215,Crptonyx,Cabernet Sauv,9,0,0
+CS4216,Crptonyx,Cabernet Sauv,9,0,0
+CS4217,Crptonyx,Cabernet Sauv,9,0,1
+M431,Cortes Maxx,Merlot,2,8,14
+M432,Cortes Maxx,Merlot,2,0,3
+M433,Cortes Maxx,Merlot,2,1,2
+M434,Cortes Maxx,Merlot,2,0,6
+M435,Cortes Maxx,Merlot,2,0,1
+M436,Cortes Maxx,Merlot,2,0,0
+M437,Cortes Maxx,Merlot,2,0,0
+M438,Cortes Maxx,Merlot,2,0,0
+M439,Cortes Maxx,Merlot,2,0,0
+M4310,Cortes Maxx,Merlot,2,0,0
+M4311,Cortes Maxx,Merlot,2,0,0
+M4312,Cortes Maxx,Merlot,2,0,0
+M4313,Cortes Maxx,Merlot,2,0,0
+M4314,Cortes Maxx,Merlot,2,0,0
+M4315,Cortes Maxx,Merlot,2,0,0
+M4316,Cortes Maxx,Merlot,2,0,0
+M4317,Cortes Maxx,Merlot,2,0,1
+M481,Cortes Maxx,Merlot,2,16,35
+M482,Cortes Maxx,Merlot,2,7,5
+M483,Cortes Maxx,Merlot,2,3,3
+M484,Cortes Maxx,Merlot,2,0,0
+M485,Cortes Maxx,Merlot,2,0,3
+M486,Cortes Maxx,Merlot,2,0,0
+M487,Cortes Maxx,Merlot,2,0,0
+M488,Cortes Maxx,Merlot,2,1,0
+M489,Cortes Maxx,Merlot,2,0,1
+M4810,Cortes Maxx,Merlot,2,0,0
+M4811,Cortes Maxx,Merlot,2,0,0
+M4812,Cortes Maxx,Merlot,2,0,0
+M4813,Cortes Maxx,Merlot,2,0,0
+M4814,Cortes Maxx,Merlot,2,0,0
+M4815,Cortes Maxx,Merlot,2,0,0
+M4816,Cortes Maxx,Merlot,2,0,0
+M4817,Cortes Maxx,Merlot,2,0,0
+M531,Cortes Maxx,Merlot,2,16,52
+M532,Cortes Maxx,Merlot,2,9,12
+M533,Cortes Maxx,Merlot,2,1,2
+M534,Cortes Maxx,Merlot,2,0,8
+M535,Cortes Maxx,Merlot,2,0,6
+M536,Cortes Maxx,Merlot,2,0,0
+M537,Cortes Maxx,Merlot,2,0,0
+M538,Cortes Maxx,Merlot,2,0,0
+M539,Cortes Maxx,Merlot,2,0,0
+M5310,Cortes Maxx,Merlot,2,0,0
+M5311,Cortes Maxx,Merlot,2,0,0
+M5312,Cortes Maxx,Merlot,2,0,0
+M5313,Cortes Maxx,Merlot,2,0,0
+M5314,Cortes Maxx,Merlot,2,0,0
+M5315,Cortes Maxx,Merlot,2,0,2
+M5316,Cortes Maxx,Merlot,2,0,1
+M5317,Cortes Maxx,Merlot,2,,
+M571,Cortes Maxx,Merlot,2,14,15
+M572,Cortes Maxx,Merlot,2,4,7
+M573,Cortes Maxx,Merlot,2,2,9
+M574,Cortes Maxx,Merlot,2,0,0
+M575,Cortes Maxx,Merlot,2,0,1
+M576,Cortes Maxx,Merlot,2,0,0
+M577,Cortes Maxx,Merlot,2,0,1
+M578,Cortes Maxx,Merlot,2,0,1
+M579,Cortes Maxx,Merlot,2,0,0
+M5710,Cortes Maxx,Merlot,2,0,0
+M5711,Cortes Maxx,Merlot,2,0,0
+M5712,Cortes Maxx,Merlot,2,0,0
+M5713,Cortes Maxx,Merlot,2,0,0
+M5714,Cortes Maxx,Merlot,2,0,0
+M5715,Cortes Maxx,Merlot,2,0,0
+M5716,Cortes Maxx,Merlot,2,0,1
+M621,Cortes Maxx,Merlot,2,13,24
+M622,Cortes Maxx,Merlot,2,0,0
+M623,Cortes Maxx,Merlot,2,0,0
+M624,Cortes Maxx,Merlot,2,0,0
+M625,Cortes Maxx,Merlot,2,1,0
+M626,Cortes Maxx,Merlot,2,0,0
+M627,Cortes Maxx,Merlot,2,0,1
+M628,Cortes Maxx,Merlot,2,0,0
+M629,Cortes Maxx,Merlot,2,0,0
+M6210,Cortes Maxx,Merlot,2,0,0
+M6211,Cortes Maxx,Merlot,2,0,0
+M6212,Cortes Maxx,Merlot,2,0,0
+M6213,Cortes Maxx,Merlot,2,0,0
+M6214,Cortes Maxx,Merlot,2,0,0
+M6215,Cortes Maxx,Merlot,2,0,0
+M6216,Cortes Maxx,Merlot,2,0,1
+C631,Bridage 2EC,Chardonnay,8,1,19
+C632,Bridage 2EC,Chardonnay,8,0,10
+C633,Bridage 2EC,Chardonnay,8,0,11
+C634,Bridage 2EC,Chardonnay,8,0,2
+C635,Bridage 2EC,Chardonnay,8,0,0
+C636,Bridage 2EC,Chardonnay,8,0,0
+C637,Bridage 2EC,Chardonnay,8,0,0
+C638,Bridage 2EC,Chardonnay,8,0,0
+C639,Bridage 2EC,Chardonnay,8,0,0
+C6310,Bridage 2EC,Chardonnay,8,0,1
+C6311,Bridage 2EC,Chardonnay,8,0,0
+C6312,Bridage 2EC,Chardonnay,8,0,0
+C6313,Bridage 2EC,Chardonnay,8,0,0
+C6314,Bridage 2EC,Chardonnay,8,0,0
+C6315,Bridage 2EC,Chardonnay,8,0,4
+C6316,Bridage 2EC,Chardonnay,8,0,0
+C681,Bridage 2EC,Chardonnay,8,1,35
+C682,Bridage 2EC,Chardonnay,8,0,25
+C683,Bridage 2EC,Chardonnay,8,0,8
+C684,Bridage 2EC,Chardonnay,8,0,4
+C685,Bridage 2EC,Chardonnay,8,0,1
+C686,Bridage 2EC,Chardonnay,8,0,1
+C687,Bridage 2EC,Chardonnay,8,0,1
+C688,Bridage 2EC,Chardonnay,8,0,2
+C689,Bridage 2EC,Chardonnay,8,0,1
+C6910,Bridage 2EC,Chardonnay,8,0,1
+C6911,Bridage 2EC,Chardonnay,8,0,0
+C6912,Bridage 2EC,Chardonnay,8,0,1
+C6913,Bridage 2EC,Chardonnay,8,0,0
+C6914,Bridage 2EC,Chardonnay,8,0,0
+C6915,Bridage 2EC,Chardonnay,8,0,0
+C6916,Bridage 2EC,Chardonnay,8,0,0
+C731,Bridage 2EC,Chardonnay,8,0,25
+C732,Bridage 2EC,Chardonnay,8,0,10
+C733,Bridage 2EC,Chardonnay,8,0,25
+C734,Bridage 2EC,Chardonnay,8,0,7
+C735,Bridage 2EC,Chardonnay,8,0,3
+C736,Bridage 2EC,Chardonnay,8,0,1
+C737,Bridage 2EC,Chardonnay,8,0,4
+C738,Bridage 2EC,Chardonnay,8,0,0
+C739,Bridage 2EC,Chardonnay,8,0,2
+C7310,Bridage 2EC,Chardonnay,8,0,1
+C7311,Bridage 2EC,Chardonnay,8,0,0
+C7312,Bridage 2EC,Chardonnay,8,0,0
+C7313,Bridage 2EC,Chardonnay,8,0,0
+C7314,Bridage 2EC,Chardonnay,8,0,0
+C7315,Bridage 2EC,Chardonnay,8,0,0
+C7316,Bridage 2EC,Chardonnay,8,0,1
+C781,Bridage 2EC,Chardonnay,8,0,11
+C782,Bridage 2EC,Chardonnay,8,0,12
+C783,Bridage 2EC,Chardonnay,8,0,3
+C784,Bridage 2EC,Chardonnay,8,0,3
+C785,Bridage 2EC,Chardonnay,8,0,1
+C786,Bridage 2EC,Chardonnay,8,0,2
+C787,Bridage 2EC,Chardonnay,8,0,2
+C788,Bridage 2EC,Chardonnay,8,0,0
+C789,Bridage 2EC,Chardonnay,8,0,0
+C7810,Bridage 2EC,Chardonnay,8,0,0
+C7811,Bridage 2EC,Chardonnay,8,0,0
+C7812,Bridage 2EC,Chardonnay,8,0,1
+C7813,Bridage 2EC,Chardonnay,8,0,1
+C7814,Bridage 2EC,Chardonnay,8,0,1
+C841,Bridage 2EC,Chardonnay,8,0,57
+C842,Bridage 2EC,Chardonnay,8,0,30
+C843,Bridage 2EC,Chardonnay,8,0,27
+C844,Bridage 2EC,Chardonnay,8,0,12
+C845,Bridage 2EC,Chardonnay,8,0,10
+C846,Bridage 2EC,Chardonnay,8,0,7
+C847,Bridage 2EC,Chardonnay,8,0,14
+C848,Bridage 2EC,Chardonnay,8,0,3
+C849,Bridage 2EC,Chardonnay,8,0,2
+C8410,Bridage 2EC,Chardonnay,8,0,15
+C8411,Bridage 2EC,Chardonnay,8,0,6
+C8412,Bridage 2EC,Chardonnay,8,0,4
+C8413,Bridage 2EC,Chardonnay,8,0,3
+C8414,Bridage 2EC,Chardonnay,8,0,1
+CF11,Cortes Maxx,Cabernet franc,4,1,2
+CF12,Cortes Maxx,Cabernet franc,4,1,3
+CF13,Cortes Maxx,Cabernet franc,4,0,1
+CF14,Cortes Maxx,Cabernet franc,4,3,2
+CF15,Cortes Maxx,Cabernet franc,4,1,4
+CF16,Cortes Maxx,Cabernet franc,4,0,0
+CF17,Cortes Maxx,Cabernet franc,4,0,5
+CF18,Cortes Maxx,Cabernet franc,4,3,3
+CF19,Cortes Maxx,Cabernet franc,4,2,1
+CF110,Cortes Maxx,Cabernet franc,4,0,3
+CF111,Cortes Maxx,Cabernet franc,4,4,2
+CF112,Cortes Maxx,Cabernet franc,4,0,0
+CF113,Cortes Maxx,Cabernet franc,4,0,2
+CF114,Cortes Maxx,Cabernet franc,4,0,1
+CF115,Cortes Maxx,Cabernet franc,4,2,2
+CF116,Cortes Maxx,Cabernet franc,4,7,13
+CF117,Cortes Maxx,Cabernet franc,4,10,12
+CF61,Cortes Maxx,Cabernet franc,4,4,2
+CF62,Cortes Maxx,Cabernet franc,4,0,0
+CF63,Cortes Maxx,Cabernet franc,4,0,2
+CF64,Cortes Maxx,Cabernet franc,4,0,1
+CF65,Cortes Maxx,Cabernet franc,4,0,0
+CF66,Cortes Maxx,Cabernet franc,4,0,0
+CF67,Cortes Maxx,Cabernet franc,4,0,1
+CF68,Cortes Maxx,Cabernet franc,4,0,0
+CF69,Cortes Maxx,Cabernet franc,4,0,0
+CF610,Cortes Maxx,Cabernet franc,4,0,0
+CF611,Cortes Maxx,Cabernet franc,4,0,0
+CF612,Cortes Maxx,Cabernet franc,4,0,0
+CF613,Cortes Maxx,Cabernet franc,4,0,0
+CF614,Cortes Maxx,Cabernet franc,4,1,2
+CF615,Cortes Maxx,Cabernet franc,4,1,1
+CF616,Cortes Maxx,Cabernet franc,4,0,0
+CF617,Cortes Maxx,Cabernet franc,4,3,3
+CF121,Cortes Maxx,Cabernet franc,4,3,0
+CF122,Cortes Maxx,Cabernet franc,4,0,2
+CF123,Cortes Maxx,Cabernet franc,4,0,0
+CF124,Cortes Maxx,Cabernet franc,4,0,0
+CF125,Cortes Maxx,Cabernet franc,4,0,0
+CF126,Cortes Maxx,Cabernet franc,4,1,0
+CF127,Cortes Maxx,Cabernet franc,4,0,1
+CF128,Cortes Maxx,Cabernet franc,4,0,1
+CF129,Cortes Maxx,Cabernet franc,4,0,0
+CF1210,Cortes Maxx,Cabernet franc,4,0,0
+CF1211,Cortes Maxx,Cabernet franc,4,0,0
+CF1212,Cortes Maxx,Cabernet franc,4,1,1
+CF1213,Cortes Maxx,Cabernet franc,4,0,0
+CF1214,Cortes Maxx,Cabernet franc,4,0,0
+CF1215,Cortes Maxx,Cabernet franc,4,2,0
+CF1216,Cortes Maxx,Cabernet franc,4,0,0
+CF1217,Cortes Maxx,Cabernet franc,4,0,0
+CF171,Cortes Maxx,Cabernet franc,4,15,0
+CF172,Cortes Maxx,Cabernet franc,4,5,1
+CF173,Cortes Maxx,Cabernet franc,4,0,0
+CF174,Cortes Maxx,Cabernet franc,4,0,1
+CF175,Cortes Maxx,Cabernet franc,4,0,0
+CF176,Cortes Maxx,Cabernet franc,4,0,0
+CF177,Cortes Maxx,Cabernet franc,4,0,0
+CF178,Cortes Maxx,Cabernet franc,4,0,0
+CF179,Cortes Maxx,Cabernet franc,4,0,1
+CF1710,Cortes Maxx,Cabernet franc,4,0,0
+CF1711,Cortes Maxx,Cabernet franc,4,0,0
+CF1712,Cortes Maxx,Cabernet franc,4,0,0
+CF1713,Cortes Maxx,Cabernet franc,4,0,0
+CF1714,Cortes Maxx,Cabernet franc,4,0,0
+CF1715,Cortes Maxx,Cabernet franc,4,0,1
+CF1716,Cortes Maxx,Cabernet franc,4,0,0
+CF1717,Cortes Maxx,Cabernet franc,4,1,0
+CF1718,Cortes Maxx,Cabernet franc,4,0,0
+CF221,Cortes Maxx,Cabernet franc,4,9,1
+CF222,Cortes Maxx,Cabernet franc,4,0,0
+CF223,Cortes Maxx,Cabernet franc,4,0,0
+CF224,Cortes Maxx,Cabernet franc,4,0,0
+CF225,Cortes Maxx,Cabernet franc,4,0,0
+CF226,Cortes Maxx,Cabernet franc,4,0,0
+CF227,Cortes Maxx,Cabernet franc,4,0,0
+CF228,Cortes Maxx,Cabernet franc,4,0,1
+CF229,Cortes Maxx,Cabernet franc,4,0,0
+CF2210,Cortes Maxx,Cabernet franc,4,1,0
+CF2211,Cortes Maxx,Cabernet franc,4,0,0
+CF2212,Cortes Maxx,Cabernet franc,4,0,0
+CF2213,Cortes Maxx,Cabernet franc,4,0,0
+CF2214,Cortes Maxx,Cabernet franc,4,0,0
+CF2215,Cortes Maxx,Cabernet franc,4,0,0
+CF2216,Cortes Maxx,Cabernet franc,4,1,0
+CF2217,Cortes Maxx,Cabernet franc,4,0,0
+CS231,Crptonyx,Cabernet Sauv,11,0,31
+CS232,Crptonyx,Cabernet Sauv,11,0,2
+CS233,Crptonyx,Cabernet Sauv,11,0,0
+CS234,Crptonyx,Cabernet Sauv,11,0,0
+CS235,Crptonyx,Cabernet Sauv,11,0,0
+CS236,Crptonyx,Cabernet Sauv,11,0,0
+CS237,Crptonyx,Cabernet Sauv,11,0,0
+CS238,Crptonyx,Cabernet Sauv,11,0,0
+CS239,Crptonyx,Cabernet Sauv,11,0,0
+CS2310,Crptonyx,Cabernet Sauv,11,0,0
+CS2311,Crptonyx,Cabernet Sauv,11,0,0
+CS2312,Crptonyx,Cabernet Sauv,11,0,0
+CS2313,Crptonyx,Cabernet Sauv,11,0,0
+CS2314,Crptonyx,Cabernet Sauv,11,0,0
+CS2315,Crptonyx,Cabernet Sauv,11,0,0
+CS2316,Crptonyx,Cabernet Sauv,11,0,1
+CS2317,Crptonyx,Cabernet Sauv,11,0,0
+CS281,Crptonyx,Cabernet Sauv,11,0,44
+CS282,Crptonyx,Cabernet Sauv,11,0,2
+CS283,Crptonyx,Cabernet Sauv,11,0,1
+CS284,Crptonyx,Cabernet Sauv,11,0,1
+CS285,Crptonyx,Cabernet Sauv,11,0,0
+CS286,Crptonyx,Cabernet Sauv,11,0,0
+CS287,Crptonyx,Cabernet Sauv,11,0,0
+CS288,Crptonyx,Cabernet Sauv,11,0,0
+CS289,Crptonyx,Cabernet Sauv,11,0,0
+CS2810,Crptonyx,Cabernet Sauv,11,0,0
+CS2811,Crptonyx,Cabernet Sauv,11,0,1
+CS2812,Crptonyx,Cabernet Sauv,11,0,0
+CS2813,Crptonyx,Cabernet Sauv,11,0,0
+CS2814,Crptonyx,Cabernet Sauv,11,0,0
+CS2815,Crptonyx,Cabernet Sauv,11,0,0
+CS2816,Crptonyx,Cabernet Sauv,11,0,0
+CS2817,Crptonyx,Cabernet Sauv,11,0,0
+CS331,Crptonyx,Cabernet Sauv,11,0,0
+CS332,Crptonyx,Cabernet Sauv,11,0,3
+CS333,Crptonyx,Cabernet Sauv,11,0,1
+CS334,Crptonyx,Cabernet Sauv,11,0,0
+CS335,Crptonyx,Cabernet Sauv,11,0,0
+CS336,Crptonyx,Cabernet Sauv,11,0,0
+CS337,Crptonyx,Cabernet Sauv,11,0,0
+CS338,Crptonyx,Cabernet Sauv,11,0,0
+CS339,Crptonyx,Cabernet Sauv,11,0,1
+CS3310,Crptonyx,Cabernet Sauv,11,0,0
+CS3311,Crptonyx,Cabernet Sauv,11,0,0
+CS3312,Crptonyx,Cabernet Sauv,11,0,0
+CS3313,Crptonyx,Cabernet Sauv,11,0,0
+CS3314,Crptonyx,Cabernet Sauv,11,0,0
+CS371,Crptonyx,Cabernet Sauv,11,1,58
+CS372,Crptonyx,Cabernet Sauv,11,0,15
+CS373,Crptonyx,Cabernet Sauv,11,0,2
+CS374,Crptonyx,Cabernet Sauv,11,0,1
+CS375,Crptonyx,Cabernet Sauv,11,0,1
+CS376,Crptonyx,Cabernet Sauv,11,0,0
+CS377,Crptonyx,Cabernet Sauv,11,0,0
+CS378,Crptonyx,Cabernet Sauv,11,0,1
+CS379,Crptonyx,Cabernet Sauv,11,0,1
+CS3710,Crptonyx,Cabernet Sauv,11,0,0
+CS3711,Crptonyx,Cabernet Sauv,11,0,0
+CS3712,Crptonyx,Cabernet Sauv,11,0,0
+CS3713,Crptonyx,Cabernet Sauv,11,0,0
+CS3714,Crptonyx,Cabernet Sauv,11,0,0
+CS3715,Crptonyx,Cabernet Sauv,11,0,0
+CS3716,Crptonyx,Cabernet Sauv,11,0,0
+CS3717,Crptonyx,Cabernet Sauv,11,0,0
+CS421,Crptonyx,Cabernet Sauv,11,1,41
+CS422,Crptonyx,Cabernet Sauv,11,0,7
+CS423,Crptonyx,Cabernet Sauv,11,0,2
+CS424,Crptonyx,Cabernet Sauv,11,0,1
+CS425,Crptonyx,Cabernet Sauv,11,0,0
+CS426,Crptonyx,Cabernet Sauv,11,0,0
+CS427,Crptonyx,Cabernet Sauv,11,0,0
+CS428,Crptonyx,Cabernet Sauv,11,0,0
+CS429,Crptonyx,Cabernet Sauv,11,0,0
+CS4210,Crptonyx,Cabernet Sauv,11,0,1
+CS4211,Crptonyx,Cabernet Sauv,11,0,0
+CS4212,Crptonyx,Cabernet Sauv,11,0,0
+CS4213,Crptonyx,Cabernet Sauv,11,0,0
+CS4214,Crptonyx,Cabernet Sauv,11,0,0
+CS4215,Crptonyx,Cabernet Sauv,11,0,0
+CS4216,Crptonyx,Cabernet Sauv,11,0,0
+CS4217,Crptonyx,Cabernet Sauv,11,0,1
+M431,Cortes Maxx,Merlot,4,15,14
+M432,Cortes Maxx,Merlot,4,4,3
+M433,Cortes Maxx,Merlot,4,0,2
+M434,Cortes Maxx,Merlot,4,0,6
+M435,Cortes Maxx,Merlot,4,0,1
+M436,Cortes Maxx,Merlot,4,0,0
+M437,Cortes Maxx,Merlot,4,0,0
+M438,Cortes Maxx,Merlot,4,0,0
+M439,Cortes Maxx,Merlot,4,0,0
+M4310,Cortes Maxx,Merlot,4,0,0
+M4311,Cortes Maxx,Merlot,4,0,0
+M4312,Cortes Maxx,Merlot,4,0,0
+M4313,Cortes Maxx,Merlot,4,0,0
+M4314,Cortes Maxx,Merlot,4,0,0
+M4315,Cortes Maxx,Merlot,4,0,0
+M4316,Cortes Maxx,Merlot,4,0,0
+M4317,Cortes Maxx,Merlot,4,0,1
+M481,Cortes Maxx,Merlot,4,64,35
+M482,Cortes Maxx,Merlot,4,29,5
+M483,Cortes Maxx,Merlot,4,1,3
+M484,Cortes Maxx,Merlot,4,0,0
+M485,Cortes Maxx,Merlot,4,0,3
+M486,Cortes Maxx,Merlot,4,0,0
+M487,Cortes Maxx,Merlot,4,0,0
+M488,Cortes Maxx,Merlot,4,0,0
+M489,Cortes Maxx,Merlot,4,0,1
+M4810,Cortes Maxx,Merlot,4,0,0
+M4811,Cortes Maxx,Merlot,4,0,0
+M4812,Cortes Maxx,Merlot,4,0,0
+M4813,Cortes Maxx,Merlot,4,0,0
+M4814,Cortes Maxx,Merlot,4,0,0
+M4815,Cortes Maxx,Merlot,4,0,0
+M4816,Cortes Maxx,Merlot,4,0,0
+M4817,Cortes Maxx,Merlot,4,0,0
+M531,Cortes Maxx,Merlot,4,38,52
+M532,Cortes Maxx,Merlot,4,2,12
+M533,Cortes Maxx,Merlot,4,4,2
+M534,Cortes Maxx,Merlot,4,0,8
+M535,Cortes Maxx,Merlot,4,4,6
+M536,Cortes Maxx,Merlot,4,0,0
+M537,Cortes Maxx,Merlot,4,0,0
+M538,Cortes Maxx,Merlot,4,0,0
+M539,Cortes Maxx,Merlot,4,0,0
+M5310,Cortes Maxx,Merlot,4,0,0
+M5311,Cortes Maxx,Merlot,4,0,0
+M5312,Cortes Maxx,Merlot,4,0,0
+M5313,Cortes Maxx,Merlot,4,0,0
+M5314,Cortes Maxx,Merlot,4,0,0
+M5315,Cortes Maxx,Merlot,4,0,2
+M5316,Cortes Maxx,Merlot,4,0,1
+M5317,Cortes Maxx,Merlot,4,,
+M571,Cortes Maxx,Merlot,4,27,15
+M572,Cortes Maxx,Merlot,4,9,7
+M573,Cortes Maxx,Merlot,4,1,9
+M574,Cortes Maxx,Merlot,4,0,0
+M575,Cortes Maxx,Merlot,4,0,1
+M576,Cortes Maxx,Merlot,4,0,0
+M577,Cortes Maxx,Merlot,4,0,1
+M578,Cortes Maxx,Merlot,4,0,1
+M579,Cortes Maxx,Merlot,4,0,0
+M5710,Cortes Maxx,Merlot,4,0,0
+M5711,Cortes Maxx,Merlot,4,0,0
+M5712,Cortes Maxx,Merlot,4,0,0
+M5713,Cortes Maxx,Merlot,4,0,0
+M5714,Cortes Maxx,Merlot,4,0,0
+M5715,Cortes Maxx,Merlot,4,0,0
+M5716,Cortes Maxx,Merlot,4,0,1
+M621,Cortes Maxx,Merlot,4,28,24
+M622,Cortes Maxx,Merlot,4,0,0
+M623,Cortes Maxx,Merlot,4,0,0
+M624,Cortes Maxx,Merlot,4,3,0
+M625,Cortes Maxx,Merlot,4,2,0
+M626,Cortes Maxx,Merlot,4,0,0
+M627,Cortes Maxx,Merlot,4,0,1
+M628,Cortes Maxx,Merlot,4,0,0
+M629,Cortes Maxx,Merlot,4,0,0
+M6210,Cortes Maxx,Merlot,4,0,0
+M6211,Cortes Maxx,Merlot,4,0,0
+M6212,Cortes Maxx,Merlot,4,0,0
+M6213,Cortes Maxx,Merlot,4,0,0
+M6214,Cortes Maxx,Merlot,4,0,0
+M6215,Cortes Maxx,Merlot,4,0,0
+M6216,Cortes Maxx,Merlot,4,0,1
+C631,Bridage 2EC,Chardonnay,10,1,19
+C632,Bridage 2EC,Chardonnay,10,1,10
+C633,Bridage 2EC,Chardonnay,10,0,11
+C634,Bridage 2EC,Chardonnay,10,0,2
+C635,Bridage 2EC,Chardonnay,10,0,0
+C636,Bridage 2EC,Chardonnay,10,0,0
+C637,Bridage 2EC,Chardonnay,10,0,0
+C638,Bridage 2EC,Chardonnay,10,0,0
+C639,Bridage 2EC,Chardonnay,10,0,0
+C6310,Bridage 2EC,Chardonnay,10,0,1
+C6311,Bridage 2EC,Chardonnay,10,0,0
+C6312,Bridage 2EC,Chardonnay,10,0,0
+C6313,Bridage 2EC,Chardonnay,10,0,0
+C6314,Bridage 2EC,Chardonnay,10,0,0
+C6315,Bridage 2EC,Chardonnay,10,0,4
+C6316,Bridage 2EC,Chardonnay,10,0,0
+C681,Bridage 2EC,Chardonnay,10,2,35
+C682,Bridage 2EC,Chardonnay,10,0,25
+C683,Bridage 2EC,Chardonnay,10,0,8
+C684,Bridage 2EC,Chardonnay,10,0,4
+C685,Bridage 2EC,Chardonnay,10,0,1
+C686,Bridage 2EC,Chardonnay,10,0,1
+C687,Bridage 2EC,Chardonnay,10,0,1
+C688,Bridage 2EC,Chardonnay,10,0,2
+C689,Bridage 2EC,Chardonnay,10,0,1
+C6910,Bridage 2EC,Chardonnay,10,0,1
+C6911,Bridage 2EC,Chardonnay,10,0,0
+C6912,Bridage 2EC,Chardonnay,10,0,1
+C6913,Bridage 2EC,Chardonnay,10,0,0
+C6914,Bridage 2EC,Chardonnay,10,0,0
+C6915,Bridage 2EC,Chardonnay,10,0,0
+C6916,Bridage 2EC,Chardonnay,10,0,0
+C731,Bridage 2EC,Chardonnay,10,0,25
+C732,Bridage 2EC,Chardonnay,10,0,10
+C733,Bridage 2EC,Chardonnay,10,0,25
+C734,Bridage 2EC,Chardonnay,10,0,7
+C735,Bridage 2EC,Chardonnay,10,0,3
+C736,Bridage 2EC,Chardonnay,10,0,1
+C737,Bridage 2EC,Chardonnay,10,0,4
+C738,Bridage 2EC,Chardonnay,10,0,0
+C739,Bridage 2EC,Chardonnay,10,0,2
+C7310,Bridage 2EC,Chardonnay,10,0,1
+C7311,Bridage 2EC,Chardonnay,10,0,0
+C7312,Bridage 2EC,Chardonnay,10,0,0
+C7313,Bridage 2EC,Chardonnay,10,0,0
+C7314,Bridage 2EC,Chardonnay,10,0,0
+C7315,Bridage 2EC,Chardonnay,10,0,0
+C7316,Bridage 2EC,Chardonnay,10,0,1
+C781,Bridage 2EC,Chardonnay,10,0,11
+C782,Bridage 2EC,Chardonnay,10,0,12
+C783,Bridage 2EC,Chardonnay,10,0,3
+C784,Bridage 2EC,Chardonnay,10,0,3
+C785,Bridage 2EC,Chardonnay,10,0,1
+C786,Bridage 2EC,Chardonnay,10,0,2
+C787,Bridage 2EC,Chardonnay,10,0,2
+C788,Bridage 2EC,Chardonnay,10,0,0
+C789,Bridage 2EC,Chardonnay,10,0,0
+C7810,Bridage 2EC,Chardonnay,10,0,0
+C7811,Bridage 2EC,Chardonnay,10,0,0
+C7812,Bridage 2EC,Chardonnay,10,0,1
+C7813,Bridage 2EC,Chardonnay,10,0,1
+C7814,Bridage 2EC,Chardonnay,10,0,1
+C841,Bridage 2EC,Chardonnay,10,0,57
+C842,Bridage 2EC,Chardonnay,10,0,30
+C843,Bridage 2EC,Chardonnay,10,0,27
+C844,Bridage 2EC,Chardonnay,10,0,12
+C845,Bridage 2EC,Chardonnay,10,0,10
+C846,Bridage 2EC,Chardonnay,10,0,7
+C847,Bridage 2EC,Chardonnay,10,0,14
+C848,Bridage 2EC,Chardonnay,10,1,3
+C849,Bridage 2EC,Chardonnay,10,0,2
+C8410,Bridage 2EC,Chardonnay,10,0,15
+C8411,Bridage 2EC,Chardonnay,10,0,6
+C8412,Bridage 2EC,Chardonnay,10,0,4
+C8413,Bridage 2EC,Chardonnay,10,0,3
+C8414,Bridage 2EC,Chardonnay,10,0,1
+CF11,Bridage 2EC,Cabernet franc,0,1,1
+CF12,Bridage 2EC,Cabernet franc,0,1,1
+CF13,Bridage 2EC,Cabernet franc,0,0,0
+CF14,Bridage 2EC,Cabernet franc,0,3,3
+CF15,Bridage 2EC,Cabernet franc,0,1,1
+CF16,Bridage 2EC,Cabernet franc,0,0,0
+CF17,Bridage 2EC,Cabernet franc,0,0,0
+CF18,Bridage 2EC,Cabernet franc,0,3,3
+CF19,Bridage 2EC,Cabernet franc,0,2,2
+CF110,Bridage 2EC,Cabernet franc,0,0,0
+CF111,Bridage 2EC,Cabernet franc,0,4,4
+CF112,Bridage 2EC,Cabernet franc,0,0,0
+CF113,Bridage 2EC,Cabernet franc,0,0,0
+CF114,Bridage 2EC,Cabernet franc,0,0,0
+CF115,Bridage 2EC,Cabernet franc,0,2,2
+CF116,Bridage 2EC,Cabernet franc,0,7,7
+CF117,Bridage 2EC,Cabernet franc,0,10,10
+CF61,Bridage 2EC,Cabernet franc,0,4,4
+CF62,Bridage 2EC,Cabernet franc,0,0,0
+CF63,Bridage 2EC,Cabernet franc,0,0,0
+CF64,Bridage 2EC,Cabernet franc,0,0,0
+CF65,Bridage 2EC,Cabernet franc,0,0,0
+CF66,Bridage 2EC,Cabernet franc,0,0,0
+CF67,Bridage 2EC,Cabernet franc,0,0,0
+CF68,Bridage 2EC,Cabernet franc,0,0,0
+CF69,Bridage 2EC,Cabernet franc,0,0,0
+CF610,Bridage 2EC,Cabernet franc,0,0,0
+CF611,Bridage 2EC,Cabernet franc,0,0,0
+CF612,Bridage 2EC,Cabernet franc,0,0,0
+CF613,Bridage 2EC,Cabernet franc,0,0,0
+CF614,Bridage 2EC,Cabernet franc,0,1,1
+CF615,Bridage 2EC,Cabernet franc,0,1,1
+CF616,Bridage 2EC,Cabernet franc,0,0,0
+CF617,Bridage 2EC,Cabernet franc,0,3,3
+CF121,Bridage 2EC,Cabernet franc,0,3,3
+CF122,Bridage 2EC,Cabernet franc,0,0,0
+CF123,Bridage 2EC,Cabernet franc,0,0,0
+CF124,Bridage 2EC,Cabernet franc,0,0,0
+CF125,Bridage 2EC,Cabernet franc,0,0,0
+CF126,Bridage 2EC,Cabernet franc,0,1,1
+CF127,Bridage 2EC,Cabernet franc,0,0,0
+CF128,Bridage 2EC,Cabernet franc,0,0,0
+CF129,Bridage 2EC,Cabernet franc,0,0,0
+CF1210,Bridage 2EC,Cabernet franc,0,0,0
+CF1211,Bridage 2EC,Cabernet franc,0,0,0
+CF1212,Bridage 2EC,Cabernet franc,0,1,1
+CF1213,Bridage 2EC,Cabernet franc,0,0,0
+CF1214,Bridage 2EC,Cabernet franc,0,0,0
+CF1215,Bridage 2EC,Cabernet franc,0,2,2
+CF1216,Bridage 2EC,Cabernet franc,0,0,0
+CF1217,Bridage 2EC,Cabernet franc,0,0,0
+CF171,Bridage 2EC,Cabernet franc,0,15,15
+CF172,Bridage 2EC,Cabernet franc,0,5,5
+CF173,Bridage 2EC,Cabernet franc,0,0,0
+CF174,Bridage 2EC,Cabernet franc,0,0,0
+CF175,Bridage 2EC,Cabernet franc,0,0,0
+CF176,Bridage 2EC,Cabernet franc,0,0,0
+CF177,Bridage 2EC,Cabernet franc,0,0,0
+CF178,Bridage 2EC,Cabernet franc,0,0,0
+CF179,Bridage 2EC,Cabernet franc,0,0,0
+CF1710,Bridage 2EC,Cabernet franc,0,0,0
+CF1711,Bridage 2EC,Cabernet franc,0,0,0
+CF1712,Bridage 2EC,Cabernet franc,0,0,0
+CF1713,Bridage 2EC,Cabernet franc,0,0,0
+CF1714,Bridage 2EC,Cabernet franc,0,0,0
+CF1715,Bridage 2EC,Cabernet franc,0,0,0
+CF1716,Bridage 2EC,Cabernet franc,0,0,0
+CF1717,Bridage 2EC,Cabernet franc,0,1,1
+CF1718,Bridage 2EC,Cabernet franc,0,0,0
+CF221,Bridage 2EC,Cabernet franc,0,9,9
+CF222,Bridage 2EC,Cabernet franc,0,0,0
+CF223,Bridage 2EC,Cabernet franc,0,0,0
+CF224,Bridage 2EC,Cabernet franc,0,0,0
+CF225,Bridage 2EC,Cabernet franc,0,0,0
+CF226,Bridage 2EC,Cabernet franc,0,0,0
+CF227,Bridage 2EC,Cabernet franc,0,0,0
+CF228,Bridage 2EC,Cabernet franc,0,0,0
+CF229,Bridage 2EC,Cabernet franc,0,0,0
+CF2210,Bridage 2EC,Cabernet franc,0,1,1
+CF2211,Bridage 2EC,Cabernet franc,0,0,0
+CF2212,Bridage 2EC,Cabernet franc,0,0,0
+CF2213,Bridage 2EC,Cabernet franc,0,0,0
+CF2214,Bridage 2EC,Cabernet franc,0,0,0
+CF2215,Bridage 2EC,Cabernet franc,0,0,0
+CF2216,Bridage 2EC,Cabernet franc,0,1,1
+CF2217,Bridage 2EC,Cabernet franc,0,0,0
+CS231,Crptonyx,Cabernet Sauv,14,0,31
+CS232,Crptonyx,Cabernet Sauv,14,0,2
+CS233,Crptonyx,Cabernet Sauv,14,0,0
+CS234,Crptonyx,Cabernet Sauv,14,0,0
+CS235,Crptonyx,Cabernet Sauv,14,1,0
+CS236,Crptonyx,Cabernet Sauv,14,0,0
+CS237,Crptonyx,Cabernet Sauv,14,0,0
+CS238,Crptonyx,Cabernet Sauv,14,0,0
+CS239,Crptonyx,Cabernet Sauv,14,0,0
+CS2310,Crptonyx,Cabernet Sauv,14,0,0
+CS2311,Crptonyx,Cabernet Sauv,14,0,0
+CS2312,Crptonyx,Cabernet Sauv,14,0,0
+CS2313,Crptonyx,Cabernet Sauv,14,0,0
+CS2314,Crptonyx,Cabernet Sauv,14,0,0
+CS2315,Crptonyx,Cabernet Sauv,14,0,0
+CS2316,Crptonyx,Cabernet Sauv,14,0,1
+CS2317,Crptonyx,Cabernet Sauv,14,0,0
+CS281,Crptonyx,Cabernet Sauv,14,0,44
+CS282,Crptonyx,Cabernet Sauv,14,0,2
+CS283,Crptonyx,Cabernet Sauv,14,0,1
+CS284,Crptonyx,Cabernet Sauv,14,0,1
+CS285,Crptonyx,Cabernet Sauv,14,0,0
+CS286,Crptonyx,Cabernet Sauv,14,0,0
+CS287,Crptonyx,Cabernet Sauv,14,0,0
+CS288,Crptonyx,Cabernet Sauv,14,0,0
+CS289,Crptonyx,Cabernet Sauv,14,0,0
+CS2810,Crptonyx,Cabernet Sauv,14,0,0
+CS2811,Crptonyx,Cabernet Sauv,14,0,1
+CS2812,Crptonyx,Cabernet Sauv,14,0,0
+CS2813,Crptonyx,Cabernet Sauv,14,0,0
+CS2814,Crptonyx,Cabernet Sauv,14,0,0
+CS2815,Crptonyx,Cabernet Sauv,14,0,0
+CS2816,Crptonyx,Cabernet Sauv,14,0,0
+CS2817,Crptonyx,Cabernet Sauv,14,0,0
+CS331,Crptonyx,Cabernet Sauv,14,0,0
+CS332,Crptonyx,Cabernet Sauv,14,0,3
+CS333,Crptonyx,Cabernet Sauv,14,0,1
+CS334,Crptonyx,Cabernet Sauv,14,0,0
+CS335,Crptonyx,Cabernet Sauv,14,0,0
+CS336,Crptonyx,Cabernet Sauv,14,0,0
+CS337,Crptonyx,Cabernet Sauv,14,0,0
+CS338,Crptonyx,Cabernet Sauv,14,0,0
+CS339,Crptonyx,Cabernet Sauv,14,0,1
+CS3310,Crptonyx,Cabernet Sauv,14,0,0
+CS3311,Crptonyx,Cabernet Sauv,14,0,0
+CS3312,Crptonyx,Cabernet Sauv,14,0,0
+CS3313,Crptonyx,Cabernet Sauv,14,0,0
+CS3314,Crptonyx,Cabernet Sauv,14,0,0
+CS371,Crptonyx,Cabernet Sauv,14,1,58
+CS372,Crptonyx,Cabernet Sauv,14,0,15
+CS373,Crptonyx,Cabernet Sauv,14,0,2
+CS374,Crptonyx,Cabernet Sauv,14,0,1
+CS375,Crptonyx,Cabernet Sauv,14,0,1
+CS376,Crptonyx,Cabernet Sauv,14,0,0
+CS377,Crptonyx,Cabernet Sauv,14,0,0
+CS378,Crptonyx,Cabernet Sauv,14,0,1
+CS379,Crptonyx,Cabernet Sauv,14,0,1
+CS3710,Crptonyx,Cabernet Sauv,14,0,0
+CS3711,Crptonyx,Cabernet Sauv,14,0,0
+CS3712,Crptonyx,Cabernet Sauv,14,0,0
+CS3713,Crptonyx,Cabernet Sauv,14,0,0
+CS3714,Crptonyx,Cabernet Sauv,14,0,0
+CS3715,Crptonyx,Cabernet Sauv,14,1,0
+CS3716,Crptonyx,Cabernet Sauv,14,0,0
+CS3717,Crptonyx,Cabernet Sauv,14,0,0
+CS421,Crptonyx,Cabernet Sauv,14,0,41
+CS422,Crptonyx,Cabernet Sauv,14,0,7
+CS423,Crptonyx,Cabernet Sauv,14,0,2
+CS424,Crptonyx,Cabernet Sauv,14,0,1
+CS425,Crptonyx,Cabernet Sauv,14,0,0
+CS426,Crptonyx,Cabernet Sauv,14,0,0
+CS427,Crptonyx,Cabernet Sauv,14,0,0
+CS428,Crptonyx,Cabernet Sauv,14,0,0
+CS429,Crptonyx,Cabernet Sauv,14,0,0
+CS4210,Crptonyx,Cabernet Sauv,14,0,1
+CS4211,Crptonyx,Cabernet Sauv,14,0,0
+CS4212,Crptonyx,Cabernet Sauv,14,0,0
+CS4213,Crptonyx,Cabernet Sauv,14,0,0
+CS4214,Crptonyx,Cabernet Sauv,14,0,0
+CS4215,Crptonyx,Cabernet Sauv,14,0,0
+CS4216,Crptonyx,Cabernet Sauv,14,0,0
+CS4217,Crptonyx,Cabernet Sauv,14,0,1
+M431,Bridage 2EC,Merlot,0,15,15
+M432,Bridage 2EC,Merlot,0,4,4
+M433,Bridage 2EC,Merlot,0,0,0
+M434,Bridage 2EC,Merlot,0,0,0
+M435,Bridage 2EC,Merlot,0,0,0
+M436,Bridage 2EC,Merlot,0,0,0
+M437,Bridage 2EC,Merlot,0,0,0
+M438,Bridage 2EC,Merlot,0,0,0
+M439,Bridage 2EC,Merlot,0,0,0
+M4310,Bridage 2EC,Merlot,0,0,0
+M4311,Bridage 2EC,Merlot,0,0,0
+M4312,Bridage 2EC,Merlot,0,0,0
+M4313,Bridage 2EC,Merlot,0,0,0
+M4314,Bridage 2EC,Merlot,0,0,0
+M4315,Bridage 2EC,Merlot,0,0,0
+M4316,Bridage 2EC,Merlot,0,0,0
+M4317,Bridage 2EC,Merlot,0,0,0
+M481,Bridage 2EC,Merlot,0,64,64
+M482,Bridage 2EC,Merlot,0,29,29
+M483,Bridage 2EC,Merlot,0,1,1
+M484,Bridage 2EC,Merlot,0,0,0
+M485,Bridage 2EC,Merlot,0,0,0
+M486,Bridage 2EC,Merlot,0,0,0
+M487,Bridage 2EC,Merlot,0,0,0
+M488,Bridage 2EC,Merlot,0,0,0
+M489,Bridage 2EC,Merlot,0,0,0
+M4810,Bridage 2EC,Merlot,0,0,0
+M4811,Bridage 2EC,Merlot,0,0,0
+M4812,Bridage 2EC,Merlot,0,0,0
+M4813,Bridage 2EC,Merlot,0,0,0
+M4814,Bridage 2EC,Merlot,0,0,0
+M4815,Bridage 2EC,Merlot,0,0,0
+M4816,Bridage 2EC,Merlot,0,0,0
+M4817,Bridage 2EC,Merlot,0,0,0
+M531,Bridage 2EC,Merlot,0,38,38
+M532,Bridage 2EC,Merlot,0,2,2
+M533,Bridage 2EC,Merlot,0,4,4
+M534,Bridage 2EC,Merlot,0,0,0
+M535,Bridage 2EC,Merlot,0,4,4
+M536,Bridage 2EC,Merlot,0,0,0
+M537,Bridage 2EC,Merlot,0,0,0
+M538,Bridage 2EC,Merlot,0,0,0
+M539,Bridage 2EC,Merlot,0,0,0
+M5310,Bridage 2EC,Merlot,0,0,0
+M5311,Bridage 2EC,Merlot,0,0,0
+M5312,Bridage 2EC,Merlot,0,0,0
+M5313,Bridage 2EC,Merlot,0,0,0
+M5314,Bridage 2EC,Merlot,0,0,0
+M5315,Bridage 2EC,Merlot,0,0,0
+M5316,Bridage 2EC,Merlot,0,0,0
+M5317,Bridage 2EC,Merlot,0,,
+M571,Bridage 2EC,Merlot,0,27,27
+M572,Bridage 2EC,Merlot,0,9,9
+M573,Bridage 2EC,Merlot,0,1,1
+M574,Bridage 2EC,Merlot,0,0,0
+M575,Bridage 2EC,Merlot,0,0,0
+M576,Bridage 2EC,Merlot,0,0,0
+M577,Bridage 2EC,Merlot,0,0,0
+M578,Bridage 2EC,Merlot,0,0,0
+M579,Bridage 2EC,Merlot,0,0,0
+M5710,Bridage 2EC,Merlot,0,0,0
+M5711,Bridage 2EC,Merlot,0,0,0
+M5712,Bridage 2EC,Merlot,0,0,0
+M5713,Bridage 2EC,Merlot,0,0,0
+M5714,Bridage 2EC,Merlot,0,0,0
+M5715,Bridage 2EC,Merlot,0,0,0
+M5716,Bridage 2EC,Merlot,0,0,0
+M621,Bridage 2EC,Merlot,0,28,28
+M622,Bridage 2EC,Merlot,0,0,0
+M623,Bridage 2EC,Merlot,0,0,0
+M624,Bridage 2EC,Merlot,0,3,3
+M625,Bridage 2EC,Merlot,0,2,2
+M626,Bridage 2EC,Merlot,0,0,0
+M627,Bridage 2EC,Merlot,0,0,0
+M628,Bridage 2EC,Merlot,0,0,0
+M629,Bridage 2EC,Merlot,0,0,0
+M6210,Bridage 2EC,Merlot,0,0,0
+M6211,Bridage 2EC,Merlot,0,0,0
+M6212,Bridage 2EC,Merlot,0,0,0
+M6213,Bridage 2EC,Merlot,0,0,0
+M6214,Bridage 2EC,Merlot,0,0,0
+M6215,Bridage 2EC,Merlot,0,0,0
+M6216,Bridage 2EC,Merlot,0,0,0
+C631,Bridage 2EC,Chardonnay,13,2,19
+C632,Bridage 2EC,Chardonnay,13,0,10
+C633,Bridage 2EC,Chardonnay,13,0,11
+C634,Bridage 2EC,Chardonnay,13,0,2
+C635,Bridage 2EC,Chardonnay,13,0,0
+C636,Bridage 2EC,Chardonnay,13,0,0
+C637,Bridage 2EC,Chardonnay,13,0,0
+C638,Bridage 2EC,Chardonnay,13,0,0
+C639,Bridage 2EC,Chardonnay,13,0,0
+C6310,Bridage 2EC,Chardonnay,13,0,1
+C6311,Bridage 2EC,Chardonnay,13,0,0
+C6312,Bridage 2EC,Chardonnay,13,0,0
+C6313,Bridage 2EC,Chardonnay,13,0,0
+C6314,Bridage 2EC,Chardonnay,13,0,0
+C6315,Bridage 2EC,Chardonnay,13,0,4
+C6316,Bridage 2EC,Chardonnay,13,0,0
+C681,Bridage 2EC,Chardonnay,13,1,35
+C682,Bridage 2EC,Chardonnay,13,0,25
+C683,Bridage 2EC,Chardonnay,13,0,8
+C684,Bridage 2EC,Chardonnay,13,0,4
+C685,Bridage 2EC,Chardonnay,13,0,1
+C686,Bridage 2EC,Chardonnay,13,0,1
+C687,Bridage 2EC,Chardonnay,13,0,1
+C688,Bridage 2EC,Chardonnay,13,0,2
+C689,Bridage 2EC,Chardonnay,13,0,1
+C6910,Bridage 2EC,Chardonnay,13,0,1
+C6911,Bridage 2EC,Chardonnay,13,0,0
+C6912,Bridage 2EC,Chardonnay,13,0,1
+C6913,Bridage 2EC,Chardonnay,13,0,0
+C6914,Bridage 2EC,Chardonnay,13,0,0
+C6915,Bridage 2EC,Chardonnay,13,0,0
+C6916,Bridage 2EC,Chardonnay,13,0,0
+C731,Bridage 2EC,Chardonnay,13,0,25
+C732,Bridage 2EC,Chardonnay,13,0,10
+C733,Bridage 2EC,Chardonnay,13,0,25
+C734,Bridage 2EC,Chardonnay,13,0,7
+C735,Bridage 2EC,Chardonnay,13,0,3
+C736,Bridage 2EC,Chardonnay,13,0,1
+C737,Bridage 2EC,Chardonnay,13,0,4
+C738,Bridage 2EC,Chardonnay,13,0,0
+C739,Bridage 2EC,Chardonnay,13,0,2
+C7310,Bridage 2EC,Chardonnay,13,0,1
+C7311,Bridage 2EC,Chardonnay,13,1,0
+C7312,Bridage 2EC,Chardonnay,13,0,0
+C7313,Bridage 2EC,Chardonnay,13,0,0
+C7314,Bridage 2EC,Chardonnay,13,0,0
+C7315,Bridage 2EC,Chardonnay,13,0,0
+C7316,Bridage 2EC,Chardonnay,13,0,1
+C781,Bridage 2EC,Chardonnay,13,0,11
+C782,Bridage 2EC,Chardonnay,13,0,12
+C783,Bridage 2EC,Chardonnay,13,0,3
+C784,Bridage 2EC,Chardonnay,13,0,3
+C785,Bridage 2EC,Chardonnay,13,0,1
+C786,Bridage 2EC,Chardonnay,13,0,2
+C787,Bridage 2EC,Chardonnay,13,0,2
+C788,Bridage 2EC,Chardonnay,13,0,0
+C789,Bridage 2EC,Chardonnay,13,0,0
+C7810,Bridage 2EC,Chardonnay,13,0,0
+C7811,Bridage 2EC,Chardonnay,13,0,0
+C7812,Bridage 2EC,Chardonnay,13,0,1
+C7813,Bridage 2EC,Chardonnay,13,0,1
+C7814,Bridage 2EC,Chardonnay,13,0,1
+C841,Bridage 2EC,Chardonnay,13,2,57
+C842,Bridage 2EC,Chardonnay,13,1,30
+C843,Bridage 2EC,Chardonnay,13,1,27
+C844,Bridage 2EC,Chardonnay,13,0,12
+C845,Bridage 2EC,Chardonnay,13,1,10
+C846,Bridage 2EC,Chardonnay,13,0,7
+C847,Bridage 2EC,Chardonnay,13,0,14
+C848,Bridage 2EC,Chardonnay,13,0,3
+C849,Bridage 2EC,Chardonnay,13,0,2
+C8410,Bridage 2EC,Chardonnay,13,0,15
+C8411,Bridage 2EC,Chardonnay,13,1,6
+C8412,Bridage 2EC,Chardonnay,13,0,4
+C8413,Bridage 2EC,Chardonnay,13,0,3
+C8414,Bridage 2EC,Chardonnay,13,0,1
+CF11,Bridage 2EC,Cabernet franc,1,1,1
+CF12,Bridage 2EC,Cabernet franc,1,0,1
+CF13,Bridage 2EC,Cabernet franc,1,0,0
+CF14,Bridage 2EC,Cabernet franc,1,0,3
+CF15,Bridage 2EC,Cabernet franc,1,0,1
+CF16,Bridage 2EC,Cabernet franc,1,0,0
+CF17,Bridage 2EC,Cabernet franc,1,0,0
+CF18,Bridage 2EC,Cabernet franc,1,0,3
+CF19,Bridage 2EC,Cabernet franc,1,0,2
+CF110,Bridage 2EC,Cabernet franc,1,0,0
+CF111,Bridage 2EC,Cabernet franc,1,0,4
+CF112,Bridage 2EC,Cabernet franc,1,0,0
+CF113,Bridage 2EC,Cabernet franc,1,0,0
+CF114,Bridage 2EC,Cabernet franc,1,0,0
+CF115,Bridage 2EC,Cabernet franc,1,0,2
+CF116,Bridage 2EC,Cabernet franc,1,0,7
+CF117,Bridage 2EC,Cabernet franc,1,1,10
+CF61,Bridage 2EC,Cabernet franc,1,0,4
+CF62,Bridage 2EC,Cabernet franc,1,0,0
+CF63,Bridage 2EC,Cabernet franc,1,0,0
+CF64,Bridage 2EC,Cabernet franc,1,0,0
+CF65,Bridage 2EC,Cabernet franc,1,0,0
+CF66,Bridage 2EC,Cabernet franc,1,0,0
+CF67,Bridage 2EC,Cabernet franc,1,0,0
+CF68,Bridage 2EC,Cabernet franc,1,0,0
+CF69,Bridage 2EC,Cabernet franc,1,0,0
+CF610,Bridage 2EC,Cabernet franc,1,0,0
+CF611,Bridage 2EC,Cabernet franc,1,0,0
+CF612,Bridage 2EC,Cabernet franc,1,0,0
+CF613,Bridage 2EC,Cabernet franc,1,0,0
+CF614,Bridage 2EC,Cabernet franc,1,0,1
+CF615,Bridage 2EC,Cabernet franc,1,0,1
+CF616,Bridage 2EC,Cabernet franc,1,0,0
+CF617,Bridage 2EC,Cabernet franc,1,0,3
+CF121,Bridage 2EC,Cabernet franc,1,0,3
+CF122,Bridage 2EC,Cabernet franc,1,0,0
+CF123,Bridage 2EC,Cabernet franc,1,0,0
+CF124,Bridage 2EC,Cabernet franc,1,0,0
+CF125,Bridage 2EC,Cabernet franc,1,0,0
+CF126,Bridage 2EC,Cabernet franc,1,0,1
+CF127,Bridage 2EC,Cabernet franc,1,0,0
+CF128,Bridage 2EC,Cabernet franc,1,0,0
+CF129,Bridage 2EC,Cabernet franc,1,0,0
+CF1210,Bridage 2EC,Cabernet franc,1,0,0
+CF1211,Bridage 2EC,Cabernet franc,1,0,0
+CF1212,Bridage 2EC,Cabernet franc,1,0,1
+CF1213,Bridage 2EC,Cabernet franc,1,0,0
+CF1214,Bridage 2EC,Cabernet franc,1,0,0
+CF1215,Bridage 2EC,Cabernet franc,1,0,2
+CF1216,Bridage 2EC,Cabernet franc,1,0,0
+CF1217,Bridage 2EC,Cabernet franc,1,0,0
+CF171,Bridage 2EC,Cabernet franc,1,0,15
+CF172,Bridage 2EC,Cabernet franc,1,0,5
+CF173,Bridage 2EC,Cabernet franc,1,0,0
+CF174,Bridage 2EC,Cabernet franc,1,0,0
+CF175,Bridage 2EC,Cabernet franc,1,0,0
+CF176,Bridage 2EC,Cabernet franc,1,0,0
+CF177,Bridage 2EC,Cabernet franc,1,0,0
+CF178,Bridage 2EC,Cabernet franc,1,0,0
+CF179,Bridage 2EC,Cabernet franc,1,0,0
+CF1710,Bridage 2EC,Cabernet franc,1,0,0
+CF1711,Bridage 2EC,Cabernet franc,1,0,0
+CF1712,Bridage 2EC,Cabernet franc,1,0,0
+CF1713,Bridage 2EC,Cabernet franc,1,0,0
+CF1714,Bridage 2EC,Cabernet franc,1,0,0
+CF1715,Bridage 2EC,Cabernet franc,1,0,0
+CF1716,Bridage 2EC,Cabernet franc,1,0,0
+CF1717,Bridage 2EC,Cabernet franc,1,0,1
+CF1718,Bridage 2EC,Cabernet franc,1,0,0
+CF221,Bridage 2EC,Cabernet franc,1,0,9
+CF222,Bridage 2EC,Cabernet franc,1,0,0
+CF223,Bridage 2EC,Cabernet franc,1,0,0
+CF224,Bridage 2EC,Cabernet franc,1,0,0
+CF225,Bridage 2EC,Cabernet franc,1,0,0
+CF226,Bridage 2EC,Cabernet franc,1,0,0
+CF227,Bridage 2EC,Cabernet franc,1,0,0
+CF228,Bridage 2EC,Cabernet franc,1,0,0
+CF229,Bridage 2EC,Cabernet franc,1,0,0
+CF2210,Bridage 2EC,Cabernet franc,1,0,1
+CF2211,Bridage 2EC,Cabernet franc,1,0,0
+CF2212,Bridage 2EC,Cabernet franc,1,0,0
+CF2213,Bridage 2EC,Cabernet franc,1,0,0
+CF2214,Bridage 2EC,Cabernet franc,1,0,0
+CF2215,Bridage 2EC,Cabernet franc,1,0,0
+CF2216,Bridage 2EC,Cabernet franc,1,0,1
+CF2217,Bridage 2EC,Cabernet franc,1,0,0
+CS231,Crptonyx,Cabernet Sauv,17,2,31
+CS232,Crptonyx,Cabernet Sauv,17,0,2
+CS233,Crptonyx,Cabernet Sauv,17,0,0
+CS234,Crptonyx,Cabernet Sauv,17,0,0
+CS235,Crptonyx,Cabernet Sauv,17,0,0
+CS236,Crptonyx,Cabernet Sauv,17,0,0
+CS237,Crptonyx,Cabernet Sauv,17,0,0
+CS238,Crptonyx,Cabernet Sauv,17,0,0
+CS239,Crptonyx,Cabernet Sauv,17,0,0
+CS2310,Crptonyx,Cabernet Sauv,17,0,0
+CS2311,Crptonyx,Cabernet Sauv,17,0,0
+CS2312,Crptonyx,Cabernet Sauv,17,0,0
+CS2313,Crptonyx,Cabernet Sauv,17,0,0
+CS2314,Crptonyx,Cabernet Sauv,17,0,0
+CS2315,Crptonyx,Cabernet Sauv,17,0,0
+CS2316,Crptonyx,Cabernet Sauv,17,0,1
+CS2317,Crptonyx,Cabernet Sauv,17,0,0
+CS281,Crptonyx,Cabernet Sauv,17,0,44
+CS282,Crptonyx,Cabernet Sauv,17,0,2
+CS283,Crptonyx,Cabernet Sauv,17,0,1
+CS284,Crptonyx,Cabernet Sauv,17,0,1
+CS285,Crptonyx,Cabernet Sauv,17,0,0
+CS286,Crptonyx,Cabernet Sauv,17,0,0
+CS287,Crptonyx,Cabernet Sauv,17,0,0
+CS288,Crptonyx,Cabernet Sauv,17,0,0
+CS289,Crptonyx,Cabernet Sauv,17,0,0
+CS2810,Crptonyx,Cabernet Sauv,17,0,0
+CS2811,Crptonyx,Cabernet Sauv,17,0,1
+CS2812,Crptonyx,Cabernet Sauv,17,0,0
+CS2813,Crptonyx,Cabernet Sauv,17,0,0
+CS2814,Crptonyx,Cabernet Sauv,17,0,0
+CS2815,Crptonyx,Cabernet Sauv,17,0,0
+CS2816,Crptonyx,Cabernet Sauv,17,0,0
+CS2817,Crptonyx,Cabernet Sauv,17,0,0
+CS331,Crptonyx,Cabernet Sauv,17,0,0
+CS332,Crptonyx,Cabernet Sauv,17,0,3
+CS333,Crptonyx,Cabernet Sauv,17,0,1
+CS334,Crptonyx,Cabernet Sauv,17,0,0
+CS335,Crptonyx,Cabernet Sauv,17,0,0
+CS336,Crptonyx,Cabernet Sauv,17,0,0
+CS337,Crptonyx,Cabernet Sauv,17,0,0
+CS338,Crptonyx,Cabernet Sauv,17,0,0
+CS339,Crptonyx,Cabernet Sauv,17,0,1
+CS3310,Crptonyx,Cabernet Sauv,17,0,0
+CS3311,Crptonyx,Cabernet Sauv,17,0,0
+CS3312,Crptonyx,Cabernet Sauv,17,0,0
+CS3313,Crptonyx,Cabernet Sauv,17,0,0
+CS3314,Crptonyx,Cabernet Sauv,17,0,0
+CS371,Crptonyx,Cabernet Sauv,17,1,58
+CS372,Crptonyx,Cabernet Sauv,17,0,15
+CS373,Crptonyx,Cabernet Sauv,17,0,2
+CS374,Crptonyx,Cabernet Sauv,17,0,1
+CS375,Crptonyx,Cabernet Sauv,17,0,1
+CS376,Crptonyx,Cabernet Sauv,17,0,0
+CS377,Crptonyx,Cabernet Sauv,17,0,0
+CS378,Crptonyx,Cabernet Sauv,17,0,1
+CS379,Crptonyx,Cabernet Sauv,17,0,1
+CS3710,Crptonyx,Cabernet Sauv,17,0,0
+CS3711,Crptonyx,Cabernet Sauv,17,0,0
+CS3712,Crptonyx,Cabernet Sauv,17,0,0
+CS3713,Crptonyx,Cabernet Sauv,17,0,0
+CS3714,Crptonyx,Cabernet Sauv,17,0,0
+CS3715,Crptonyx,Cabernet Sauv,17,1,0
+CS3716,Crptonyx,Cabernet Sauv,17,0,0
+CS3717,Crptonyx,Cabernet Sauv,17,0,0
+CS421,Crptonyx,Cabernet Sauv,17,0,41
+CS422,Crptonyx,Cabernet Sauv,17,0,7
+CS423,Crptonyx,Cabernet Sauv,17,0,2
+CS424,Crptonyx,Cabernet Sauv,17,0,1
+CS425,Crptonyx,Cabernet Sauv,17,0,0
+CS426,Crptonyx,Cabernet Sauv,17,0,0
+CS427,Crptonyx,Cabernet Sauv,17,0,0
+CS428,Crptonyx,Cabernet Sauv,17,0,0
+CS429,Crptonyx,Cabernet Sauv,17,0,0
+CS4210,Crptonyx,Cabernet Sauv,17,0,1
+CS4211,Crptonyx,Cabernet Sauv,17,0,0
+CS4212,Crptonyx,Cabernet Sauv,17,0,0
+CS4213,Crptonyx,Cabernet Sauv,17,0,0
+CS4214,Crptonyx,Cabernet Sauv,17,0,0
+CS4215,Crptonyx,Cabernet Sauv,17,0,0
+CS4216,Crptonyx,Cabernet Sauv,17,0,0
+CS4217,Crptonyx,Cabernet Sauv,17,0,1
+M431,Bridage 2EC,Merlot,1,0,15
+M432,Bridage 2EC,Merlot,1,1,4
+M433,Bridage 2EC,Merlot,1,0,0
+M434,Bridage 2EC,Merlot,1,0,0
+M435,Bridage 2EC,Merlot,1,0,0
+M436,Bridage 2EC,Merlot,1,0,0
+M437,Bridage 2EC,Merlot,1,0,0
+M438,Bridage 2EC,Merlot,1,0,0
+M439,Bridage 2EC,Merlot,1,0,0
+M4310,Bridage 2EC,Merlot,1,0,0
+M4311,Bridage 2EC,Merlot,1,0,0
+M4312,Bridage 2EC,Merlot,1,0,0
+M4313,Bridage 2EC,Merlot,1,0,0
+M4314,Bridage 2EC,Merlot,1,0,0
+M4315,Bridage 2EC,Merlot,1,0,0
+M4316,Bridage 2EC,Merlot,1,0,0
+M4317,Bridage 2EC,Merlot,1,0,0
+M481,Bridage 2EC,Merlot,1,0,64
+M482,Bridage 2EC,Merlot,1,0,29
+M483,Bridage 2EC,Merlot,1,0,1
+M484,Bridage 2EC,Merlot,1,0,0
+M485,Bridage 2EC,Merlot,1,0,0
+M486,Bridage 2EC,Merlot,1,0,0
+M487,Bridage 2EC,Merlot,1,0,0
+M488,Bridage 2EC,Merlot,1,0,0
+M489,Bridage 2EC,Merlot,1,0,0
+M4810,Bridage 2EC,Merlot,1,0,0
+M4811,Bridage 2EC,Merlot,1,0,0
+M4812,Bridage 2EC,Merlot,1,0,0
+M4813,Bridage 2EC,Merlot,1,0,0
+M4814,Bridage 2EC,Merlot,1,0,0
+M4815,Bridage 2EC,Merlot,1,0,0
+M4816,Bridage 2EC,Merlot,1,0,0
+M4817,Bridage 2EC,Merlot,1,0,0
+M531,Bridage 2EC,Merlot,1,0,38
+M532,Bridage 2EC,Merlot,1,0,2
+M533,Bridage 2EC,Merlot,1,0,4
+M534,Bridage 2EC,Merlot,1,0,0
+M535,Bridage 2EC,Merlot,1,0,4
+M536,Bridage 2EC,Merlot,1,0,0
+M537,Bridage 2EC,Merlot,1,0,0
+M538,Bridage 2EC,Merlot,1,0,0
+M539,Bridage 2EC,Merlot,1,0,0
+M5310,Bridage 2EC,Merlot,1,0,0
+M5311,Bridage 2EC,Merlot,1,0,0
+M5312,Bridage 2EC,Merlot,1,0,0
+M5313,Bridage 2EC,Merlot,1,0,0
+M5314,Bridage 2EC,Merlot,1,0,0
+M5315,Bridage 2EC,Merlot,1,0,0
+M5316,Bridage 2EC,Merlot,1,0,0
+M5317,Bridage 2EC,Merlot,1,,
+M571,Bridage 2EC,Merlot,1,0,27
+M572,Bridage 2EC,Merlot,1,0,9
+M573,Bridage 2EC,Merlot,1,0,1
+M574,Bridage 2EC,Merlot,1,0,0
+M575,Bridage 2EC,Merlot,1,0,0
+M576,Bridage 2EC,Merlot,1,0,0
+M577,Bridage 2EC,Merlot,1,0,0
+M578,Bridage 2EC,Merlot,1,0,0
+M579,Bridage 2EC,Merlot,1,0,0
+M5710,Bridage 2EC,Merlot,1,0,0
+M5711,Bridage 2EC,Merlot,1,0,0
+M5712,Bridage 2EC,Merlot,1,0,0
+M5713,Bridage 2EC,Merlot,1,0,0
+M5714,Bridage 2EC,Merlot,1,0,0
+M5715,Bridage 2EC,Merlot,1,0,0
+M5716,Bridage 2EC,Merlot,1,0,0
+M621,Bridage 2EC,Merlot,1,1,28
+M622,Bridage 2EC,Merlot,1,0,0
+M623,Bridage 2EC,Merlot,1,0,0
+M624,Bridage 2EC,Merlot,1,0,3
+M625,Bridage 2EC,Merlot,1,0,2
+M626,Bridage 2EC,Merlot,1,0,0
+M627,Bridage 2EC,Merlot,1,0,0
+M628,Bridage 2EC,Merlot,1,0,0
+M629,Bridage 2EC,Merlot,1,0,0
+M6210,Bridage 2EC,Merlot,1,0,0
+M6211,Bridage 2EC,Merlot,1,0,0
+M6212,Bridage 2EC,Merlot,1,0,0
+M6213,Bridage 2EC,Merlot,1,0,0
+M6214,Bridage 2EC,Merlot,1,0,0
+M6215,Bridage 2EC,Merlot,1,0,0
+M6216,Bridage 2EC,Merlot,1,0,0
+C631,Bridage 2EC,Chardonnay,16,0,19
+C632,Bridage 2EC,Chardonnay,16,0,10
+C633,Bridage 2EC,Chardonnay,16,0,11
+C634,Bridage 2EC,Chardonnay,16,0,2
+C635,Bridage 2EC,Chardonnay,16,0,0
+C636,Bridage 2EC,Chardonnay,16,0,0
+C637,Bridage 2EC,Chardonnay,16,0,0
+C638,Bridage 2EC,Chardonnay,16,0,0
+C639,Bridage 2EC,Chardonnay,16,0,0
+C6310,Bridage 2EC,Chardonnay,16,0,1
+C6311,Bridage 2EC,Chardonnay,16,0,0
+C6312,Bridage 2EC,Chardonnay,16,0,0
+C6313,Bridage 2EC,Chardonnay,16,0,0
+C6314,Bridage 2EC,Chardonnay,16,0,0
+C6315,Bridage 2EC,Chardonnay,16,0,4
+C6316,Bridage 2EC,Chardonnay,16,0,0
+C681,Bridage 2EC,Chardonnay,16,0,35
+C682,Bridage 2EC,Chardonnay,16,0,25
+C683,Bridage 2EC,Chardonnay,16,0,8
+C684,Bridage 2EC,Chardonnay,16,0,4
+C685,Bridage 2EC,Chardonnay,16,0,1
+C686,Bridage 2EC,Chardonnay,16,0,1
+C687,Bridage 2EC,Chardonnay,16,0,1
+C688,Bridage 2EC,Chardonnay,16,0,2
+C689,Bridage 2EC,Chardonnay,16,0,1
+C6910,Bridage 2EC,Chardonnay,16,0,1
+C6911,Bridage 2EC,Chardonnay,16,0,0
+C6912,Bridage 2EC,Chardonnay,16,0,1
+C6913,Bridage 2EC,Chardonnay,16,0,0
+C6914,Bridage 2EC,Chardonnay,16,0,0
+C6915,Bridage 2EC,Chardonnay,16,0,0
+C6916,Bridage 2EC,Chardonnay,16,0,0
+C731,Bridage 2EC,Chardonnay,16,0,25
+C732,Bridage 2EC,Chardonnay,16,0,10
+C733,Bridage 2EC,Chardonnay,16,0,25
+C734,Bridage 2EC,Chardonnay,16,1,7
+C735,Bridage 2EC,Chardonnay,16,0,3
+C736,Bridage 2EC,Chardonnay,16,0,1
+C737,Bridage 2EC,Chardonnay,16,0,4
+C738,Bridage 2EC,Chardonnay,16,0,0
+C739,Bridage 2EC,Chardonnay,16,0,2
+C7310,Bridage 2EC,Chardonnay,16,0,1
+C7311,Bridage 2EC,Chardonnay,16,0,0
+C7312,Bridage 2EC,Chardonnay,16,0,0
+C7313,Bridage 2EC,Chardonnay,16,0,0
+C7314,Bridage 2EC,Chardonnay,16,0,0
+C7315,Bridage 2EC,Chardonnay,16,0,0
+C7316,Bridage 2EC,Chardonnay,16,0,1
+C781,Bridage 2EC,Chardonnay,16,0,11
+C782,Bridage 2EC,Chardonnay,16,0,12
+C783,Bridage 2EC,Chardonnay,16,1,3
+C784,Bridage 2EC,Chardonnay,16,0,3
+C785,Bridage 2EC,Chardonnay,16,0,1
+C786,Bridage 2EC,Chardonnay,16,0,2
+C787,Bridage 2EC,Chardonnay,16,0,2
+C788,Bridage 2EC,Chardonnay,16,0,0
+C789,Bridage 2EC,Chardonnay,16,0,0
+C7810,Bridage 2EC,Chardonnay,16,0,0
+C7811,Bridage 2EC,Chardonnay,16,0,0
+C7812,Bridage 2EC,Chardonnay,16,0,1
+C7813,Bridage 2EC,Chardonnay,16,0,1
+C7814,Bridage 2EC,Chardonnay,16,0,1
+C841,Bridage 2EC,Chardonnay,16,0,57
+C842,Bridage 2EC,Chardonnay,16,0,30
+C843,Bridage 2EC,Chardonnay,16,1,27
+C844,Bridage 2EC,Chardonnay,16,1,12
+C845,Bridage 2EC,Chardonnay,16,0,10
+C846,Bridage 2EC,Chardonnay,16,0,7
+C847,Bridage 2EC,Chardonnay,16,0,14
+C848,Bridage 2EC,Chardonnay,16,0,3
+C849,Bridage 2EC,Chardonnay,16,0,2
+C8410,Bridage 2EC,Chardonnay,16,0,15
+C8411,Bridage 2EC,Chardonnay,16,0,6
+C8412,Bridage 2EC,Chardonnay,16,0,4
+C8413,Bridage 2EC,Chardonnay,16,0,3
+C8414,Bridage 2EC,Chardonnay,16,0,1
+CF11,Bridage 2EC,Cabernet franc,4,0,1
+CF12,Bridage 2EC,Cabernet franc,4,0,1
+CF13,Bridage 2EC,Cabernet franc,4,0,0
+CF14,Bridage 2EC,Cabernet franc,4,0,3
+CF15,Bridage 2EC,Cabernet franc,4,0,1
+CF16,Bridage 2EC,Cabernet franc,4,0,0
+CF17,Bridage 2EC,Cabernet franc,4,0,0
+CF18,Bridage 2EC,Cabernet franc,4,0,3
+CF19,Bridage 2EC,Cabernet franc,4,0,2
+CF110,Bridage 2EC,Cabernet franc,4,0,0
+CF111,Bridage 2EC,Cabernet franc,4,0,4
+CF112,Bridage 2EC,Cabernet franc,4,0,0
+CF113,Bridage 2EC,Cabernet franc,4,0,0
+CF114,Bridage 2EC,Cabernet franc,4,0,0
+CF115,Bridage 2EC,Cabernet franc,4,0,2
+CF116,Bridage 2EC,Cabernet franc,4,0,7
+CF117,Bridage 2EC,Cabernet franc,4,0,10
+CF61,Bridage 2EC,Cabernet franc,4,0,4
+CF62,Bridage 2EC,Cabernet franc,4,0,0
+CF63,Bridage 2EC,Cabernet franc,4,0,0
+CF64,Bridage 2EC,Cabernet franc,4,0,0
+CF65,Bridage 2EC,Cabernet franc,4,0,0
+CF66,Bridage 2EC,Cabernet franc,4,0,0
+CF67,Bridage 2EC,Cabernet franc,4,0,0
+CF68,Bridage 2EC,Cabernet franc,4,0,0
+CF69,Bridage 2EC,Cabernet franc,4,0,0
+CF610,Bridage 2EC,Cabernet franc,4,0,0
+CF611,Bridage 2EC,Cabernet franc,4,0,0
+CF612,Bridage 2EC,Cabernet franc,4,0,0
+CF613,Bridage 2EC,Cabernet franc,4,0,0
+CF614,Bridage 2EC,Cabernet franc,4,0,1
+CF615,Bridage 2EC,Cabernet franc,4,0,1
+CF616,Bridage 2EC,Cabernet franc,4,0,0
+CF617,Bridage 2EC,Cabernet franc,4,0,3
+CF121,Bridage 2EC,Cabernet franc,4,0,3
+CF122,Bridage 2EC,Cabernet franc,4,0,0
+CF123,Bridage 2EC,Cabernet franc,4,0,0
+CF124,Bridage 2EC,Cabernet franc,4,0,0
+CF125,Bridage 2EC,Cabernet franc,4,0,0
+CF126,Bridage 2EC,Cabernet franc,4,0,1
+CF127,Bridage 2EC,Cabernet franc,4,0,0
+CF128,Bridage 2EC,Cabernet franc,4,0,0
+CF129,Bridage 2EC,Cabernet franc,4,0,0
+CF1210,Bridage 2EC,Cabernet franc,4,0,0
+CF1211,Bridage 2EC,Cabernet franc,4,0,0
+CF1212,Bridage 2EC,Cabernet franc,4,0,1
+CF1213,Bridage 2EC,Cabernet franc,4,0,0
+CF1214,Bridage 2EC,Cabernet franc,4,0,0
+CF1215,Bridage 2EC,Cabernet franc,4,0,2
+CF1216,Bridage 2EC,Cabernet franc,4,0,0
+CF1217,Bridage 2EC,Cabernet franc,4,0,0
+CF171,Bridage 2EC,Cabernet franc,4,0,15
+CF172,Bridage 2EC,Cabernet franc,4,0,5
+CF173,Bridage 2EC,Cabernet franc,4,0,0
+CF174,Bridage 2EC,Cabernet franc,4,0,0
+CF175,Bridage 2EC,Cabernet franc,4,0,0
+CF176,Bridage 2EC,Cabernet franc,4,0,0
+CF177,Bridage 2EC,Cabernet franc,4,0,0
+CF178,Bridage 2EC,Cabernet franc,4,0,0
+CF179,Bridage 2EC,Cabernet franc,4,0,0
+CF1710,Bridage 2EC,Cabernet franc,4,0,0
+CF1711,Bridage 2EC,Cabernet franc,4,0,0
+CF1712,Bridage 2EC,Cabernet franc,4,0,0
+CF1713,Bridage 2EC,Cabernet franc,4,0,0
+CF1714,Bridage 2EC,Cabernet franc,4,0,0
+CF1715,Bridage 2EC,Cabernet franc,4,0,0
+CF1716,Bridage 2EC,Cabernet franc,4,0,0
+CF1717,Bridage 2EC,Cabernet franc,4,0,1
+CF1718,Bridage 2EC,Cabernet franc,4,0,0
+CF221,Bridage 2EC,Cabernet franc,4,0,9
+CF222,Bridage 2EC,Cabernet franc,4,0,0
+CF223,Bridage 2EC,Cabernet franc,4,0,0
+CF224,Bridage 2EC,Cabernet franc,4,0,0
+CF225,Bridage 2EC,Cabernet franc,4,0,0
+CF226,Bridage 2EC,Cabernet franc,4,0,0
+CF227,Bridage 2EC,Cabernet franc,4,0,0
+CF228,Bridage 2EC,Cabernet franc,4,0,0
+CF229,Bridage 2EC,Cabernet franc,4,0,0
+CF2210,Bridage 2EC,Cabernet franc,4,0,1
+CF2211,Bridage 2EC,Cabernet franc,4,0,0
+CF2212,Bridage 2EC,Cabernet franc,4,0,0
+CF2213,Bridage 2EC,Cabernet franc,4,0,0
+CF2214,Bridage 2EC,Cabernet franc,4,0,0
+CF2215,Bridage 2EC,Cabernet franc,4,0,0
+CF2216,Bridage 2EC,Cabernet franc,4,0,1
+CF2217,Bridage 2EC,Cabernet franc,4,0,0
+M431,Bridage 2EC,Merlot,4,0,15
+M432,Bridage 2EC,Merlot,4,0,4
+M433,Bridage 2EC,Merlot,4,0,0
+M434,Bridage 2EC,Merlot,4,0,0
+M435,Bridage 2EC,Merlot,4,0,0
+M436,Bridage 2EC,Merlot,4,0,0
+M437,Bridage 2EC,Merlot,4,0,0
+M438,Bridage 2EC,Merlot,4,0,0
+M439,Bridage 2EC,Merlot,4,0,0
+M4310,Bridage 2EC,Merlot,4,0,0
+M4311,Bridage 2EC,Merlot,4,0,0
+M4312,Bridage 2EC,Merlot,4,0,0
+M4313,Bridage 2EC,Merlot,4,0,0
+M4314,Bridage 2EC,Merlot,4,0,0
+M4315,Bridage 2EC,Merlot,4,0,0
+M4316,Bridage 2EC,Merlot,4,0,0
+M4317,Bridage 2EC,Merlot,4,0,0
+M481,Bridage 2EC,Merlot,4,0,64
+M482,Bridage 2EC,Merlot,4,0,29
+M483,Bridage 2EC,Merlot,4,0,1
+M484,Bridage 2EC,Merlot,4,0,0
+M485,Bridage 2EC,Merlot,4,0,0
+M486,Bridage 2EC,Merlot,4,0,0
+M487,Bridage 2EC,Merlot,4,0,0
+M488,Bridage 2EC,Merlot,4,0,0
+M489,Bridage 2EC,Merlot,4,0,0
+M4810,Bridage 2EC,Merlot,4,0,0
+M4811,Bridage 2EC,Merlot,4,0,0
+M4812,Bridage 2EC,Merlot,4,0,0
+M4813,Bridage 2EC,Merlot,4,0,0
+M4814,Bridage 2EC,Merlot,4,0,0
+M4815,Bridage 2EC,Merlot,4,0,0
+M4816,Bridage 2EC,Merlot,4,0,0
+M4817,Bridage 2EC,Merlot,4,0,0
+M531,Bridage 2EC,Merlot,4,0,38
+M532,Bridage 2EC,Merlot,4,0,2
+M533,Bridage 2EC,Merlot,4,0,4
+M534,Bridage 2EC,Merlot,4,0,0
+M535,Bridage 2EC,Merlot,4,0,4
+M536,Bridage 2EC,Merlot,4,0,0
+M537,Bridage 2EC,Merlot,4,0,0
+M538,Bridage 2EC,Merlot,4,0,0
+M539,Bridage 2EC,Merlot,4,0,0
+M5310,Bridage 2EC,Merlot,4,0,0
+M5311,Bridage 2EC,Merlot,4,0,0
+M5312,Bridage 2EC,Merlot,4,0,0
+M5313,Bridage 2EC,Merlot,4,0,0
+M5314,Bridage 2EC,Merlot,4,0,0
+M5315,Bridage 2EC,Merlot,4,0,0
+M5316,Bridage 2EC,Merlot,4,0,0
+M5317,Bridage 2EC,Merlot,4,0,
+M571,Bridage 2EC,Merlot,4,0,27
+M572,Bridage 2EC,Merlot,4,0,9
+M573,Bridage 2EC,Merlot,4,0,1
+M574,Bridage 2EC,Merlot,4,0,0
+M575,Bridage 2EC,Merlot,4,0,0
+M576,Bridage 2EC,Merlot,4,0,0
+M577,Bridage 2EC,Merlot,4,0,0
+M578,Bridage 2EC,Merlot,4,0,0
+M579,Bridage 2EC,Merlot,4,0,0
+M5710,Bridage 2EC,Merlot,4,0,0
+M5711,Bridage 2EC,Merlot,4,0,0
+M5712,Bridage 2EC,Merlot,4,0,0
+M5713,Bridage 2EC,Merlot,4,0,0
+M5714,Bridage 2EC,Merlot,4,0,0
+M5715,Bridage 2EC,Merlot,4,0,0
+M5716,Bridage 2EC,Merlot,4,0,0
+M621,Bridage 2EC,Merlot,4,0,28
+M622,Bridage 2EC,Merlot,4,0,0
+M623,Bridage 2EC,Merlot,4,0,0
+M624,Bridage 2EC,Merlot,4,0,3
+M625,Bridage 2EC,Merlot,4,0,2
+M626,Bridage 2EC,Merlot,4,0,0
+M627,Bridage 2EC,Merlot,4,0,0
+M628,Bridage 2EC,Merlot,4,0,0
+M629,Bridage 2EC,Merlot,4,0,0
+M6210,Bridage 2EC,Merlot,4,0,0
+M6211,Bridage 2EC,Merlot,4,0,0
+M6212,Bridage 2EC,Merlot,4,0,0
+M6213,Bridage 2EC,Merlot,4,0,0
+M6214,Bridage 2EC,Merlot,4,0,0
+M6215,Bridage 2EC,Merlot,4,0,0
+M6216,Bridage 2EC,Merlot,4,0,0
